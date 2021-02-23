@@ -1,0 +1,1198 @@
+game_date,home_team,away_team,period,game_seconds,time_since_pass,home_team_skaters,away_team_skaters,home_team_goals,away_team_goals,team,event,passer,pass_type,pass_x,pass_y,rec_x,rec_y,shooter,shot_x,shot_y,shot_type,shot_outcome,shot_traffic,shot_onetimer
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,53,1,5,5,0,0,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,168,10,161,14,Nina Rodgers,167,18,Snapshot,Missed,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,86,2,5,5,0,0,Boston Pride,Shot,Jillian Dempsey,Direct,135,52,168,74,McKenna Brand,175,68,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,190,0,5,5,0,0,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,199,53,180,48,Haylea Schmid,181,43,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,222,1,5,5,0,0,Boston Pride,Shot,Samantha Davis,Direct,197,22,160,10,Lauren Kelly,163,10,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,244,4,5,5,0,0,Boston Pride,Shot,Paige Capistran,Indirect,30,4,98,3,Jillian Dempsey,149,19,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,316,2,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,131,18,147,10,Lexie Laing,162,28,Snapshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,338,3,5,5,0,0,Boston Pride,Shot,Meaghan Rickard,Direct,76,18,112,16,Carlee Turner,143,17,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,412,2,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,144,14,137,57,Jenna Rheault,139,53,Slapshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,463,3,4,5,0,0,Boston Pride,Shot,Taylor Turnquist,Indirect,152,84,139,79,Christina Putigna,166,32,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,526,0,4,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,139,69,135,36,Kaleigh Fratkin,135,36,Slapshot,On Net,TRUE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,554,0,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,161,37,184,50,Lexie Laing,184,50,Snapshot,On Net,FALSE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,625,2,4,5,0,0,Boston Pride,Shot,Taylor Turnquist,Direct,133,56,149,13,Lauren Kelly,150,15,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,702,1,4,5,0,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,161,80,157,29,Sydney Baldwin,169,27,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,838,0,5,5,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,162,23,145,44,Mallory Souliotis,145,44,Fan,Missed,TRUE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,846,3,5,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Indirect,135,74,174,73,Samantha Davis,164,44,Fan,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,924,2,5,5,1,1,Boston Pride,Shot,Meaghan Rickard,Direct,137,20,146,29,Meghara McManus,159,41,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,962,1,4,5,1,1,Boston Pride,Shot,McKenna Brand,Direct,134,30,138,79,Taylor Turnquist,155,79,Snapshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,973,2,4,5,1,1,Boston Pride,Shot,Taylor Turnquist,Direct,159,69,138,47,McKenna Brand,147,45,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,1,1034,2,4,5,1,1,Boston Pride,Shot,Samantha Davis,Direct,161,75,129,38,Kaleigh Fratkin,136,31,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1205,2,5,5,1,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,103,71,119,70,McKenna Brand,163,65,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1218,0,5,5,1,1,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,191,19,173,16,Haley Mack,173,16,Snapshot,On Net,TRUE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1279,2,5,5,1,1,Minnesota Whitecaps,Shot,Haylea Schmid,Direct,118,79,129,64,Allie Thunstrom,170,60,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1302,1,5,5,1,1,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,151,13,150,36,Haylea Schmid,155,39,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1311,4,5,5,1,1,Boston Pride,Shot,Samantha Davis,Direct,61,78,101,13,Mary Parker,170,11,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1326,5,5,5,1,1,Minnesota Whitecaps,Shot,Audra Richards,Direct,56,69,86,76,Jonna Curtis,164,68,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1357,1,5,5,1,1,Boston Pride,Shot,Jenna Rheault,Direct,132,61,140,79,Meghara McManus,156,71,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1404,1,5,5,1,1,Boston Pride,Shot,Meaghan Rickard,Direct,191,27,146,29,Mallory Souliotis,146,29,Slapshot,Blocked,TRUE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1444,1,5,5,1,1,Minnesota Whitecaps,Shot,Chelsey Brodt-Rosenthal,Direct,169,61,176,46,Meghan Lorence,176,46,Deflection,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1452,0,5,5,1,1,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,198,54,163,43,Emma Stauber,163,43,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1479,1,4,5,1,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,135,76,135,22,Mallory Souliotis,139,26,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1499,4,4,5,1,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,47,39,86,74,Mallory Souliotis,161,74,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1540,1,4,5,1,1,Boston Pride,Shot,McKenna Brand,Direct,188,71,130,76,Kaleigh Fratkin,129,69,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1551,1,4,5,1,1,Boston Pride,Shot,Christina Putigna,Direct,152,57,180,62,McKenna Brand,180,62,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1560,3,4,5,1,1,Boston Pride,Shot,McKenna Brand,Direct,193,63,167,74,Christina Putigna,157,48,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1572,0,4,5,1,1,Boston Pride,Shot,Christina Putigna,Direct,167,56,183,60,Jillian Dempsey,183,60,Snapshot,On Net,FALSE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1646,2,5,5,1,1,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,106,80,108,48,Haylea Schmid,139,55,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1667,1,5,5,1,1,Boston Pride,Shot,Lexie Laing,Direct,173,2,129,10,Paige Capistran,128,21,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1687,1,5,5,1,1,Boston Pride,Shot,Mary Parker,Direct,157,82,131,79,Jenna Rheault,130,67,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1798,2,5,5,1,1,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,95,27,122,74,Meghan Lorence,154,70,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1823,1,5,5,1,1,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,150,64,160,79,Haley Mack,167,61,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1850,5,5,5,1,1,Minnesota Whitecaps,Shot,Nina Rodgers,Indirect,35,6,88,80,Allie Thunstrom,172,70,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1872,4,5,5,1,1,Minnesota Whitecaps,Shot,Haylea Schmid,Indirect,159,2,176,3,Nina Rodgers,160,27,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1916,1,5,5,1,1,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,158,47,182,42,Audra Richards,184,46,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1930,1,5,5,2,1,Boston Pride,Shot,Paige Capistran,Direct,145,1,182,26,Samantha Davis,182,26,Deflection,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,1982,4,5,5,2,1,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,119,40,125,68,Meghan Lorence,164,59,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,2015,3,5,5,2,1,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,173,80,189,75,Sydney Baldwin,159,53,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,2090,3,5,5,2,1,Boston Pride,Shot,Samantha Davis,Indirect,136,6,161,14,Taylor Wenczkowski,182,17,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,2120,1,5,5,2,1,Boston Pride,Shot,Samantha Davis,Direct,170,1,127,6,Lauren Kelly,128,25,Slapshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,2203,1,4,5,2,1,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,164,16,171,51,Stephanie Anderson,171,51,Snapshot,On Net,FALSE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,2211,4,4,5,2,1,Boston Pride,Shot,McKenna Brand,Indirect,46,80,114,67,Jillian Dempsey,165,60,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,2361,1,5,4,2,1,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,165,73,168,12,Nina Rodgers,168,12,Fan,Missed,FALSE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,2,2367,1,5,4,2,1,Minnesota Whitecaps,Shot,Haley Mack,Direct,197,29,168,53,Meghan Lorence,168,53,Snapshot,On Net,FALSE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2446,2,5,4,2,1,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,164,81,125,49,Sydney Baldwin,128,35,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2462,4,5,5,2,1,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,33,58,113,81,Jonna Curtis,161,65,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2538,4,5,5,2,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,55,35,100,73,Mallory Souliotis,173,69,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2583,2,5,5,2,1,Boston Pride,Shot,Lauren Kelly,Direct,114,1,132,15,Taylor Wenczkowski,169,33,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2597,0,5,5,2,1,Boston Pride,Shot,Carlee Turner,Direct,185,6,167,26,Meghara McManus,169,27,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2621,0,5,5,2,1,Minnesota Whitecaps,Shot,Jonna Curtis,Indirect,143,50,145,48,Allie Thunstrom,145,48,Snapshot,Missed,TRUE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2721,6,5,5,2,1,Boston Pride,Shot,McKenna Brand,Indirect,45,5,123,4,Jillian Dempsey,166,19,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2750,1,5,5,2,1,Boston Pride,Shot,Tereza Vanisova,Direct,155,9,153,40,Taylor Wenczkowski,164,42,Snapshot,Missed,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2837,1,5,5,2,1,Minnesota Whitecaps,Shot,Haley Mack,Direct,182,77,127,75,Maddie Rowe,127,75,Slapshot,Missed,TRUE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2855,2,5,5,2,1,Boston Pride,Shot,Carlee Turner,Direct,100,60,111,73,Meghara McManus,156,68,Slapshot,Blocked,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,2862,1,5,5,2,1,Boston Pride,Shot,Meghara McManus,Direct,192,34,176,41,Meaghan Rickard,176,41,Snapshot,Missed,FALSE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3026,1,5,4,2,1,Minnesota Whitecaps,Shot,Audra Richards,Direct,151,49,170,61,Haley Mack,179,46,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3046,1,5,4,2,1,Boston Pride,Shot,Meghara McManus,Direct,163,57,164,35,Carlee Turner,172,34,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3087,2,5,4,2,1,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,154,36,140,34,Sydney Baldwin,156,43,Snapshot,Blocked,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3111,0,5,5,2,1,Boston Pride,Shot,Samantha Davis,Direct,187,61,171,57,Jenna Rheault,171,57,Fan,Missed,FALSE,TRUE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3196,2,5,4,2,1,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,195,59,136,35,Sydney Baldwin,150,40,Snapshot,Missed,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3229,1,5,4,2,1,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,193,16,170,10,Meaghan Pezon,172,20,Snapshot,Missed,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3245,1,5,4,2,1,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,194,31,182,44,Allie Thunstrom,182,44,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3260,3,5,4,2,1,Minnesota Whitecaps,Shot,Meaghan Pezon,Direct,152,7,136,61,Maddie Rowe,129,67,Snapshot,Missed,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3387,4,5,5,2,1,Boston Pride,Shot,Mallory Souliotis,Direct,76,9,110,69,Mary Parker,159,63,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3437,1,5,5,2,1,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,130,6,138,32,Nina Rodgers,151,39,Snapshot,Blocked,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3489,7,4,5,2,1,Boston Pride,Shot,Lauren Kelly,Direct,139,68,144,25,Taylor Turnquist,141,18,Slapshot,Blocked,FALSE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3528,2,4,5,2,1,Boston Pride,Shot,Taylor Turnquist,Direct,129,58,143,81,McKenna Brand,158,67,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Minnesota Whitecaps,Boston Pride,3,3594,3,4,6,2,1,Boston Pride,Shot,Samantha Davis,Direct,181,82,131,73,Kaleigh Fratkin,134,52,Slapshot,Blocked,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,55,1,5,5,0,0,Connecticut Whale,Shot,Katelynn Russ,Direct,187,35,178,44,Alyssa Wohlfeiler,178,44,Snapshot,On Net,FALSE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,84,3,5,5,0,0,Connecticut Whale,Shot,Katelynn Russ,Indirect,191,12,139,2,Elena Orlando,139,10,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,157,1,5,5,0,0,Connecticut Whale,Shot,Maddie Bishop,Direct,184,77,137,74,Shannon Doyle,138,71,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,200,0,5,5,0,0,Buffalo Beauts,Shot,Iveta Klimasova,Direct,168,4,132,16,Alyson Matteau,132,16,Snapshot,Blocked,TRUE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,332,1,5,4,0,0,Buffalo Beauts,Shot,Alyson Matteau,Direct,141,67,163,41,Jordan Juron,163,41,Snapshot,On Net,TRUE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,354,9,5,4,0,0,Buffalo Beauts,Shot,Carly Jackson,Indirect,2,41,2,41,Jordan Juron,166,75,Fan,Missed,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,500,8,5,5,0,0,Connecticut Whale,Shot,Tori Howran,Indirect,2,39,32,2,Kaycie Anderson,172,32,Wristshot,Missed,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,511,6,5,5,0,0,Buffalo Beauts,Shot,Alyson Matteau,Direct,31,83,52,81,Kristin Lewicki,165,56,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,519,0,5,5,0,0,Buffalo Beauts,Shot,Jordan Juron,Direct,182,23,167,36,Kristin Lewicki,170,39,Fan,Missed,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,545,0,5,5,0,0,Connecticut Whale,Shot,Kayla Friesen,Direct,196,57,163,47,Amanda Conway,163,47,Snapshot,Blocked,FALSE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,549,1,5,5,0,0,Connecticut Whale,Shot,Amanda Conway,Indirect,189,21,129,8,Hanna Beattie,129,8,Snapshot,Missed,FALSE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,643,4,5,5,0,0,Connecticut Whale,Shot,Shannon Doyle,Indirect,41,65,104,80,Alyssa Wohlfeiler,170,70,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,789,1,5,5,0,0,Buffalo Beauts,Shot,Neve Van Pelt,Direct,190,50,194,46,Autumn MacDougall,187,36,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,825,2,5,5,0,0,Connecticut Whale,Shot,Emma Vlasic,Direct,177,5,127,7,Tori Howran,129,9,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,866,1,5,5,0,0,Connecticut Whale,Shot,Sarah Schwenzfeier,Direct,136,7,135,22,Kaycie Anderson,150,23,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,908,1,5,5,0,0,Buffalo Beauts,Shot,Lenka Curmova,Direct,137,81,134,35,Megan Delay,134,35,Snapshot,Blocked,TRUE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,943,2,5,5,0,0,Connecticut Whale,Shot,Kayla Friesen,Direct,159,81,163,59,Nicole Guagliardo,169,57,Snapshot,Missed,FALSE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,983,4,5,5,0,0,Buffalo Beauts,Shot,Iveta Klimasova,Direct,100,5,115,29,Brittany Colton,151,12,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,1021,1,5,5,0,0,Connecticut Whale,Shot,Emma Vlasic,Direct,196,28,181,49,Katelynn Russ,181,49,Snapshot,On Net,FALSE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,1,1093,7,5,5,0,0,Connecticut Whale,Shot,Elena Orlando,Direct,12,60,46,77,Janine Weber,147,49,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1240,5,5,5,0,0,Connecticut Whale,Shot,Tori Howran,Direct,19,10,93,37,Janine Weber,177,42,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1254,0,5,5,0,0,Buffalo Beauts,Shot,Brooke Stacey,Direct,166,64,178,43,Kristin Lewicki,178,43,Snapshot,Missed,FALSE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1332,4,5,5,0,0,Buffalo Beauts,Shot,Megan Delay,Direct,80,54,95,73,Iveta Klimasova,121,78,Slapshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1446,6,5,5,0,0,Connecticut Whale,Goal,Shannon Doyle,Direct,17,77,50,50,Kayla Friesen,144,15,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1471,1,5,5,0,1,Connecticut Whale,Shot,Maddie Bishop,Direct,172,79,157,78,Amanda Conway,164,70,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1479,6,5,5,0,1,Buffalo Beauts,Shot,Kayla Meneghin,Direct,46,46,59,61,Cassidy MacPherson,174,61,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1493,5,5,5,0,1,Connecticut Whale,Shot,Katelynn Russ,Direct,42,81,86,60,Alyssa Wohlfeiler,155,74,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1566,7,5,5,0,1,Connecticut Whale,Shot,Nicole Guagliardo,Indirect,30,1,30,14,Janine Weber,173,2,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1578,2,5,5,0,1,Buffalo Beauts,Shot,Dominique Kremer,Direct,90,82,112,79,Erin Gehen,127,84,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1622,3,5,5,0,1,Buffalo Beauts,Shot,Iveta Klimasova,Direct,199,25,199,31,Neve Van Pelt,185,56,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1664,1,5,5,0,1,Buffalo Beauts,Shot,Kayla Meneghin,Direct,158,36,162,23,Hunter Accursi,166,23,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1828,0,5,5,0,1,Buffalo Beauts,Shot,Erin Gehen,Direct,166,43,162,41,Jordan Juron,166,39,Snapshot,Missed,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,1920,4,5,5,0,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,85,79,91,69,Lenka Curmova,137,20,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,2097,2,5,5,0,1,Connecticut Whale,Shot,Hanna Beattie,Direct,133,22,137,76,Maggie LaGue,150,80,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,2312,2,5,5,0,1,Buffalo Beauts,Shot,Iveta Klimasova,Direct,146,5,138,59,Whitney Dove,144,63,Snapshot,Missed,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,2334,4,5,5,0,1,Connecticut Whale,Shot,Mackenzie Lancaster,Indirect,99,83,142,81,Maggie LaGue,178,56,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,2,2373,4,5,5,0,1,Connecticut Whale,Shot,Tori Howran,Direct,197,48,134,36,Nicole Guagliardo,151,38,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2429,2,5,5,0,1,Connecticut Whale,Shot,Tori Howran,Direct,103,49,121,67,Nicole Guagliardo,156,67,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2491,1,5,5,0,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,162,65,136,25,Whitney Dove,136,25,Slapshot,Missed,TRUE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2563,2,5,5,0,1,Connecticut Whale,Shot,Kayla Friesen,Indirect,197,66,139,76,Shannon Doyle,141,56,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2604,4,4,5,0,1,Connecticut Whale,Shot,Kayla Friesen,Direct,165,11,195,23,Katelynn Russ,171,18,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2646,12,4,5,0,1,Connecticut Whale,Shot,Emma Vlasic,Direct,158,79,138,66,Maggie LaGue,138,37,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2675,1,4,5,0,1,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,140,31,177,71,Nicole Guagliardo,177,71,Snapshot,Missed,TRUE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2728,1,5,4,0,1,Buffalo Beauts,Goal,Alyson Matteau,Direct,148,65,165,20,Kristin Lewicki,168,28,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2752,2,5,5,1,1,Buffalo Beauts,Shot,Kristin Lewicki,Direct,129,31,133,80,Dominique Kremer,145,79,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2755,1,5,5,1,1,Buffalo Beauts,Shot,Kristin Lewicki,Direct,173,45,179,52,Erin Gehen,185,52,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2764,3,5,5,1,1,Buffalo Beauts,Shot,Jordan Juron,Direct,187,9,155,4,Whitney Dove,140,18,Fan,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2802,2,5,5,1,1,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,145,54,145,78,Maggie LaGue,155,77,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2811,2,5,5,1,1,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,136,10,135,72,Maggie LaGue,150,76,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2827,3,5,5,1,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,79,75,99,60,Brooke Stacey,138,60,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2912,5,5,5,1,1,Connecticut Whale,Shot,Tori Howran,Direct,72,19,88,43,Kayla Friesen,147,63,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,2972,4,5,5,1,1,Buffalo Beauts,Shot,Kayla Meneghin,Direct,102,58,113,36,Whitney Dove,164,32,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3007,1,5,5,1,1,Connecticut Whale,Shot,Grace Klienbach,Direct,195,19,166,32,Kaycie Anderson,172,32,Fan,Missed,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3017,4,5,5,1,1,Buffalo Beauts,Shot,Lenka Curmova,Indirect,70,4,70,4,Neve Van Pelt,141,1,Wristshot,Blocked,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3025,5,5,5,1,1,Connecticut Whale,Shot,Kaycie Anderson,Direct,44,76,77,59,Grace Klienbach,162,61,Wristshot,Blocked,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3049,3,5,5,1,1,Connecticut Whale,Shot,Janine Weber,Direct,74,26,92,50,Kayla Friesen,157,40,Wristshot,Missed,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3162,2,4,5,1,1,Connecticut Whale,Shot,Tori Howran,Direct,130,55,153,7,Kayla Friesen,165,14,Wristshot,Blocked,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3174,2,4,5,1,1,Connecticut Whale,Shot,Tori Howran,Direct,132,50,152,9,Kayla Friesen,159,10,Wristshot,Blocked,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3197,3,4,5,1,1,Connecticut Whale,Shot,Emma Vlasic,Indirect,164,83,129,81,Tori Howran,136,64,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3209,4,4,5,1,1,Connecticut Whale,Shot,Tori Howran,Direct,132,39,160,67,Nicole Guagliardo,150,54,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3270,2,5,5,1,1,Connecticut Whale,Shot,Nicole Guagliardo,Direct,151,68,129,40,Shannon Doyle,129,40,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3305,1,5,5,1,1,Buffalo Beauts,Shot,Kristin Lewicki,Direct,155,6,156,37,Brooke Stacey,156,37,Snapshot,Blocked,FALSE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3322,1,5,5,1,1,Buffalo Beauts,Shot,Jordan Juron,Direct,162,1,168,28,Brooke Stacey,168,28,Snapshot,On Net,TRUE,TRUE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3353,2,5,5,1,1,Buffalo Beauts,Shot,Brooke Stacey,Direct,190,11,194,45,Autumn MacDougall,189,49,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3419,1,5,5,1,1,Buffalo Beauts,Shot,Dominique Kremer,Direct,154,54,172,40,Kristin Lewicki,177,39,Snapshot,Missed,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3445,4,5,5,1,1,Connecticut Whale,Shot,Emma Vlasic,Direct,157,3,128,71,Maggie LaGue,140,84,Snapshot,Blocked,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3518,2,5,5,1,1,Connecticut Whale,Shot,Amanda Conway,Indirect,194,16,131,4,Tori Howran,131,4,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3551,4,5,5,1,1,Connecticut Whale,Shot,Emma Vlasic,Direct,44,57,87,80,Alyssa Wohlfeiler,171,65,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,3,3564,1,5,5,1,1,Buffalo Beauts,Shot,Kayla Meneghin,Direct,171,61,173,40,Hunter Accursi,178,39,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,4,3618,15,4,4,1,1,Connecticut Whale,Shot,Shannon Doyle,Direct,50,30,86,80,Janine Weber,172,15,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,4,3723,2,4,4,1,1,Connecticut Whale,Shot,Shannon Doyle,Direct,138,68,132,28,Tori Howran,143,16,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Buffalo Beauts,Connecticut Whale,4,3861,1,4,4,1,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,147,3,140,56,Whitney Dove,146,60,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,59,3,5,5,0,0,Metropolitan Riveters,Goal,Kelly Babstock,Direct,192,68,136,83,Leila Kilduff,140,71,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,81,1,5,5,1,0,Metropolitan Riveters,Shot,Paige Voight,Indirect,189,17,133,16,Rebecca Morse,133,16,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,103,1,5,5,1,0,Metropolitan Riveters,Shot,Mallory Rushton,Direct,191,69,142,76,Theresa Knutson,153,72,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,109,1,5,5,1,0,Metropolitan Riveters,Shot,Theresa Knutson,Direct,189,64,155,52,Allie Olnowich,155,52,Wrap Around,Blocked,FALSE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,268,9,5,4,1,0,Metropolitan Riveters,Shot,Rebecca Morse,Direct,131,44,144,5,Mallory Rushton,154,5,Snapshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,439,1,5,5,1,0,Metropolitan Riveters,Shot,Kate Leary,Direct,159,19,171,61,Madison Packer,179,57,Wristshot,Blocked,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,455,2,5,5,1,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,164,14,133,1,Lindsay Eastwood,133,1,Snapshot,Blocked,TRUE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,488,1,4,5,1,0,Toronto Six,Shot,Sarah Steele,Direct,129,12,132,61,Emma Woods,139,68,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,503,2,4,5,1,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,171,11,192,22,Shiann Darkangelo,182,37,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,549,2,4,5,1,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,154,3,130,25,Taylor Woods,134,34,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,560,1,4,5,1,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,170,13,130,36,Taylor Woods,130,42,Slapshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,626,1,5,5,1,0,Metropolitan Riveters,Shot,Kate Leary,Direct,197,44,188,32,Madison Packer,188,32,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,681,4,5,5,1,0,Metropolitan Riveters,Shot,Jayne Lewis,Direct,52,75,78,25,Rebecca Russo,175,2,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,714,4,5,5,1,0,Toronto Six,Shot,Emma Greco,Direct,46,83,98,38,Brooke Boquist,130,30,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,758,1,5,5,1,0,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Indirect,173,10,140,5,Lindsay Eastwood,140,5,Slapshot,Missed,TRUE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,776,1,5,5,1,0,Metropolitan Riveters,Shot,Theresa Knutson,Direct,185,80,159,54,Rebecca Morse,159,54,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,783,1,5,5,1,0,Metropolitan Riveters,Shot,Rebecca Morse,Direct,133,15,135,58,Theresa Knutson,141,59,Wristshot,Blocked,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,826,3,5,4,1,0,Metropolitan Riveters,Shot,Rebecca Russo,Direct,187,79,127,75,Kiira Dosdall,137,75,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,830,1,5,4,1,0,Metropolitan Riveters,Shot,Rebecca Russo,Direct,156,82,135,37,Kiira Dosdall,135,37,Slapshot,On Net,TRUE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,857,2,4,4,1,0,Toronto Six,Shot,Megan Quinn,Direct,130,75,131,24,Sarah Steele,135,4,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,896,2,4,4,1,0,Toronto Six,Shot,Kristen Barbara,Direct,137,33,132,42,Emily Fluke,147,47,Wristshot,Blocked,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,951,0,4,5,1,0,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,189,65,179,47,Amy Curlew,179,47,Slapshot,Blocked,TRUE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,955,1,4,5,1,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,176,14,146,21,Taylor Woods,146,21,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,1035,1,5,5,1,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,131,8,135,30,Mackenzie MacNeil,138,32,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,1068,4,5,5,1,0,Toronto Six,Shot,Lindsay Eastwood,Indirect,54,41,116,81,Mikyla Grant-Mentis,147,73,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,1095,1,5,5,1,0,Metropolitan Riveters,Goal,Kelly Babstock,Direct,185,8,142,45,Leila Kilduff,148,40,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,1,1162,2,5,5,2,0,Metropolitan Riveters,Shot,Leila Kilduff,Direct,182,77,149,61,Mallory Rushton,162,53,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1212,5,5,5,2,0,Toronto Six,Shot,Emma Woods,Indirect,71,83,148,6,Brooke Boquist,160,6,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1286,3,5,5,2,0,Toronto Six,Shot,Amy Curlew,Direct,78,2,93,46,Mikyla Grant-Mentis,149,51,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1313,5,5,5,2,0,Toronto Six,Shot,Amy Curlew,Direct,51,20,59,55,Mikyla Grant-Mentis,140,73,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1399,2,5,5,2,0,Toronto Six,Shot,Taytum Clairmont,Direct,184,74,130,81,Kristen Barbara,128,73,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1426,1,5,5,2,0,Toronto Six,Shot,Taytum Clairmont,Direct,177,11,168,34,Kristen Barbara,177,31,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1444,1,4,5,2,0,Toronto Six,Shot,Shiann Darkangelo,Direct,158,83,127,82,Emma Woods,128,80,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1495,2,4,5,2,0,Toronto Six,Shot,Sarah Steele,Direct,132,26,129,69,Emma Woods,144,77,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1506,1,4,5,2,0,Toronto Six,Shot,Taytum Clairmont,Direct,155,78,138,42,Mikyla Grant-Mentis,139,43,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1542,1,4,5,2,0,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,182,73,136,55,Taylor Woods,139,54,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1682,2,5,5,2,0,Metropolitan Riveters,Shot,Rebecca Morse,Direct,131,31,138,67,Leila Kilduff,161,62,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1715,2,5,5,2,0,Toronto Six,Shot,Taytum Clairmont,Direct,188,11,127,1,Sarah Steele,131,4,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1755,1,5,5,2,0,Metropolitan Riveters,Shot,Emily Janiga,Direct,168,53,166,43,Kate Leary,172,41,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,1761,1,5,5,2,0,Metropolitan Riveters,Shot,Kate Leary,Direct,162,10,131,62,Allie Olnowich,136,63,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2120,2,5,4,2,0,Metropolitan Riveters,Shot,Kate Leary,Direct,163,70,151,63,Kelly Babstock,171,61,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2195,2,5,5,2,0,Metropolitan Riveters,Shot,Theresa Knutson,Direct,198,31,160,40,Rebecca Morse,160,40,Slapshot,On Net,TRUE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2222,8,5,5,2,0,Toronto Six,Shot,Emma Greco,Indirect,78,50,107,83,Mikyla Grant-Mentis,155,71,Wrap Around,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2233,2,5,5,2,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,176,81,131,72,Lindsay Eastwood,130,56,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2239,3,5,5,2,0,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Indirect,188,13,199,41,Amy Curlew,187,38,Wrap Around,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2253,2,5,5,2,0,Toronto Six,Shot,Taylor Woods,Direct,159,60,129,18,Lindsay Eastwood,135,15,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2309,5,5,5,2,0,Metropolitan Riveters,Shot,Leila Kilduff,Direct,15,29,84,26,Kate Leary,155,58,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2360,3,5,5,2,0,Metropolitan Riveters,Shot,Kate Leary,Direct,122,33,122,40,Madison Packer,165,58,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,2,2385,3,5,5,2,0,Toronto Six,Shot,Shiann Darkangelo,Direct,78,38,110,6,Brooke Boquist,173,8,Wristshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2409,2,5,5,2,0,Metropolitan Riveters,Shot,Madison Packer,Direct,163,70,146,35,Kate Leary,171,29,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2464,16,5,5,2,0,Toronto Six,Shot,Mikyla Grant-Mentis,Indirect,84,4,94,4,Lindsay Eastwood,144,4,Slapshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2521,1,5,5,2,0,Toronto Six,Shot,Mackenzie MacNeil,Direct,157,49,162,54,Breanne Wilson-Bennett,174,57,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2532,0,5,5,2,0,Metropolitan Riveters,Shot,Mallory Rushton,Direct,195,19,180,38,Kendall Cornine,180,38,Snapshot,Missed,FALSE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2569,2,5,5,2,0,Metropolitan Riveters,Shot,Leila Kilduff,Direct,133,64,128,31,Rebecca Morse,134,31,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2584,2,5,5,2,0,Toronto Six,Shot,Emily Fluke,Direct,185,9,153,6,Kristen Barbara,141,4,Snapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2697,2,5,5,2,0,Metropolitan Riveters,Shot,Kendall Cornine,Direct,157,5,157,35,Mallory Rushton,150,42,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2824,2,5,5,2,0,Metropolitan Riveters,Shot,Kelly Babstock,Direct,131,79,154,27,Rebecca Russo,175,29,Slapshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2867,2,5,5,2,0,Toronto Six,Shot,Emma Woods,Direct,145,78,138,62,Shiann Darkangelo,163,59,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2919,3,5,5,2,0,Toronto Six,Shot,Kristen Barbara,Direct,138,80,136,60,Mikyla Grant-Mentis,183,60,Snapshot,On Net,FALSE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,2992,2,5,5,2,0,Toronto Six,Shot,Brooke Boquist,Direct,145,61,130,18,Sarah Steele,145,8,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3099,0,5,5,2,0,Toronto Six,Shot,Kristen Barbara,Direct,135,61,131,23,Emma Greco,135,20,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3123,0,5,5,2,0,Metropolitan Riveters,Shot,Kate Leary,Direct,185,63,174,59,Madison Packer,174,59,Snapshot,Blocked,TRUE,TRUE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3188,2,5,5,2,0,Toronto Six,Shot,Shiann Darkangelo,Direct,121,49,136,13,Brooke Boquist,164,18,Slapshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3230,1,5,5,2,0,Toronto Six,Shot,Lindsay Eastwood,Direct,135,21,133,46,Mikyla Grant-Mentis,132,40,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3295,8,5,5,2,0,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,27,7,65,11,Natalie Marcuzzi,187,20,Snapshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3359,2,5,5,2,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,142,83,129,68,Lindsay Eastwood,135,62,Slapshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3365,1,5,5,2,0,Toronto Six,Shot,Natalie Marcuzzi,Direct,172,8,134,7,Taylor Woods,134,14,Wristshot,Missed,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3413,1,5,5,2,0,Toronto Six,Shot,Brooke Boquist,Direct,195,18,161,26,Shiann Darkangelo,166,28,Wristshot,Blocked,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3428,2,5,5,2,0,Toronto Six,Shot,Megan Quinn,Direct,135,70,137,9,Sarah Steele,152,5,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3502,4,5,5,2,0,Toronto Six,Shot,Lindsay Eastwood,Direct,65,7,116,74,Sarah-Eve Coutu Godbout,159,69,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3529,4,5,6,2,0,Toronto Six,Shot,Shiann Darkangelo,Direct,31,11,61,23,Mikyla Grant-Mentis,151,14,Wristshot,On Net,TRUE,FALSE
+2021-01-23,Metropolitan Riveters,Toronto Six,3,3551,2,5,6,2,0,Toronto Six,Shot,Breanne Wilson-Bennett,Indirect,194,14,139,4,Sarah Steele,133,13,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,42,0,5,5,0,0,Boston Pride,Shot,Christina Putigna,Direct,176,4,141,24,McKenna Brand,140,24,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,61,2,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,194,64,127,68,Kaleigh Fratkin,129,62,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,103,2,5,5,0,0,Buffalo Beauts,Shot,Brooke Stacey,Direct,169,25,135,63,Dominique Kremer,136,61,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,195,1,5,5,0,0,Boston Pride,Shot,Jillian Dempsey,Direct,169,25,165,52,McKenna Brand,172,54,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,268,0,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,169,68,165,57,Taylor Wenczkowski,165,57,Slapshot,Blocked,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,1,318,6,5,5,0,0,Boston Pride,Shot,Jenna Rheault,Direct,52,27,79,11,Meaghan Rickard,174,61,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,351,8,5,5,0,0,Boston Pride,Shot,Taylor Turnquist,Direct,36,79,49,61,Jillian Dempsey,179,31,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,522,2,5,5,0,0,Boston Pride,Shot,McKenna Brand,Direct,188,23,170,32,Christina Putigna,170,28,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,539,2,5,5,0,0,Boston Pride,Shot,Lauren Kelly,Direct,87,4,120,11,Jillian Dempsey,162,22,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,558,3,5,5,0,0,Boston Pride,Goal,McKenna Brand,Indirect,146,72,198,56,Jillian Dempsey,196,54,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,623,3,5,4,1,0,Boston Pride,Shot,Mallory Souliotis,Direct,145,18,166,60,Samantha Davis,171,52,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,656,0,5,4,1,0,Boston Pride,Shot,Tereza Vanisova,Direct,156,80,138,48,Kaleigh Fratkin,138,48,Slapshot,Blocked,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,1,709,3,5,5,1,0,Buffalo Beauts,Goal,Kayla Meneghin,Direct,58,42,117,46,Jordan Juron,183,41,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,785,5,5,5,1,1,Boston Pride,Shot,Meaghan Rickard,Direct,40,11,96,60,Meghara McManus,174,61,Wristshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,885,7,5,5,1,1,Boston Pride,Shot,Lauren Kelly,Indirect,7,22,59,3,Tereza Vanisova,175,27,Wristshot,Missed,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,913,1,5,5,1,1,Boston Pride,Shot,Samantha Davis,Direct,162,2,135,23,Paige Capistran,139,39,Slapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,952,6,5,5,1,1,Boston Pride,Shot,Christina Putigna,Direct,59,2,89,29,McKenna Brand,162,27,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,998,2,5,5,1,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,133,58,145,64,Brooke Stacey,170,56,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1009,1,5,5,1,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,142,25,144,78,Marie-Jo Pelletier,151,76,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1085,2,5,5,1,1,Boston Pride,Shot,Mallory Souliotis,Direct,130,12,144,77,Taylor Turnquist,161,78,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1098,2,5,5,1,1,Boston Pride,Shot,Mary Parker,Direct,160,51,181,44,Tori Sullivan,181,38,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1104,3,5,5,1,1,Boston Pride,Shot,Mallory Souliotis,Direct,162,3,130,47,Taylor Turnquist,160,58,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1112,2,5,5,1,1,Boston Pride,Shot,Mary Parker,Direct,197,21,194,56,Lexie Laing,190,57,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1134,5,5,5,1,1,Boston Pride,Goal,Christina Putigna,Direct,80,72,107,33,McKenna Brand,158,25,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1155,1,5,5,2,1,Buffalo Beauts,Shot,Erin Gehen,Direct,179,28,178,44,Kristin Lewicki,178,44,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,1,1172,1,5,5,2,1,Buffalo Beauts,Shot,Erin Gehen,Direct,153,7,171,46,Kristin Lewicki,173,49,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1206,5,5,5,2,1,Boston Pride,Shot,Mallory Souliotis,Indirect,71,16,120,4,McKenna Brand,178,19,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1263,1,5,5,2,1,Buffalo Beauts,Shot,Dominique Kremer,Direct,127,71,134,20,Whitney Dove,134,20,Fan,Missed,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1302,3,5,5,2,1,Boston Pride,Shot,Samantha Davis,Direct,171,5,130,8,Paige Capistran,132,30,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1355,4,5,5,2,1,Boston Pride,Shot,Kaleigh Fratkin,Indirect,54,6,114,4,Tereza Vanisova,166,5,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1392,1,5,4,2,1,Boston Pride,Shot,Jillian Dempsey,Direct,187,23,164,33,McKenna Brand,164,33,Snapshot,Blocked,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1433,0,5,4,2,1,Boston Pride,Shot,Jillian Dempsey,Direct,175,17,172,39,Christina Putigna,172,39,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1461,1,5,3,2,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,145,28,146,60,McKenna Brand,146,60,Slapshot,Blocked,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1471,1,5,3,2,1,Boston Pride,Shot,McKenna Brand,Direct,135,61,153,20,Kaleigh Fratkin,153,20,Fan,Missed,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1473,1,5,3,2,1,Boston Pride,Goal,Lexie Laing,Direct,186,29,184,46,Jillian Dempsey,184,46,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1494,1,5,4,3,1,Boston Pride,Shot,Tereza Vanisova,Direct,162,16,186,35,Taylor Wenczkowski,187,37,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1551,0,5,5,4,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,179,6,174,39,Whitney Dove,174,39,Snapshot,Missed,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1572,1,5,5,4,1,Buffalo Beauts,Shot,Erin Gehen,Direct,155,2,154,32,Kristin Lewicki,157,30,Slapshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1607,12,5,4,4,1,Boston Pride,Shot,Kaleigh Fratkin,Indirect,7,25,9,66,Taylor Turnquist,155,45,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1665,2,5,4,4,1,Boston Pride,Shot,Christina Putigna,Direct,119,4,138,21,Tereza Vanisova,167,34,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1684,1,5,4,4,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,129,46,154,3,Paige Capistran,154,3,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1812,1,5,5,4,1,Boston Pride,Shot,Tereza Vanisova,Direct,139,34,168,58,Taylor Wenczkowski,176,57,Snapshot,Missed,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1844,4,5,5,4,1,Boston Pride,Shot,Mallory Souliotis,Indirect,86,27,114,11,Mary Parker,168,10,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1848,0,5,5,4,1,Boston Pride,Shot,Mary Parker,Direct,187,65,169,50,Tori Sullivan,169,50,Snapshot,Missed,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1885,1,4,5,4,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,172,3,148,23,Brooke Stacey,148,23,Snapshot,Blocked,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1957,11,4,5,4,1,Buffalo Beauts,Shot,Carly Jackson,Indirect,6,27,5,31,Alyson Matteau,150,27,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,1966,0,4,5,4,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,186,63,179,37,Dominique Kremer,179,37,Fan,Missed,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2016,4,5,5,4,1,Boston Pride,Shot,Taylor Turnquist,Direct,39,68,93,6,Tereza Vanisova,167,6,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2021,2,5,5,4,1,Boston Pride,Shot,Samantha Davis,Direct,178,82,131,80,Taylor Turnquist,131,69,Slapshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2029,3,5,5,4,1,Boston Pride,Shot,Samantha Davis,Indirect,156,83,176,82,Taylor Wenczkowski,185,78,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2056,1,5,5,4,1,Boston Pride,Shot,Samantha Davis,Direct,160,68,160,47,Taylor Wenczkowski,160,47,Slapshot,Blocked,TRUE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2100,5,5,5,4,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,69,78,79,55,Jillian Dempsey,164,16,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2125,2,5,5,4,1,Buffalo Beauts,Shot,Whitney Dove,Direct,139,28,155,63,Brooke Stacey,166,59,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2127,0,5,5,4,1,Buffalo Beauts,Shot,Brooke Stacey,Direct,195,50,182,48,Cassidy MacPherson,182,48,Fan,Missed,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2197,1,5,5,4,1,Buffalo Beauts,Shot,Erin Gehen,Direct,157,35,168,20,Jordan Juron,177,31,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2279,0,5,5,4,1,Boston Pride,Goal,Tereza Vanisova,Direct,167,60,173,44,Taylor Wenczkowski,181,38,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2292,0,5,5,5,1,Buffalo Beauts,Shot,Kristin Lewicki,Direct,166,8,138,10,Whitney Dove,149,14,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,2,2307,3,5,5,5,1,Boston Pride,Shot,Jillian Dempsey,Indirect,189,70,160,78,McKenna Brand,153,53,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2451,6,5,5,5,1,Buffalo Beauts,Shot,Megan Delay,Direct,86,83,91,81,Jordan Juron,180,46,Fan,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2462,2,5,5,5,1,Buffalo Beauts,Shot,Erin Gehen,Direct,126,35,142,73,Megan Delay,159,72,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2475,7,5,5,5,1,Boston Pride,Shot,Tori Sullivan,Direct,52,82,90,34,Mary Parker,179,48,Snapshot,Missed,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2550,3,5,5,5,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,77,68,94,62,Iveta Klimasova,139,80,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2564,4,5,5,5,1,Boston Pride,Shot,Mallory Souliotis,Direct,79,32,123,46,Meghara McManus,172,44,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2613,4,5,5,5,1,Buffalo Beauts,Shot,Erin Gehen,Direct,63,21,104,74,Jordan Juron,160,73,Slapshot,Missed,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2622,2,5,5,5,1,Buffalo Beauts,Shot,Kristin Lewicki,Indirect,135,28,135,19,Jordan Juron,163,22,Wristshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2629,2,5,5,5,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,160,82,156,61,Lenka Curmova,161,56,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2712,6,5,5,5,1,Boston Pride,Shot,Tori Sullivan,Direct,41,24,52,50,Mary Parker,149,26,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2772,7,5,5,5,1,Boston Pride,Shot,Mallory Souliotis,Indirect,31,69,110,12,Meaghan Rickard,161,23,Wristshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2800,4,5,5,5,1,Buffalo Beauts,Shot,Megan Delay,Direct,86,73,111,12,Iveta Klimasova,144,12,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2858,2,5,4,5,1,Boston Pride,Shot,Christina Putigna,Indirect,161,13,144,76,Lauren Kelly,148,73,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2906,3,5,3,5,1,Boston Pride,Shot,Jillian Dempsey,Direct,184,61,154,64,McKenna Brand,155,40,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2959,4,5,3,5,1,Boston Pride,Shot,McKenna Brand,Direct,136,28,138,56,Kaleigh Fratkin,146,25,Slapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,2990,0,5,4,5,1,Boston Pride,Shot,Samantha Davis,Direct,146,64,138,34,Taylor Turnquist,138,34,Slapshot,On Net,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3025,2,5,5,5,1,Boston Pride,Shot,Samantha Davis,Direct,169,6,128,12,Lauren Kelly,134,15,Slapshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3067,3,5,5,5,1,Boston Pride,Shot,Meghara McManus,Direct,91,68,110,34,Meaghan Rickard,169,26,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3069,1,5,5,5,1,Boston Pride,Shot,Meaghan Rickard,Direct,188,26,183,34,Meghara McManus,184,32,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3126,2,5,5,5,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,107,82,112,69,Iveta Klimasova,146,62,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3143,1,5,5,5,1,Boston Pride,Shot,Mary Parker,Direct,161,53,182,29,Lexie Laing,182,29,Snapshot,Missed,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3311,5,5,5,5,1,Boston Pride,Shot,Kaleigh Fratkin,Indirect,29,82,123,72,McKenna Brand,172,58,Snapshot,Missed,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3377,2,5,5,5,1,Buffalo Beauts,Shot,Jordan Juron,Direct,169,73,132,51,Erin Gehen,147,56,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3397,0,4,5,5,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,194,31,176,50,Erin Gehen,176,50,Snapshot,Missed,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3437,1,4,5,5,1,Boston Pride,Shot,Meghara McManus,Direct,178,33,180,47,Carlee Turner,180,47,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Boston Pride,Buffalo Beauts,3,3459,2,4,5,5,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,178,5,130,32,Alyson Matteau,132,34,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,96,5,5,5,0,0,Metropolitan Riveters,Shot,Kendall Cornine,Indirect,196,42,194,73,Paige Voight,159,65,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,247,4,5,5,0,0,Connecticut Whale,Shot,Maggie LaGue,Direct,41,60,81,41,Nicole Guagliardo,147,65,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,271,2,5,5,0,0,Metropolitan Riveters,Shot,Kelly Babstock,Direct,192,19,145,19,Sammy Kolowrat,139,21,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,304,2,5,5,0,0,Metropolitan Riveters,Shot,Kendall Cornine,Indirect,176,83,131,81,Kiira Dosdall,131,81,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,317,2,5,5,0,0,Metropolitan Riveters,Shot,Kendall Cornine,Indirect,170,75,132,83,Leila Kilduff,135,82,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,336,4,5,5,0,2,Connecticut Whale,Shot,Nicole Guagliardo,Indirect,110,0,146,2,Janine Weber,174,18,Snapshot,Missed,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,376,4,5,5,0,2,Connecticut Whale,Shot,Emma Vlasic,Direct,96,11,105,20,Alyssa Wohlfeiler,160,62,Wristshot,Blocked,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,384,3,5,5,0,2,Metropolitan Riveters,Shot,Kate Leary,Direct,95,14,114,30,Rebecca Morse,165,12,Wristshot,Blocked,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,431,5,5,5,0,2,Metropolitan Riveters,Shot,Allie Olnowich,Direct,31,84,78,62,Kendall Cornine,166,58,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,449,7,5,5,0,2,Metropolitan Riveters,Shot,Paige Voight,Direct,29,30,46,3,Mallory Rushton,167,21,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,467,1,5,5,0,2,Connecticut Whale,Goal,Tori Howran,Direct,192,13,179,42,Amanda Conway,179,42,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,560,2,5,4,1,2,Connecticut Whale,Shot,Tori Howran,Direct,130,45,150,10,Kayla Friesen,159,13,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,607,5,5,4,1,2,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,158,1,128,19,Maggie LaGue,160,68,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,640,1,5,5,1,2,Connecticut Whale,Shot,Taylor Marchin,Direct,151,68,147,48,Amanda Conway,153,44,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,699,1,4,5,1,2,Metropolitan Riveters,Shot,Rebecca Russo,Direct,169,77,135,45,Kiira Dosdall,135,45,Slapshot,On Net,TRUE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,717,2,4,5,1,2,Metropolitan Riveters,Shot,Rebecca Russo,Direct,136,80,133,30,Kiira Dosdall,133,30,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,755,1,4,5,1,2,Metropolitan Riveters,Shot,Theresa Knutson,Direct,161,81,173,40,Mallory Rushton,173,40,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,769,2,4,5,1,2,Metropolitan Riveters,Shot,Rebecca Morse,Direct,132,34,162,18,Mallory Rushton,166,18,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,789,2,4,5,1,2,Metropolitan Riveters,Shot,Emily Janiga,Direct,191,22,151,18,Mallory Rushton,157,21,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,848,1,5,5,1,2,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,152,80,156,62,Katelynn Russ,156,62,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,877,3,5,5,1,2,Connecticut Whale,Shot,Elena Orlando,Direct,135,13,169,6,Alyssa Wohlfeiler,142,31,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,888,3,5,5,2,2,Connecticut Whale,Shot,Grace Klienbach,Direct,106,78,123,64,Kaycie Anderson,176,68,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,932,4,5,5,2,2,Connecticut Whale,Shot,Janine Weber,Direct,44,80,95,34,Nicole Guagliardo,167,23,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,983,2,5,5,2,2,Metropolitan Riveters,Shot,Saroya Tinker,Direct,133,31,140,79,Allie Olnowich,154,83,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,1003,2,5,5,2,2,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,167,1,149,19,Emma Vlasic,156,19,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,1012,1,5,5,2,2,Connecticut Whale,Shot,Emma Vlasic,Direct,150,64,130,55,Hanna Beattie,133,57,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,1015,2,5,5,2,2,Connecticut Whale,Shot,Kaycie Anderson,Indirect,168,75,142,80,Taylor Marchin,142,80,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,1044,6,5,5,2,2,Metropolitan Riveters,Shot,Paige Voight,Indirect,117,82,112,80,Kendall Cornine,148,32,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,1066,2,5,5,2,2,Metropolitan Riveters,Shot,Kendall Cornine,Direct,132,81,137,60,Mallory Rushton,163,62,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,1095,4,5,5,2,2,Metropolitan Riveters,Shot,Cailey Hutchison,Indirect,153,83,162,83,Theresa Knutson,141,37,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,1,1198,1,4,4,2,2,Metropolitan Riveters,Shot,Kiira Dosdall,Direct,154,78,132,30,Sammy Kolowrat,132,30,Slapshot,Missed,TRUE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1217,3,4,4,2,2,Metropolitan Riveters,Shot,Madison Packer,Direct,103,12,128,77,Kelly Babstock,155,74,Slapshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1300,1,4,5,2,2,Metropolitan Riveters,Shot,Madison Packer,Direct,158,8,157,62,Rebecca Russo,162,63,Slapshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1312,1,4,5,2,2,Metropolitan Riveters,Shot,Emily Janiga,Direct,155,78,126,77,Rebecca Morse,128,68,Slapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1319,1,5,5,2,2,Metropolitan Riveters,Shot,Theresa Knutson,Direct,191,59,155,63,Rebecca Morse,157,59,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1337,5,5,5,2,2,Metropolitan Riveters,Shot,Mallory Rushton,Indirect,24,33,115,1,Theresa Knutson,158,22,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1344,2,5,5,2,2,Metropolitan Riveters,Shot,Saroya Tinker,Indirect,134,8,170,5,Theresa Knutson,188,14,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1357,4,5,5,2,2,Connecticut Whale,Shot,Mackenzie Lancaster,Direct,48,47,114,38,Amanda Conway,172,45,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1495,2,4,5,2,2,Metropolitan Riveters,Shot,Kate Leary,Direct,156,19,131,43,Kiira Dosdall,136,48,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1591,2,5,5,2,3,Connecticut Whale,Shot,Janine Weber,Direct,94,73,101,75,Kayla Friesen,155,68,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1642,1,5,5,2,3,Connecticut Whale,Shot,Maggie LaGue,Direct,191,71,155,49,Emma Vlasic,164,47,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1676,5,5,5,2,3,Connecticut Whale,Shot,Kayla Friesen,Indirect,30,81,87,82,Janine Weber,167,64,Wristshot,Missed,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1690,1,5,5,2,3,Connecticut Whale,Shot,Grace Klienbach,Direct,187,16,170,40,Kaycie Anderson,170,40,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1707,2,5,5,2,3,Connecticut Whale,Shot,Kaycie Anderson,Direct,162,80,131,44,Taylor Marchin,130,37,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1742,6,5,5,2,3,Connecticut Whale,Shot,Shannon Doyle,Indirect,75,13,62,13,Mackenzie Lancaster,171,25,Wristshot,Missed,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1763,1,5,5,2,3,Connecticut Whale,Shot,Maddie Bishop,Direct,184,60,165,59,Shannon Doyle,165,59,Snapshot,Blocked,TRUE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1829,3,5,5,2,3,Connecticut Whale,Shot,Hanna Beattie,Indirect,187,9,153,2,Alyssa Wohlfeiler,144,34,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1839,2,5,5,2,3,Metropolitan Riveters,Shot,Kate Leary,Direct,99,38,125,56,Madison Packer,152,56,Slapshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1865,1,5,5,2,3,Metropolitan Riveters,Shot,Kiira Dosdall,Direct,131,27,139,8,Sammy Kolowrat,149,7,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1909,2,5,5,2,3,Connecticut Whale,Shot,Emma Vlasic,Indirect,191,61,131,67,Taylor Marchin,130,57,Slapshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,1987,2,5,5,2,3,Connecticut Whale,Shot,Nicole Guagliardo,Direct,130,4,172,18,Janine Weber,180,25,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2061,1,5,5,2,3,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,194,69,185,80,Katelynn Russ,185,80,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2066,2,5,5,2,3,Connecticut Whale,Shot,Kaycie Anderson,Direct,165,71,129,81,Taylor Marchin,132,75,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2084,8,5,5,2,3,Connecticut Whale,Shot,Kaycie Anderson,Indirect,18,8,67,14,Sarah Schwenzfeier,177,6,Wristshot,Blocked,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2184,2,5,5,3,3,Connecticut Whale,Shot,Alyssa Wohlfeiler,Indirect,177,5,150,3,Maggie LaGue,153,12,Slapshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2221,2,5,5,3,3,Connecticut Whale,Shot,Janine Weber,Direct,184,71,128,67,Taylor Marchin,129,50,Slapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2228,4,5,5,3,3,Metropolitan Riveters,Shot,Rebecca Russo,Direct,70,38,87,37,Kelly Babstock,167,33,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2266,4,5,5,3,3,Metropolitan Riveters,Shot,Madison Packer,Direct,55,73,103,75,Emily Janiga,156,60,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,2,2327,2,5,5,3,3,Connecticut Whale,Shot,Grace Klienbach,Indirect,172,83,168,81,Hanna Beattie,182,66,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2630,2,5,4,3,3,Connecticut Whale,Shot,Nicole Guagliardo,Direct,174,71,127,30,Shannon Doyle,138,21,Slapshot,Missed,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2650,2,5,4,3,3,Connecticut Whale,Shot,Maggie LaGue,Direct,138,74,136,16,Shannon Doyle,152,11,Slapshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2670,2,5,4,3,3,Connecticut Whale,Shot,Shannon Doyle,Direct,137,27,156,9,Mackenzie Lancaster,168,21,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2738,3,5,5,3,4,Connecticut Whale,Shot,Mackenzie Lancaster,Indirect,104,1,133,1,Janine Weber,168,18,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2753,2,5,5,3,4,Connecticut Whale,Shot,Kayla Friesen,Direct,106,52,111,28,Mackenzie Lancaster,145,25,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2811,6,5,5,3,4,Metropolitan Riveters,Shot,Mallory Rushton,Direct,43,4,87,67,Theresa Knutson,159,54,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2845,5,5,5,3,4,Connecticut Whale,Shot,Taylor Marchin,Direct,63,6,96,71,Maddie Bishop,142,49,Snapshot,Missed,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,2899,3,5,5,3,4,Connecticut Whale,Shot,Janine Weber,Indirect,83,76,116,78,Mackenzie Lancaster,171,66,Snapshot,Blocked,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3003,1,5,5,3,4,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,133,23,137,26,Emma Vlasic,160,29,Slapshot,Missed,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3057,6,5,5,3,4,Connecticut Whale,Shot,Katelynn Russ,Direct,71,77,108,10,Sarah Schwenzfeier,182,8,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3093,0,5,5,3,4,Connecticut Whale,Shot,Tori Howran,Direct,188,31,183,38,Sarah Schwenzfeier,183,38,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3145,7,5,5,3,4,Metropolitan Riveters,Shot,Leila Kilduff,Direct,49,5,79,23,Kate Leary,169,50,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3315,8,4,5,3,4,Connecticut Whale,Shot,Maggie LaGue,Indirect,6,21,33,3,Sarah Schwenzfeier,151,18,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3373,1,4,5,3,4,Metropolitan Riveters,Shot,Madison Packer,Direct,143,66,136,37,Rebecca Morse,142,46,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3395,3,4,5,3,4,Metropolitan Riveters,Shot,Mallory Rushton,Direct,163,8,141,68,Leila Kilduff,149,57,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3435,1,5,5,3,4,Metropolitan Riveters,Shot,Theresa Knutson,Direct,157,50,169,32,Kendall Cornine,174,34,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Connecticut Whale,Metropolitan Riveters,3,3496,6,5,5,3,4,Connecticut Whale,Shot,Maggie LaGue,Direct,105,81,102,10,Alyssa Wohlfeiler,159,67,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,32,2,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,169,12,127,6,Sydney Baldwin,128,13,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,67,4,5,5,0,0,Toronto Six,Shot,Shiann Darkangelo,Direct,53,9,100,19,Emma Woods,161,16,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,134,1,5,5,0,0,Minnesota Whitecaps,Shot,Audra Richards,Direct,193,53,132,31,Winny Brodt-Brown,141,32,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,245,6,5,5,0,0,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,81,4,63,50,Maddie Rowe,130,67,Slapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,329,5,5,5,0,0,Minnesota Whitecaps,Shot,Allie Thunstrom,Indirect,137,81,163,4,Jonna Curtis,155,24,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,334,1,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,153,18,148,12,Winny Brodt-Brown,153,8,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,426,4,5,4,0,0,Toronto Six,Shot,Sarah Steele,Direct,131,69,171,78,Brooke Boquist,163,65,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,453,13,5,4,0,0,Toronto Six,Shot,Sarah Steele,Indirect,2,45,2,45,Mikyla Grant-Mentis,152,78,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,472,2,5,4,0,0,Toronto Six,Shot,Taytum Clairmont,Direct,137,35,174,12,Mikyla Grant-Mentis,180,12,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,482,1,5,4,0,0,Toronto Six,Goal,Shiann Darkangelo,Direct,183,46,179,31,Lindsay Eastwood,179,31,Snapshot,On Net,FALSE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,605,1,4,4,1,0,Toronto Six,Goal,Amy Curlew,Direct,157,64,156,50,Mikyla Grant-Mentis,163,45,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,708,1,5,4,2,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,130,3,128,43,Taylor Woods,136,40,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,714,2,5,4,2,0,Toronto Six,Shot,Taytum Clairmont,Direct,176,71,191,60,Sarah-Eve Coutu Godbout,177,67,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,721,2,5,4,2,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,151,11,138,59,Taylor Woods,154,60,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,838,1,5,4,2,0,Toronto Six,Shot,Sarah Steele,Direct,156,10,134,49,Emma Woods,138,41,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,851,1,5,4,2,0,Toronto Six,Shot,Brooke Boquist,Direct,177,79,131,62,Emma Woods,131,62,Slapshot,On Net,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,853,0,5,4,2,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,171,52,177,54,Brooke Boquist,177,54,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,855,1,5,4,2,0,Toronto Six,Goal,Shiann Darkangelo,Direct,174,46,170,45,Breanne Wilson-Bennett,170,45,Snapshot,On Net,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,866,9,5,5,3,0,Toronto Six,Shot,Julie Allen,Direct,96,44,79,25,Emma Greco,188,53,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,893,1,4,5,3,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,192,64,181,35,Nina Rodgers,181,35,Snapshot,Missed,FALSE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,898,2,4,5,3,0,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,194,22,129,9,Sydney Baldwin,132,23,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,912,3,4,5,3,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,163,81,131,76,Sydney Baldwin,136,60,Slapshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,925,1,4,5,3,0,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,151,79,130,48,Sydney Baldwin,134,47,Slapshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,951,1,4,5,3,0,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,149,26,132,30,Sydney Baldwin,133,37,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,1032,1,4,5,3,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,167,65,159,49,Stephanie Anderson,166,42,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,1041,2,4,5,3,0,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,162,5,131,16,Sydney Baldwin,138,19,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,1055,2,4,5,3,0,Minnesota Whitecaps,Goal,Nina Rodgers,Direct,157,5,129,15,Sydney Baldwin,133,16,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,1066,2,5,5,3,1,Minnesota Whitecaps,Shot,Jonna Curtis,Indirect,145,4,133,5,Emma Stauber,138,6,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,1113,4,5,4,3,1,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,102,38,116,84,Meghan Lorence,132,81,Wristshot,Blocked,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,1,1167,1,5,4,3,1,Toronto Six,Shot,Shiann Darkangelo,Direct,197,45,173,71,Brooke Boquist,173,65,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1209,2,5,5,3,1,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,191,63,171,54,Meghan Lorence,177,49,Fan,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1309,2,5,5,3,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,139,58,158,24,Sarah-Eve Coutu Godbout,174,26,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1313,0,5,5,3,1,Toronto Six,Shot,Lindsay Eastwood,Direct,164,7,148,43,Natalie Marcuzzi,148,43,Fan,Missed,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1367,1,5,5,3,1,Toronto Six,Shot,Shiann Darkangelo,Direct,195,30,178,23,Brooke Boquist,183,29,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1428,2,5,5,3,1,Minnesota Whitecaps,Shot,Audra Richards,Direct,133,35,155,25,Stephanie Anderson,171,25,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1438,1,5,5,3,1,Minnesota Whitecaps,Shot,Haley Mack,Direct,147,41,170,52,Stephanie Anderson,170,52,Snapshot,Missed,FALSE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1543,0,5,4,3,1,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,160,72,157,68,Allie Thunstrom,157,68,Snapshot,Blocked,FALSE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1600,2,4,3,3,1,Toronto Six,Shot,Sarah Steele,Direct,140,33,160,64,Shiann Darkangelo,165,60,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1609,3,4,3,3,1,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,192,66,132,55,Sarah Steele,141,45,Slapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1648,1,4,4,3,1,Toronto Six,Shot,Emma Woods,Direct,152,5,129,40,Sarah Steele,129,40,Slapshot,Missed,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1694,2,5,4,4,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,130,49,132,75,Taylor Woods,159,61,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1700,1,5,4,4,1,Toronto Six,Shot,Taylor Woods,Direct,166,12,176,62,Mikyla Grant-Mentis,181,60,Snapshot,Missed,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1844,2,5,5,4,1,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,193,14,194,52,Emma Stauber,188,51,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1861,0,5,5,4,1,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,193,18,184,31,Allie Thunstrom,184,31,Fan,Missed,FALSE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,1977,2,5,5,4,1,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,193,35,178,41,Audra Richards,179,39,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2003,3,5,5,4,1,Toronto Six,Shot,Taytum Clairmont,Indirect,112,83,135,82,Emily Fluke,167,68,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2037,2,5,5,4,1,Toronto Six,Shot,Megan Quinn,Direct,134,82,132,11,Lindsay Eastwood,147,11,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2076,4,5,5,4,1,Toronto Six,Shot,Megan Quinn,Direct,135,59,135,32,Emma Woods,167,11,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2084,0,5,5,4,1,Toronto Six,Shot,Emma Woods,Direct,170,12,181,38,Shiann Darkangelo,181,38,Deflection,Missed,FALSE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2111,2,5,5,4,1,Toronto Six,Shot,Lindsay Eastwood,Direct,133,5,148,6,Emma Woods,136,24,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2121,2,5,5,4,1,Toronto Six,Shot,Sarah Steele,Direct,141,4,166,67,Taylor Woods,183,69,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2163,5,5,5,4,1,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,7,18,115,5,Haley Mack,166,20,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2185,0,5,5,4,1,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,183,9,183,33,Lynn Astrup,183,33,Snapshot,Blocked,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2288,1,4,4,4,1,Toronto Six,Shot,Sarah Steele,Direct,144,39,162,19,Mikyla Grant-Mentis,176,21,Snapshot,Missed,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2305,0,4,4,4,1,Toronto Six,Goal,Brooke Boquist,Direct,179,17,174,48,Taylor Woods,183,46,Fan,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2365,1,5,5,5,2,Toronto Six,Shot,Natalie Marcuzzi,Indirect,181,5,130,7,Lindsay Eastwood,132,16,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,2,2386,3,5,5,5,2,Minnesota Whitecaps,Goal,Sydney Baldwin,Direct,83,26,120,39,Haley Mack,165,32,Snapshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,2591,2,5,5,5,3,Toronto Six,Shot,Taylor Woods,Indirect,127,61,135,12,Sarah Steele,135,12,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,2621,3,5,5,5,3,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,107,35,126,12,Haylea Schmid,182,20,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,2669,2,5,5,5,3,Toronto Six,Shot,Shiann Darkangelo,Direct,107,46,120,61,Brooke Boquist,150,41,Slapshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,2719,3,5,5,5,3,Minnesota Whitecaps,Shot,Maddie Rowe,Direct,75,81,126,82,Jonna Curtis,173,66,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,2784,8,5,5,5,3,Toronto Six,Shot,Sarah Steele,Direct,62,13,64,53,Natalie Marcuzzi,155,35,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,2800,4,5,5,5,3,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,192,12,167,37,Haylea Schmid,169,25,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,2952,2,5,5,5,3,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,187,71,165,61,Emma Stauber,169,61,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3002,0,5,5,5,3,Minnesota Whitecaps,Shot,Haylea Schmid,Indirect,172,3,135,4,Winny Brodt-Brown,147,8,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3036,1,5,4,5,3,Toronto Six,Shot,Shiann Darkangelo,Direct,134,72,134,19,Emma Woods,134,19,Slapshot,Missed,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3045,4,5,4,5,3,Toronto Six,Shot,Breanne Wilson-Bennett,Indirect,193,60,195,64,Brooke Boquist,187,51,Wristshot,Missed,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3096,1,5,3,5,3,Toronto Six,Shot,Brooke Boquist,Direct,178,67,143,52,Emma Woods,143,52,Slapshot,On Net,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3136,1,5,3,5,3,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,197,42,184,63,Brooke Boquist,179,53,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3213,15,4,5,5,4,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,43,7,34,59,Stephanie Anderson,171,56,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3224,2,4,5,5,4,Minnesota Whitecaps,Shot,Haley Mack,Direct,164,81,167,18,Nina Rodgers,168,19,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3261,1,3,5,5,4,Minnesota Whitecaps,Goal,Emma Stauber,Direct,147,27,183,22,Meaghan Pezon,185,26,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3312,3,4,5,5,5,Minnesota Whitecaps,Shot,Maddie Rowe,Direct,128,47,149,32,Nina Rodgers,152,35,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3316,2,4,5,5,5,Minnesota Whitecaps,Shot,Haley Mack,Indirect,185,10,128,6,Sydney Baldwin,134,15,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3369,13,5,5,5,5,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,113,59,120,80,Meghan Lorence,175,59,Wristshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3380,10,5,5,5,5,Toronto Six,Shot,Breanne Wilson-Bennett,Indirect,23,75,125,82,Natalie Marcuzzi,179,56,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3426,2,5,5,5,5,Toronto Six,Shot,Taylor Woods,Direct,112,50,123,30,Amy Curlew,149,37,Wristshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3430,1,5,5,5,5,Toronto Six,Shot,Taylor Woods,Direct,179,7,127,10,Sarah Steele,127,10,Wristshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,3,3486,5,5,5,5,5,Toronto Six,Shot,Natalie Marcuzzi,Direct,45,3,49,4,Breanne Wilson-Bennett,142,10,Wristshot,On Net,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3633,2,4,4,5,5,Toronto Six,Shot,Sarah Steele,Direct,91,55,115,33,Shiann Darkangelo,154,27,Snapshot,On Net,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3643,2,4,4,5,5,Toronto Six,Shot,Megan Quinn,Direct,131,79,135,21,Lindsay Eastwood,137,11,Slapshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3651,1,4,4,5,5,Toronto Six,Shot,Brooke Boquist,Direct,157,2,130,12,Lindsay Eastwood,131,16,Snapshot,Blocked,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3660,3,4,4,5,5,Toronto Six,Shot,Lindsay Eastwood,Direct,132,40,135,31,Breanne Wilson-Bennett,168,11,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3756,5,4,4,5,5,Minnesota Whitecaps,Shot,Chelsey Brodt-Rosenthal,Indirect,29,83,94,82,Audra Richards,181,73,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3769,5,4,4,5,5,Toronto Six,Shot,Sarah Steele,Direct,26,10,79,45,Mikyla Grant-Mentis,152,46,Snapshot,Missed,TRUE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3821,0,4,4,5,5,Toronto Six,Shot,Emma Woods,Direct,151,6,132,30,Lindsay Eastwood,132,30,Snapshot,Blocked,TRUE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3831,1,4,4,5,5,Toronto Six,Shot,Shiann Darkangelo,Direct,168,8,134,31,Lindsay Eastwood,134,31,Fan,Missed,FALSE,TRUE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3864,7,4,4,5,5,Toronto Six,Shot,Kristen Barbara,Direct,42,59,52,10,Emma Greco,157,8,Slapshot,Missed,FALSE,FALSE
+2021-01-24,Toronto Six,Minnesota Whitecaps,4,3893,2,4,4,5,5,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,179,80,136,78,Kristen Barbara,133,57,Snapshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,53,3,5,5,0,0,Boston Pride,Shot,Jillian Dempsey,Direct,94,45,114,81,McKenna Brand,160,67,Snapshot,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,151,5,5,5,0,0,Boston Pride,Shot,Kaleigh Fratkin,Indirect,39,16,125,3,Carlee Turner,163,17,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,179,1,5,5,0,0,Boston Pride,Shot,Meghara McManus,Direct,174,22,153,48,Paige Capistran,159,52,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,266,6,5,5,0,0,Toronto Six,Shot,Natalie Marcuzzi,Direct,30,3,39,4,Breanne Wilson-Bennett,183,12,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,283,2,5,5,0,0,Toronto Six,Shot,Lindsay Eastwood,Indirect,172,4,161,3,Mackenzie MacNeil,150,15,Wristshot,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,357,5,5,5,0,0,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,198,22,195,41,Mikyla Grant-Mentis,151,58,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,508,1,5,5,0,0,Toronto Six,Shot,Amy Curlew,Direct,175,80,178,46,Mikyla Grant-Mentis,178,46,Snapshot,Blocked,FALSE,TRUE
+2021-01-26,Toronto Six,Boston Pride,1,556,5,5,5,0,0,Toronto Six,Shot,Emma Greco,Direct,24,56,60,68,Taytum Clairmont,132,82,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,575,1,5,5,0,0,Boston Pride,Shot,Jillian Dempsey,Direct,139,76,161,61,Samantha Davis,162,60,Fan,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,599,6,5,5,0,0,Boston Pride,Shot,Paige Capistran,Direct,30,40,45,45,McKenna Brand,148,63,Fan,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,660,2,4,5,0,0,Boston Pride,Shot,Samantha Davis,Direct,160,55,185,48,Tereza Vanisova,182,45,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,684,1,4,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,164,56,154,21,Mallory Souliotis,154,21,Slapshot,On Net,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,1,717,1,4,5,0,0,Boston Pride,Goal,Taylor Turnquist,Direct,164,14,177,62,Christina Putigna,177,59,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,738,3,5,5,0,1,Boston Pride,Shot,Mary Parker,Direct,86,60,116,16,Lexie Laing,166,27,Snapshot,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,742,0,5,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,148,82,179,59,Mary Parker,179,59,Deflection,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,749,2,5,5,0,1,Boston Pride,Shot,Carlee Turner,Indirect,150,82,130,83,Paige Capistran,133,80,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,765,3,5,5,0,1,Toronto Six,Shot,Shiann Darkangelo,Direct,90,17,106,68,Emma Woods,160,70,Wristshot,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,839,4,5,5,0,1,Toronto Six,Shot,Natalie Marcuzzi,Direct,70,35,105,33,Mikyla Grant-Mentis,159,26,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,859,1,5,5,0,1,Boston Pride,Shot,Jillian Dempsey,Direct,147,7,141,31,McKenna Brand,154,23,Wristshot,Blocked,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,957,2,5,5,0,1,Toronto Six,Shot,Brooke Boquist,Direct,190,16,130,8,Lindsay Eastwood,129,15,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,1061,4,5,5,0,1,Toronto Six,Shot,Natalie Marcuzzi,Direct,100,83,135,77,Mikyla Grant-Mentis,173,59,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,1079,5,5,5,0,1,Boston Pride,Shot,Jillian Dempsey,Direct,87,29,130,55,McKenna Brand,160,72,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,1111,4,5,5,0,1,Toronto Six,Shot,Mackenzie MacNeil,Direct,74,39,104,83,Taylor Woods,147,75,Slapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,1144,2,5,5,0,1,Toronto Six,Shot,Shiann Darkangelo,Direct,139,62,157,28,Brooke Boquist,159,21,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,1,1175,1,5,5,0,1,Boston Pride,Shot,Christina Putigna,Direct,176,79,180,36,Jillian Dempsey,180,36,Snapshot,Missed,FALSE,TRUE
+2021-01-26,Toronto Six,Boston Pride,2,1254,7,5,5,0,1,Toronto Six,Shot,Brooke Boquist,Direct,35,6,65,16,Emma Woods,181,27,Snapshot,Blocked,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1263,7,5,5,0,1,Toronto Six,Shot,Emma Woods,Indirect,195,57,197,52,Shiann Darkangelo,175,26,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1298,1,5,5,0,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,197,22,188,61,Sarah-Eve Coutu Godbout,184,59,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1368,2,5,4,0,1,Boston Pride,Shot,Meghara McManus,Direct,108,60,119,55,Carlee Turner,147,77,Snapshot,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1385,1,5,4,0,1,Toronto Six,Shot,Brooke Boquist,Direct,176,57,181,47,Breanne Wilson-Bennett,181,47,Snapshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1407,1,5,4,0,1,Toronto Six,Shot,Amy Curlew,Direct,154,24,174,66,Mikyla Grant-Mentis,174,66,Snapshot,Missed,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,2,1417,2,5,4,0,1,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,194,58,144,82,Taytum Clairmont,146,82,Snapshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1425,1,5,4,0,1,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,186,70,150,67,Taylor Woods,156,64,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1440,1,5,4,0,1,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,198,60,156,73,Taylor Woods,167,72,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1443,1,5,4,0,1,Toronto Six,Shot,Natalie Marcuzzi,Direct,168,56,131,80,Megan Quinn,131,80,Fan,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1458,2,5,5,0,1,Boston Pride,Shot,Lexie Laing,Direct,122,74,129,49,Mary Parker,156,41,Slapshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1485,2,5,5,0,1,Boston Pride,Shot,Samantha Davis,Direct,178,78,133,37,Taylor Turnquist,146,28,Snapshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1550,1,5,5,0,1,Toronto Six,Shot,Emma Woods,Direct,153,78,147,55,Brooke Boquist,161,59,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1560,5,5,5,0,1,Boston Pride,Shot,Lauren Kelly,Indirect,13,12,119,1,McKenna Brand,170,16,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1644,4,5,5,0,1,Boston Pride,Shot,Tori Sullivan,Direct,69,16,84,30,Meaghan Rickard,163,60,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1665,1,4,5,0,1,Boston Pride,Shot,Samantha Davis,Direct,191,61,128,48,Kaleigh Fratkin,134,39,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1714,1,4,5,0,1,Boston Pride,Shot,Christina Putigna,Direct,158,59,176,68,Jillian Dempsey,175,57,Snapshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1719,2,4,5,0,1,Boston Pride,Shot,McKenna Brand,Direct,186,68,128,77,Lauren Kelly,141,79,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1745,1,3,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,145,32,144,53,McKenna Brand,144,53,Slapshot,On Net,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,2,1763,1,3,5,0,1,Boston Pride,Shot,McKenna Brand,Direct,151,61,150,32,Kaleigh Fratkin,150,32,Slapshot,On Net,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,2,1770,1,3,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,160,22,150,54,McKenna Brand,150,54,Slapshot,Blocked,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,2,1846,2,4,5,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,149,83,132,24,Lauren Kelly,140,22,Snapshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1939,2,5,5,0,1,Toronto Six,Shot,Mikyla Grant-Mentis,Indirect,161,7,150,7,Sarah-Eve Coutu Godbout,163,14,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,1998,4,5,5,0,1,Boston Pride,Shot,McKenna Brand,Indirect,87,71,103,83,Jillian Dempsey,170,57,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,2085,1,4,5,0,1,Boston Pride,Shot,McKenna Brand,Direct,199,26,174,45,Samantha Davis,174,45,Snapshot,Missed,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,2,2172,4,5,5,0,1,Boston Pride,Shot,Taylor Wenczkowski,Direct,89,44,106,26,Lexie Laing,166,10,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,2180,4,5,5,0,1,Toronto Six,Shot,Amy Curlew,Direct,48,1,94,4,Sarah-Eve Coutu Godbout,144,8,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,2199,2,5,5,0,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,196,54,172,44,Sarah-Eve Coutu Godbout,174,37,Snapshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,2241,3,5,5,0,1,Toronto Six,Shot,Lindsay Eastwood,Indirect,93,83,130,83,Mackenzie MacNeil,176,71,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,2,2308,2,5,5,0,1,Toronto Six,Shot,Brooke Boquist,Direct,88,10,109,43,Emma Woods,136,52,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2451,3,4,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,86,80,101,67,Taylor Wenczkowski,162,71,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2496,4,4,4,0,1,Toronto Six,Shot,Kristen Barbara,Direct,109,80,112,63,Breanne Wilson-Bennett,170,68,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2524,0,4,3,0,1,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,187,72,186,39,Emma Woods,186,39,Snapshot,On Net,FALSE,TRUE
+2021-01-26,Toronto Six,Boston Pride,3,2566,2,5,3,0,1,Toronto Six,Shot,Emma Woods,Direct,162,68,134,42,Lindsay Eastwood,141,43,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2590,3,5,3,0,1,Toronto Six,Shot,Lindsay Eastwood,Direct,135,64,160,72,Mikyla Grant-Mentis,167,56,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2608,5,5,4,0,1,Toronto Six,Shot,Lindsay Eastwood,Indirect,136,46,161,75,Brooke Boquist,158,47,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2644,3,5,5,1,1,Toronto Six,Shot,Breanne Wilson-Bennett,Indirect,200,44,172,4,Mackenzie MacNeil,167,4,Wristshot,Blocked,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2753,2,5,5,2,1,Boston Pride,Shot,Tereza Vanisova,Indirect,177,79,153,81,Meghara McManus,159,57,Snapshot,Missed,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2782,1,4,5,2,1,Boston Pride,Shot,McKenna Brand,Direct,178,80,187,52,Christina Putigna,184,54,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,2813,1,4,5,2,1,Boston Pride,Shot,Taylor Wenczkowski,Direct,198,56,180,43,Samantha Davis,180,43,Fan,Missed,FALSE,TRUE
+2021-01-26,Toronto Six,Boston Pride,3,2845,1,4,5,2,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,131,65,140,25,Mallory Souliotis,140,25,Slapshot,Blocked,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,3,3012,2,5,4,2,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,190,21,196,38,Sarah-Eve Coutu Godbout,188,49,Wrap Around,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3029,1,5,4,2,1,Toronto Six,Shot,Emma Woods,Direct,150,11,166,65,Brooke Boquist,172,65,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3053,1,5,4,2,1,Toronto Six,Shot,Kristen Barbara,Direct,137,79,167,83,Brooke Boquist,174,78,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3180,2,5,4,2,1,Toronto Six,Shot,Taylor Woods,Direct,154,4,135,20,Lindsay Eastwood,145,21,Snapshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3203,0,5,4,2,1,Toronto Six,Shot,Brooke Boquist,Direct,185,55,183,39,Emma Woods,183,39,Snapshot,On Net,FALSE,TRUE
+2021-01-26,Toronto Six,Boston Pride,3,3290,4,5,5,2,1,Toronto Six,Shot,Emma Greco,Direct,85,5,104,41,Sarah-Eve Coutu Godbout,141,39,Slapshot,Missed,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3302,1,5,5,2,1,Boston Pride,Shot,Christina Putigna,Direct,195,21,177,39,McKenna Brand,177,39,Fan,Missed,FALSE,TRUE
+2021-01-26,Toronto Six,Boston Pride,3,3306,1,5,5,2,1,Boston Pride,Shot,Jillian Dempsey,Direct,183,78,134,80,Mallory Souliotis,134,74,Snapshot,Blocked,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3324,4,5,5,2,1,Toronto Six,Shot,Amy Curlew,Indirect,60,9,104,47,Sarah-Eve Coutu Godbout,156,5,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3415,1,4,5,2,1,Boston Pride,Shot,Samantha Davis,Direct,170,62,186,60,Tereza Vanisova,183,48,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3465,4,4,5,2,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,138,6,157,4,Taylor Wenczkowski,168,27,Wristshot,Blocked,FALSE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3473,3,4,5,2,1,Boston Pride,Shot,Mary Parker,Direct,181,8,183,11,Taylor Wenczkowski,175,22,Snapshot,On Net,TRUE,FALSE
+2021-01-26,Toronto Six,Boston Pride,3,3479,1,4,5,2,1,Boston Pride,Shot,Mallory Souliotis,Direct,131,70,137,16,Kaleigh Fratkin,137,16,Slapshot,On Net,TRUE,TRUE
+2021-01-26,Toronto Six,Boston Pride,3,3528,2,5,5,2,1,Toronto Six,Shot,Shiann Darkangelo,Direct,194,21,178,9,Emma Woods,157,16,Snapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,26,2,5,5,0,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,138,0,135,43,Meghan Lorence,160,29,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,213,3,5,5,0,0,Metropolitan Riveters,Shot,Kate Leary,Indirect,180,5,133,6,Sammy Kolowrat,133,21,Slapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,344,2,5,4,0,0,Metropolitan Riveters,Shot,Kiira Dosdall,Direct,131,31,168,12,Madison Packer,172,13,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,358,2,5,4,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,188,17,153,22,Kiira Dosdall,155,22,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,367,2,5,4,0,0,Metropolitan Riveters,Shot,Madison Packer,Indirect,161,7,133,4,Kiira Dosdall,129,17,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,382,1,5,4,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,191,28,141,32,Kiira Dosdall,145,36,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,394,2,5,4,0,0,Metropolitan Riveters,Shot,Mallory Rushton,Direct,155,5,131,35,Rebecca Morse,133,34,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,430,2,5,4,0,0,Metropolitan Riveters,Shot,Rebecca Morse,Direct,144,22,158,12,Paige Voight,160,21,Snapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,437,1,5,4,0,0,Metropolitan Riveters,Shot,Rebecca Morse,Direct,141,17,148,66,Theresa Knutson,159,69,Slapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,590,1,5,5,0,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,159,22,133,51,Sara Bustad,131,55,Snapshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,600,7,5,5,0,0,Minnesota Whitecaps,Shot,Sydney Baldwin,Indirect,130,5,153,77,Meghan Lorence,164,69,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,743,1,5,5,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,180,52,178,48,Madison Packer,178,48,Snapshot,On Net,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,768,2,5,4,0,0,Metropolitan Riveters,Shot,Kiira Dosdall,Direct,132,25,154,6,Madison Packer,158,24,Slapshot,On Net,TRUE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,780,4,5,4,0,0,Metropolitan Riveters,Shot,Madison Packer,Direct,164,10,136,28,Kiira Dosdall,139,41,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,785,1,5,4,0,0,Metropolitan Riveters,Shot,Madison Packer,Direct,175,21,140,40,Kiira Dosdall,149,40,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,793,0,5,4,0,0,Metropolitan Riveters,Shot,Madison Packer,Direct,155,4,170,61,Rebecca Russo,170,61,Slapshot,Missed,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,868,1,5,5,0,0,Metropolitan Riveters,Shot,Mallory Rushton,Direct,157,2,131,59,Rebecca Morse,134,58,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,973,2,5,5,0,0,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,180,79,157,78,Chelsey Brodt-Rosenthal,155,80,Snapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,1034,1,5,5,0,0,Metropolitan Riveters,Shot,Madison Packer,Direct,174,29,177,43,Kate Leary,177,43,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,1041,3,5,5,0,0,Minnesota Whitecaps,Shot,Haylea Schmid,Direct,50,51,78,69,Allie Thunstrom,142,67,Snapshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,1095,6,5,5,0,0,Metropolitan Riveters,Shot,Leila Kilduff,Indirect,37,74,121,81,Kendall Cornine,179,75,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,1181,0,5,5,0,0,Metropolitan Riveters,Shot,Leila Kilduff,Direct,130,14,135,68,Rebecca Morse,135,68,Slapshot,Blocked,TRUE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,1,1192,1,5,5,0,0,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,177,17,173,44,Audra Richards,184,49,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1355,3,4,5,0,0,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,156,10,138,37,Sydney Baldwin,137,17,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1378,3,4,5,0,0,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,138,39,162,18,Nina Rodgers,179,25,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1398,1,4,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,137,66,144,79,Meghan Lorence,156,74,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1405,3,4,5,0,0,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,179,78,137,61,Sydney Baldwin,139,24,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1419,2,4,5,0,0,Minnesota Whitecaps,Shot,Emma Stauber,Direct,133,16,137,69,Maddie Rowe,143,74,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1501,2,5,5,0,0,Minnesota Whitecaps,Shot,Brooke White,Direct,139,81,131,80,Sara Bustad,135,78,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1517,1,5,5,0,0,Metropolitan Riveters,Shot,Brooke Avery,Direct,184,70,151,76,Allie Olnowich,151,76,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1550,1,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,164,55,158,69,Meghan Lorence,160,66,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1554,1,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,178,56,184,59,Meghan Lorence,180,49,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1589,2,5,5,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,144,17,152,50,Madison Packer,172,42,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1672,1,5,5,0,0,Metropolitan Riveters,Shot,Leila Kilduff,Direct,139,83,150,68,Cailey Hutchison,163,46,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1719,3,5,5,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,152,13,187,56,Emily Janiga,190,37,Wrap Around,Missed,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1727,2,5,5,0,0,Metropolitan Riveters,Shot,Sammy Kolowrat,Direct,133,23,139,8,Madison Packer,143,17,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1759,8,5,5,0,0,Metropolitan Riveters,Shot,Madison Packer,Indirect,15,70,15,74,Sammy Kolowrat,184,16,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1793,2,5,5,0,0,Metropolitan Riveters,Shot,Rebecca Morse,Direct,131,69,136,20,Leila Kilduff,137,17,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1824,1,5,5,0,0,Minnesota Whitecaps,Shot,Haylea Schmid,Indirect,192,15,139,7,Sydney Baldwin,132,19,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1834,1,5,5,0,0,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,150,33,143,8,Sydney Baldwin,150,4,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1886,4,5,5,0,0,Metropolitan Riveters,Shot,Allie Olnowich,Indirect,156,81,195,54,Theresa Knutson,184,51,Snapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1952,13,5,5,0,0,Minnesota Whitecaps,Shot,Maddie Rowe,Direct,36,26,82,77,Meaghan Pezon,187,39,Wrap Around,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,1999,22,5,5,0,0,Minnesota Whitecaps,Shot,Allie Thunstrom,Indirect,148,78,112,79,Jonna Curtis,175,10,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2017,2,5,5,0,0,Minnesota Whitecaps,Shot,Nina Rodgers,Direct,157,55,136,68,Sara Bustad,135,68,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2032,0,5,5,0,0,Minnesota Whitecaps,Shot,Audra Richards,Direct,188,25,171,37,Nina Rodgers,171,37,Snapshot,Blocked,TRUE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2067,1,5,5,0,0,Minnesota Whitecaps,Shot,Winny Brodt-Brown,Direct,131,42,147,11,Stephanie Anderson,164,18,Slapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2106,1,5,5,0,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Indirect,166,79,155,74,Sydney Baldwin,178,66,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2114,4,5,5,0,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,183,70,151,10,Maddie Rowe,137,12,Snapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2142,1,5,5,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,160,54,167,78,Jayne Lewis,165,74,Wristshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2206,2,5,5,0,0,Minnesota Whitecaps,Shot,Haylea Schmid,Direct,162,18,130,18,Winny Brodt-Brown,133,23,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2217,5,5,5,0,0,Metropolitan Riveters,Shot,Madison Packer,Direct,30,83,80,66,Kelly Babstock,165,58,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2302,3,4,5,0,0,Minnesota Whitecaps,Shot,Meaghan Pezon,Direct,165,5,132,37,Maddie Rowe,142,11,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2347,3,4,5,0,0,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,83,72,87,40,Stephanie Anderson,140,22,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2349,0,4,5,0,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,180,24,173,41,Allie Thunstrom,173,41,Snapshot,Blocked,TRUE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,2,2361,5,5,5,0,0,Metropolitan Riveters,Shot,Kelly Babstock,Indirect,36,24,118,31,Rebecca Morse,174,38,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2418,2,5,5,0,0,Metropolitan Riveters,Shot,Kelly Babstock,Direct,178,7,134,57,Saroya Tinker,145,61,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2440,0,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,161,69,166,57,Stephanie Anderson,166,57,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2481,3,5,5,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,92,2,100,12,Rebecca Morse,172,21,Wristshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2489,1,5,5,0,0,Metropolitan Riveters,Shot,Rebecca Morse,Direct,198,26,174,25,Jayne Lewis,174,25,Snapshot,On Net,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2531,0,5,5,0,0,Minnesota Whitecaps,Shot,Haylea Schmid,Direct,196,32,178,40,Nina Rodgers,178,40,Snapshot,Missed,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2575,3,5,5,0,0,Metropolitan Riveters,Shot,Kiira Dosdall,Direct,152,83,148,84,Cailey Hutchison,174,65,Snapshot,Blocked,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2590,4,5,5,0,0,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,14,14,121,19,Haley Mack,175,17,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2605,2,5,5,0,0,Metropolitan Riveters,Shot,Rebecca Morse,Indirect,186,78,129,82,Leila Kilduff,134,81,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2617,5,5,4,0,0,Minnesota Whitecaps,Shot,Chelsey Brodt-Rosenthal,Direct,37,72,40,71,Jonna Curtis,161,79,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2635,2,5,4,0,0,Metropolitan Riveters,Shot,Kelly Babstock,Direct,175,4,134,23,Kate Leary,141,27,Slapshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2647,1,5,4,0,0,Metropolitan Riveters,Shot,Kendall Cornine,Direct,161,59,140,40,Kiira Dosdall,140,40,Slapshot,Blocked,TRUE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2666,2,5,4,0,0,Metropolitan Riveters,Shot,Kate Leary,Direct,198,62,134,60,Kiira Dosdall,146,55,Snapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2675,2,5,4,0,0,Metropolitan Riveters,Shot,Madison Packer,Direct,137,15,140,59,Kendall Cornine,146,58,Slapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2702,3,5,4,0,0,Metropolitan Riveters,Shot,Brooke Avery,Direct,144,18,179,33,Emily Janiga,179,43,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2722,5,5,4,0,0,Minnesota Whitecaps,Shot,Winny Brodt-Brown,Direct,85,7,121,37,Audra Richards,178,39,Fan,Missed,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2821,1,5,5,0,0,Metropolitan Riveters,Shot,Cailey Hutchison,Indirect,175,83,137,83,Kiira Dosdall,137,83,Slapshot,On Net,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2961,1,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,162,66,174,38,Stephanie Anderson,174,38,Snapshot,On Net,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2968,1,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,169,70,137,47,Meghan Lorence,137,47,Slapshot,Blocked,TRUE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,2988,5,5,5,0,0,Metropolitan Riveters,Shot,Kiira Dosdall,Direct,91,83,106,78,Theresa Knutson,158,53,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3016,1,5,5,0,0,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,162,67,167,33,Jonna Curtis,176,36,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3075,1,5,5,0,0,Metropolitan Riveters,Shot,Kiira Dosdall,Direct,146,81,139,82,Kate Leary,159,69,Snapshot,Blocked,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3090,1,5,5,0,0,Metropolitan Riveters,Shot,Kelly Babstock,Direct,196,47,167,62,Allie Olnowich,167,62,Snapshot,Missed,TRUE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3113,1,5,5,0,0,Metropolitan Riveters,Shot,Kelly Babstock,Direct,186,16,154,43,Paige Voight,160,36,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3121,2,5,5,0,0,Metropolitan Riveters,Shot,Theresa Knutson,Direct,162,66,137,31,Saroya Tinker,137,31,Slapshot,Blocked,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3208,5,5,4,0,0,Metropolitan Riveters,Shot,Paige Voight,Direct,20,21,58,3,Rebecca Morse,153,4,Slapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3216,0,5,4,0,0,Metropolitan Riveters,Shot,Kendall Cornine,Direct,152,64,133,47,Kiira Dosdall,133,47,Slapshot,On Net,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3232,1,5,4,0,0,Metropolitan Riveters,Shot,Madison Packer,Direct,136,47,174,63,Kendall Cornine,178,61,Slapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3281,5,5,5,0,0,Metropolitan Riveters,Shot,Leila Kilduff,Indirect,24,72,80,69,Kate Leary,142,55,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3305,4,5,5,0,0,Minnesota Whitecaps,Shot,Audra Richards,Direct,66,83,102,57,Haley Mack,159,35,Wristshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3311,2,5,5,0,0,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,161,33,162,53,Stephanie Anderson,164,51,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3319,5,5,5,0,0,Metropolitan Riveters,Shot,Theresa Knutson,Indirect,40,84,89,84,Kendall Cornine,157,70,Wristshot,Blocked,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3327,2,5,5,0,0,Metropolitan Riveters,Shot,Kendall Cornine,Direct,176,4,131,5,Saroya Tinker,129,14,Slapshot,Blocked,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3476,1,5,5,0,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,168,2,125,1,Sydney Baldwin,133,3,Snapshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3495,1,5,5,0,0,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,144,10,170,21,Jonna Curtis,170,21,Snapshot,On Net,FALSE,TRUE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3525,1,5,5,0,0,Minnesota Whitecaps,Shot,Meaghan Pezon,Direct,135,3,132,15,Jonna Curtis,143,23,Snapshot,On Net,FALSE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3530,2,5,5,0,0,Minnesota Whitecaps,Shot,Meaghan Pezon,Direct,183,6,148,7,Sydney Baldwin,156,16,Wristshot,Missed,TRUE,FALSE
+2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,3589,0,3,5,0,0,Minnesota Whitecaps,Goal,Meghan Lorence,Direct,157,63,186,52,Haley Mack,184,50,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,17,0,5,5,0,0,Connecticut Whale,Shot,Hanna Beattie,Direct,173,4,178,29,Emma Vlasic,178,29,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,1,187,7,5,5,0,0,Connecticut Whale,Shot,Emma Vlasic,Direct,47,20,64,22,Alyssa Wohlfeiler,189,39,Wrap Around,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,282,2,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,156,51,134,19,Briana Mastel,140,18,Snapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,331,2,5,5,0,0,Boston Pride,Shot,Samantha Davis,Indirect,189,73,128,81,Paige Capistran,132,79,Snapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,402,2,5,5,0,0,Boston Pride,Shot,Lexie Laing,Direct,162,6,167,25,Taylor Wenczkowski,143,33,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,450,2,5,5,0,0,Connecticut Whale,Shot,Janine Weber,Direct,151,36,133,71,Maggie LaGue,138,74,Snapshot,Missed,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,530,1,5,5,0,0,Boston Pride,Shot,Meghara McManus,Direct,194,24,175,15,Lauren Kelly,175,15,Snapshot,Missed,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,1,558,1,5,5,0,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,132,76,135,19,Mallory Souliotis,137,19,Fan,Missed,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,636,4,5,5,0,0,Connecticut Whale,Shot,Kayla Friesen,Indirect,53,5,111,8,Maddie Bishop,142,16,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,652,3,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,107,31,122,7,Meaghan Rickard,148,11,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,659,3,5,5,0,0,Boston Pride,Shot,McKenna Brand,Indirect,165,3,128,2,Briana Mastel,138,4,Snapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,687,4,5,5,0,0,Connecticut Whale,Shot,Emma Vlasic,Direct,83,39,91,30,Katelynn Russ,158,12,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,695,2,5,5,0,0,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,137,27,140,81,Shannon Doyle,149,77,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,740,3,5,5,0,0,Boston Pride,Shot,Taylor Wenczkowski,Direct,112,6,120,25,Tereza Vanisova,169,21,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,748,1,5,5,0,0,Connecticut Whale,Shot,Mackenzie Lancaster,Direct,136,37,129,43,Kayla Friesen,140,40,Snapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,893,1,4,5,0,0,Boston Pride,Shot,Samantha Davis,Direct,133,33,133,4,Kaleigh Fratkin,141,6,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,962,1,5,5,0,0,Connecticut Whale,Shot,Katelynn Russ,Direct,160,74,158,65,Alyssa Wohlfeiler,158,65,Slapshot,Missed,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,1,1055,5,5,5,0,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,61,15,91,26,Mary Parker,173,9,Snapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,1092,1,4,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,135,6,131,54,Lauren Kelly,137,46,Slapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,1113,2,4,5,0,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,131,79,135,31,Mallory Souliotis,147,26,Slapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,1135,1,4,5,0,0,Boston Pride,Goal,Christina Putigna,Direct,158,80,162,46,McKenna Brand,162,46,Deflection,On Net,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,1,1150,3,5,5,0,1,Boston Pride,Shot,Carlee Turner,Direct,114,10,111,44,Meghara McManus,151,59,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,1,1193,1,5,5,0,1,Boston Pride,Shot,Taylor Turnquist,Direct,182,74,184,47,Tereza Vanisova,184,47,Deflection,On Net,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,2,1245,1,5,5,0,1,Boston Pride,Shot,Christina Putigna,Indirect,181,82,130,82,Kaleigh Fratkin,130,82,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1282,1,5,5,0,1,Connecticut Whale,Shot,Mackenzie Lancaster,Indirect,193,14,143,4,Tori Howran,143,4,Slapshot,Blocked,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,2,1361,1,5,5,0,1,Boston Pride,Shot,Tori Sullivan,Direct,155,37,168,54,Meaghan Rickard,180,51,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1414,0,4,5,0,1,Boston Pride,Shot,Lauren Kelly,Direct,193,73,185,52,McKenna Brand,185,52,Deflection,Missed,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1423,3,4,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Indirect,138,2,181,3,Lexie Laing,172,21,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1437,1,4,5,0,1,Boston Pride,Shot,Christina Putigna,Direct,187,53,184,39,Lexie Laing,184,39,Fan,On Net,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,2,1516,2,5,5,0,1,Connecticut Whale,Shot,Kayla Friesen,Indirect,189,72,164,80,Katelynn Russ,164,80,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1676,4,5,5,0,1,Boston Pride,Shot,McKenna Brand,Indirect,184,5,200,24,Christina Putigna,186,35,Snapshot,Missed,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1734,0,5,4,0,1,Connecticut Whale,Shot,Janine Weber,Direct,151,81,128,79,Kayla Friesen,128,79,Snapshot,Missed,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1753,2,5,4,0,1,Connecticut Whale,Shot,Janine Weber,Direct,182,81,131,33,Tori Howran,137,32,Wristshot,Missed,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,1765,1,5,4,0,1,Connecticut Whale,Shot,Kayla Friesen,Direct,133,81,133,35,Shannon Doyle,133,35,Slapshot,Blocked,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,2,1773,1,5,4,0,1,Connecticut Whale,Shot,Shannon Doyle,Direct,126,24,160,71,Kayla Friesen,160,71,Slapshot,Missed,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,2,1981,3,5,5,0,1,Connecticut Whale,Shot,Grace Klienbach,Direct,44,80,83,50,Alyssa Wohlfeiler,155,38,Wristshot,Blocked,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2015,2,5,5,0,1,Boston Pride,Shot,Mary Parker,Direct,156,79,175,42,Tereza Vanisova,183,48,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2112,0,5,4,0,1,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,196,39,183,29,Maggie LaGue,183,29,Snapshot,Blocked,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,2,2142,3,5,4,0,1,Connecticut Whale,Shot,Amanda Conway,Direct,126,6,161,21,Alyssa Wohlfeiler,174,38,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2164,5,5,4,0,1,Boston Pride,Shot,Carlee Turner,Direct,81,33,85,12,Meghara McManus,171,28,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2194,1,5,5,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,177,73,139,82,Lauren Kelly,146,80,Slapshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2200,2,5,5,0,1,Boston Pride,Shot,Taylor Wenczkowski,Direct,151,60,129,82,Taylor Turnquist,129,82,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2236,2,5,5,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,180,83,138,75,Taylor Turnquist,139,54,Wristshot,Missed,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2275,3,5,5,0,1,Boston Pride,Shot,Carlee Turner,Direct,197,51,182,75,McKenna Brand,135,69,Wristshot,Missed,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2305,1,5,5,0,1,Connecticut Whale,Shot,Mackenzie Lancaster,Direct,128,49,140,61,Janine Weber,151,56,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,2,2316,2,5,5,0,1,Connecticut Whale,Shot,Mackenzie Lancaster,Indirect,198,38,198,29,Janine Weber,188,46,Wrap Around,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2466,1,4,5,0,1,Boston Pride,Shot,Samantha Davis,Direct,180,80,132,60,Lauren Kelly,133,57,Wristshot,Missed,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2477,5,4,5,0,1,Boston Pride,Shot,Lauren Kelly,Direct,99,12,110,37,Samantha Davis,172,58,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2497,1,4,5,0,1,Boston Pride,Shot,Christina Putigna,Direct,164,54,187,59,McKenna Brand,187,59,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,2512,2,4,5,0,1,Boston Pride,Shot,McKenna Brand,Direct,136,40,166,68,Christina Putigna,166,54,Snapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2522,1,4,5,0,1,Boston Pride,Shot,Samantha Davis,Direct,146,61,131,37,Kaleigh Fratkin,131,37,Slapshot,Blocked,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,2552,2,4,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,183,75,190,75,Samantha Davis,166,65,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2566,1,4,5,0,1,Boston Pride,Shot,Samantha Davis,Direct,158,78,133,62,Kaleigh Fratkin,133,62,Slapshot,On Net,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,2618,1,5,5,0,1,Connecticut Whale,Shot,Tori Howran,Direct,167,16,170,38,Janine Weber,170,37,Snapshot,Missed,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,2625,2,5,5,0,1,Connecticut Whale,Goal,Alyssa Wohlfeiler,Direct,170,12,133,3,Tori Howran,129,16,Slapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2672,1,5,5,1,1,Boston Pride,Shot,Tereza Vanisova,Direct,150,12,130,15,Mallory Souliotis,131,19,Wristshot,Missed,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2757,0,5,5,1,1,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,194,73,173,73,Katelynn Russ,173,73,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,2764,1,5,5,1,1,Connecticut Whale,Goal,Emma Vlasic,Indirect,197,55,184,46,Katelynn Russ,184,46,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,2774,3,5,5,2,1,Boston Pride,Shot,Mallory Souliotis,Indirect,99,4,131,10,McKenna Brand,176,10,Snapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2804,1,5,5,2,1,Boston Pride,Shot,Tereza Vanisova,Direct,128,75,134,14,Mallory Souliotis,134,14,Slapshot,Blocked,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,2825,3,5,5,2,1,Connecticut Whale,Shot,Taylor Marchin,Direct,64,70,110,79,Kaycie Anderson,133,64,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2838,6,5,5,2,1,Connecticut Whale,Shot,Kaycie Anderson,Indirect,192,70,136,78,Maggie LaGue,182,55,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2858,16,5,5,2,1,Connecticut Whale,Shot,Maggie LaGue,Indirect,136,82,195,68,Kayla Friesen,150,5,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2876,5,5,5,2,1,Connecticut Whale,Shot,Janine Weber,Indirect,181,6,176,5,Mackenzie Lancaster,165,19,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2888,0,5,5,2,1,Connecticut Whale,Shot,Hanna Beattie,Direct,152,16,178,40,Janine Weber,178,40,Deflection,Missed,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2891,0,5,5,2,1,Connecticut Whale,Shot,Janine Weber,Direct,197,47,180,54,Mackenzie Lancaster,182,53,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2923,1,5,5,2,1,Connecticut Whale,Goal,Emma Vlasic,Direct,176,4,156,20,Alyssa Wohlfeiler,163,37,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,2952,0,5,5,3,1,Boston Pride,Shot,Lauren Kelly,Direct,129,7,176,8,McKenna Brand,186,57,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3042,2,5,4,3,1,Connecticut Whale,Shot,Tori Howran,Direct,131,52,141,67,Kayla Friesen,168,66,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3047,1,5,4,3,1,Connecticut Whale,Shot,Kayla Friesen,Direct,197,32,159,39,Katelynn Russ,163,36,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3100,2,5,4,3,1,Connecticut Whale,Shot,Mackenzie Lancaster,Direct,163,6,143,56,Kayla Friesen,163,47,Wristshot,Missed,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3106,1,5,4,3,1,Connecticut Whale,Shot,Janine Weber,Direct,151,74,131,50,Tori Howran,134,49,Slapshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3120,1,5,4,3,1,Connecticut Whale,Shot,Tori Howran,Direct,152,35,181,25,Katelynn Russ,181,25,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,3155,1,5,4,3,1,Connecticut Whale,Goal,Alyssa Wohlfeiler,Direct,191,31,176,40,Emma Vlasic,177,40,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,3184,6,5,5,4,1,Connecticut Whale,Shot,Grace Klienbach,Direct,28,83,76,43,Kaycie Anderson,160,63,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3202,5,5,5,4,1,Boston Pride,Shot,Samantha Davis,Direct,72,4,85,23,Tereza Vanisova,179,21,Wristshot,Blocked,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3340,3,4,5,4,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,128,44,139,78,McKenna Brand,150,48,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3352,3,4,5,4,1,Boston Pride,Shot,Christina Putigna,Direct,184,70,127,72,Kaleigh Fratkin,130,58,Slapshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3400,6,4,5,4,1,Boston Pride,Shot,Samantha Davis,Direct,134,55,170,9,Taylor Turnquist,148,47,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3413,1,5,5,4,1,Boston Pride,Shot,Lauren Kelly,Direct,133,46,158,22,Taylor Turnquist,158,22,Slapshot,Missed,TRUE,TRUE
+2021-01-27,Connecticut Whale,Boston Pride,3,3431,3,4,5,4,1,Boston Pride,Shot,Taylor Turnquist,Direct,136,43,131,0,Tori Sullivan,160,24,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3481,2,4,5,4,1,Boston Pride,Shot,Taylor Turnquist,Direct,138,53,143,13,Tori Sullivan,157,25,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3518,1,4,5,4,1,Boston Pride,Shot,McKenna Brand,Direct,172,66,189,64,Christina Putigna,188,59,Wristshot,Missed,FALSE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3528,2,4,5,4,1,Boston Pride,Shot,Carlee Turner,Direct,127,16,146,66,Lauren Kelly,159,63,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Connecticut Whale,Boston Pride,3,3545,6,5,5,4,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,148,80,183,76,Tereza Vanisova,183,65,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,127,1,5,5,0,0,Toronto Six,Shot,Megan Quinn,Direct,129,46,130,20,Lindsay Eastwood,134,22,Wristshot,Missed,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,183,2,5,5,0,0,Toronto Six,Shot,Sarah Steele,Direct,129,5,132,45,Taylor Woods,134,51,Wristshot,Blocked,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,273,4,5,5,0,0,Toronto Six,Goal,Emma Woods,Direct,74,81,94,28,Brooke Boquist,189,37,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,315,1,5,5,0,1,Toronto Six,Shot,Shiann Darkangelo,Direct,134,63,168,74,Emma Woods,183,75,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,331,2,5,5,0,1,Toronto Six,Shot,Mackenzie MacNeil,Direct,178,10,183,34,Breanne Wilson-Bennett,186,37,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,364,5,5,5,0,1,Buffalo Beauts,Shot,Hunter Accursi,Indirect,43,14,105,2,Erin Gehen,162,19,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,408,0,5,5,0,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,159,13,140,28,Brooke Stacey,140,28,Snapshot,On Net,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,429,2,5,5,0,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,133,2,134,22,Lenka Curmova,176,41,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,548,2,5,4,1,1,Buffalo Beauts,Shot,Dominique Kremer,Direct,155,69,147,13,Whitney Dove,147,13,Fan,Missed,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,587,1,5,4,1,1,Buffalo Beauts,Shot,Whitney Dove,Direct,137,59,170,25,Dominique Kremer,170,25,Snapshot,Missed,FALSE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,591,1,5,4,1,1,Buffalo Beauts,Shot,Erin Gehen,Direct,194,28,172,10,Dominique Kremer,166,16,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,616,4,5,5,1,1,Toronto Six,Shot,Natalie Marcuzzi,Indirect,198,59,198,45,Mackenzie MacNeil,181,15,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,651,8,5,5,1,1,Buffalo Beauts,Shot,Megan Delay,Indirect,138,82,179,80,Hunter Accursi,167,1,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,671,0,5,5,1,1,Toronto Six,Shot,Natalie Marcuzzi,Direct,199,48,184,54,Mackenzie MacNeil,184,54,Fan,Missed,FALSE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,688,3,5,5,1,1,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,148,83,130,13,Emma Greco,151,10,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,693,0,5,5,1,1,Toronto Six,Shot,Amy Curlew,Direct,173,17,142,29,Mikyla Grant-Mentis,142,29,Snapshot,Blocked,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,704,3,5,5,1,1,Toronto Six,Shot,Emma Greco,Direct,130,4,175,24,Sarah-Eve Coutu Godbout,186,34,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,780,1,5,5,1,1,Buffalo Beauts,Shot,Erin Gehen,Direct,189,13,134,12,Marie-Jo Pelletier,134,12,Slapshot,On Net,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,828,1,5,5,1,1,Toronto Six,Shot,Emily Fluke,Direct,149,81,150,55,Julie Allen,171,52,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,837,0,5,5,1,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,167,57,178,36,Autumn MacDougall,178,36,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,872,0,5,5,1,1,Buffalo Beauts,Shot,Jordan Juron,Direct,198,49,176,55,Brooke Stacey,176,55,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,967,6,5,4,1,1,Toronto Six,Shot,Lindsay Eastwood,Direct,36,59,63,27,Breanne Wilson-Bennett,184,37,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,991,3,4,4,1,1,Toronto Six,Shot,Shiann Darkangelo,Direct,150,10,165,4,Emma Woods,143,34,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,1008,3,4,5,1,1,Toronto Six,Shot,Emma Woods,Direct,130,52,166,80,Brooke Boquist,154,59,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,1018,1,4,5,1,1,Toronto Six,Shot,Shiann Darkangelo,Direct,179,59,178,38,Brooke Boquist,179,42,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,1054,1,4,5,1,1,Toronto Six,Shot,Lindsay Eastwood,Direct,157,22,190,31,Sarah-Eve Coutu Godbout,186,37,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,1081,1,4,5,1,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,154,8,135,53,Lindsay Eastwood,135,53,Slapshot,Blocked,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,1,1137,4,5,5,1,1,Toronto Six,Shot,Brooke Boquist,Direct,82,12,105,18,Shiann Darkangelo,180,17,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,1,1190,1,5,5,1,1,Buffalo Beauts,Goal,Kristin Lewicki,Direct,161,19,174,43,Autumn MacDougall,180,44,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1290,2,5,5,2,1,Toronto Six,Shot,Emily Fluke,Direct,157,16,131,6,Lindsay Eastwood,131,6,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1377,1,5,5,2,1,Buffalo Beauts,Shot,Kayla Meneghin,Indirect,198,38,193,30,Hunter Accursi,186,33,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1407,2,5,5,2,1,Toronto Six,Shot,Taylor Woods,Direct,153,2,128,35,Emma Greco,133,29,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1420,2,5,5,2,1,Toronto Six,Shot,Emma Woods,Direct,164,55,140,18,Lindsay Eastwood,140,18,Snapshot,Missed,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1468,3,5,5,2,1,Toronto Six,Shot,Mackenzie MacNeil,Direct,194,24,136,8,Sarah Steele,132,7,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1528,7,5,5,2,1,Toronto Six,Shot,Lindsay Eastwood,Direct,103,76,99,45,Taytum Clairmont,174,24,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1576,2,5,5,2,1,Toronto Six,Shot,Sarah Steele,Direct,130,19,129,55,Taylor Woods,135,63,Slapshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1605,3,5,5,2,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,134,82,149,80,Sarah-Eve Coutu Godbout,138,36,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1641,6,5,5,2,1,Toronto Six,Shot,Megan Quinn,Direct,24,43,47,46,Brooke Boquist,161,26,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1758,0,5,5,2,1,Buffalo Beauts,Shot,Neve Van Pelt,Direct,168,32,181,34,Brittany Colton,181,34,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1764,2,5,5,2,1,Buffalo Beauts,Shot,Brittany Colton,Indirect,186,72,132,82,Marie-Jo Pelletier,129,76,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1811,5,5,5,2,1,Toronto Six,Shot,Sarah Steele,Direct,90,5,108,65,Sarah-Eve Coutu Godbout,140,57,Slapshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1855,3,5,5,2,1,Toronto Six,Shot,Emma Woods,Direct,122,45,152,80,Brooke Boquist,169,66,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1869,3,4,4,2,1,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,137,66,148,9,Lindsay Eastwood,165,16,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,1871,0,4,4,2,1,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,195,46,186,48,Mackenzie MacNeil,186,48,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2007,2,5,4,2,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,177,14,155,5,Dominique Kremer,170,18,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2016,1,5,4,2,1,Buffalo Beauts,Shot,Erin Gehen,Direct,143,65,132,30,Whitney Dove,136,23,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2043,3,5,5,2,1,Toronto Six,Shot,Taylor Woods,Direct,130,13,129,52,Mikyla Grant-Mentis,164,54,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2092,7,5,5,2,2,Buffalo Beauts,Shot,Iveta Klimasova,Direct,44,45,81,56,Brittany Colton,154,81,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2110,1,5,5,2,2,Buffalo Beauts,Shot,Jordan Juron,Direct,173,28,176,50,Kristin Lewicki,176,50,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2115,1,5,5,2,2,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,197,37,186,34,Jordan Juron,186,34,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2123,1,5,5,2,2,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,186,6,184,31,Jordan Juron,185,37,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2187,1,5,5,2,2,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,157,35,147,51,Dominique Kremer,158,56,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2195,7,5,5,2,2,Toronto Six,Shot,Breanne Wilson-Bennett,Indirect,29,27,63,5,Natalie Marcuzzi,162,27,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2216,2,5,5,2,2,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Indirect,177,80,127,80,Taylor Woods,131,67,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2263,1,4,5,2,2,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,174,62,179,29,Taytum Clairmont,180,32,Snapshot,Missed,FALSE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2319,1,4,5,2,2,Toronto Six,Shot,Brooke Boquist,Direct,152,75,135,34,Emma Woods,135,34,Slapshot,On Net,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,2,2330,1,4,5,2,2,Toronto Six,Shot,Brooke Boquist,Direct,143,74,133,32,Emma Woods,133,32,Slapshot,On Net,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2494,2,5,5,2,3,Toronto Six,Shot,Sarah Steele,Direct,128,9,129,56,Taylor Woods,132,63,Slapshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2504,2,5,5,2,3,Toronto Six,Shot,Taytum Clairmont,Direct,152,66,130,64,Taylor Woods,130,64,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2612,3,5,5,2,3,Toronto Six,Shot,Brooke Boquist,Direct,185,16,169,11,Shiann Darkangelo,183,32,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2624,2,5,5,2,3,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,195,53,181,49,Natalie Marcuzzi,179,48,Wrap Around,Blocked,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2762,0,5,5,2,3,Buffalo Beauts,Shot,Kristin Lewicki,Direct,194,57,177,53,Jordan Juron,177,53,Snapshot,On Net,FALSE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2775,1,5,5,2,3,Toronto Six,Shot,Shiann Darkangelo,Direct,186,50,180,45,Emma Woods,180,45,Snapshot,Blocked,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2825,4,5,5,2,3,Buffalo Beauts,Shot,Brooke Stacey,Direct,56,5,91,73,Taylor Wasylk,142,72,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2843,4,5,5,2,3,Toronto Six,Shot,Sarah Steele,Direct,57,57,94,46,Breanne Wilson-Bennett,170,32,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2876,0,5,5,2,3,Buffalo Beauts,Shot,Neve Van Pelt,Direct,182,78,152,74,Whitney Dove,152,74,Fan,Missed,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2921,1,4,5,2,3,Toronto Six,Shot,Sarah Steele,Direct,133,28,170,61,Brooke Boquist,177,62,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,2970,4,4,5,2,3,Buffalo Beauts,Shot,Dominique Kremer,Indirect,90,82,135,10,Brooke Stacey,164,15,Wristshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3007,4,4,5,2,3,Buffalo Beauts,Shot,Brooke Stacey,Direct,82,19,88,45,Dominique Kremer,186,71,Snapshot,On Net,FALSE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3018,2,4,5,2,3,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,131,74,138,12,Natalie Marcuzzi,170,15,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3075,2,5,5,2,3,Toronto Six,Shot,Shiann Darkangelo,Direct,138,39,148,7,Emma Greco,156,5,Snapshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3078,0,5,5,2,3,Toronto Six,Shot,Emma Woods,Direct,188,9,147,9,Emma Greco,147,9,Slapshot,On Net,TRUE,TRUE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3202,3,5,5,2,3,Buffalo Beauts,Shot,Jordan Juron,Direct,127,28,140,60,Lenka Curmova,161,72,Wristshot,Missed,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3227,1,5,5,2,3,Buffalo Beauts,Shot,Lenka Curmova,Direct,153,6,128,5,Megan Delay,132,6,Wristshot,Missed,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3260,4,5,5,2,3,Toronto Six,Shot,Brooke Boquist,Direct,71,13,77,28,Mikyla Grant-Mentis,142,35,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3268,1,5,5,2,3,Toronto Six,Shot,Emma Woods,Direct,167,66,159,45,Brooke Boquist,166,34,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3377,1,5,5,2,3,Buffalo Beauts,Shot,Kristin Lewicki,Direct,182,15,146,17,Megan Delay,153,19,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3395,3,5,5,2,3,Buffalo Beauts,Shot,Jordan Juron,Direct,198,33,196,53,Autumn MacDougall,186,63,Wristshot,On Net,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3406,5,5,5,2,3,Buffalo Beauts,Shot,Megan Delay,Indirect,148,5,191,10,Kristin Lewicki,133,19,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3419,1,5,5,2,3,Buffalo Beauts,Shot,Kristin Lewicki,Direct,162,58,147,64,Alyson Matteau,153,66,Wristshot,Blocked,TRUE,FALSE
+2021-01-27,Buffalo Beauts,Toronto Six,3,3452,7,5,5,2,3,Toronto Six,Shot,Emma Woods,Indirect,30,1,76,4,Shiann Darkangelo,168,34,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,75,2,5,5,0,0,Boston Pride,Shot,Lexie Laing,Indirect,195,56,155,82,Taylor Turnquist,155,82,Snapshot,On Net,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,1,81,2,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,164,1,130,12,Briana Mastel,130,12,Snapshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,166,2,5,5,0,0,Buffalo Beauts,Shot,Kristin Lewicki,Direct,130,76,137,36,Jordan Juron,162,29,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,171,2,5,5,0,0,Buffalo Beauts,Shot,Jordan Juron,Direct,188,7,134,37,Alyson Matteau,139,35,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,194,3,5,5,0,0,Buffalo Beauts,Shot,Autumn MacDougall,Direct,97,33,132,58,Kristin Lewicki,177,48,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,231,2,5,5,0,0,Boston Pride,Shot,Briana Mastel,Direct,131,20,133,74,Taylor Turnquist,153,80,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,295,6,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,108,21,104,7,Lauren Kelly,195,16,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,311,2,5,5,0,0,Buffalo Beauts,Shot,Alyson Matteau,Indirect,118,51,118,51,Neve Van Pelt,149,35,Snapshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,325,3,5,5,0,0,Boston Pride,Shot,Samantha Davis,Direct,124,14,150,54,McKenna Brand,181,57,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,333,1,5,5,0,0,Boston Pride,Shot,Lexie Laing,Direct,173,2,172,28,Carlee Turner,178,29,Snapshot,Missed,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,388,2,5,5,0,0,Boston Pride,Shot,McKenna Brand,Direct,147,83,156,27,Christina Putigna,162,34,Snapshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,451,1,5,5,0,0,Boston Pride,Shot,Samantha Davis,Direct,144,62,131,28,Kaleigh Fratkin,131,28,Snapshot,Missed,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,1,489,2,4,5,0,0,Boston Pride,Shot,Taylor Turnquist,Direct,136,34,145,15,Taylor Wenczkowski,149,28,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,509,4,5,5,0,1,Buffalo Beauts,Shot,Kristin Lewicki,Direct,121,81,123,59,Jordan Juron,177,78,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,534,1,5,5,0,1,Boston Pride,Shot,McKenna Brand,Direct,182,17,163,31,Christina Putigna,163,31,Snapshot,On Net,FALSE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,1,551,0,5,5,0,1,Buffalo Beauts,Shot,Kristin Lewicki,Direct,178,3,150,19,Brooke Stacey,150,19,Fan,Missed,FALSE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,1,611,2,5,5,0,1,Boston Pride,Shot,Tori Sullivan,Direct,194,66,165,83,Lexie Laing,160,78,Wristshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,628,4,5,5,0,1,Buffalo Beauts,Shot,Whitney Dove,Direct,58,41,104,71,Iveta Klimasova,150,14,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,699,1,4,5,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,137,8,149,43,Taylor Wenczkowski,149,43,Wristshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,720,5,4,5,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,138,38,146,76,Taylor Turnquist,181,59,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,768,3,4,5,0,1,Boston Pride,Shot,Jillian Dempsey,Indirect,132,5,133,0,Christina Putigna,167,15,Wristshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,799,4,5,5,0,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,73,68,109,5,McKenna Brand,147,37,Wristshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,844,2,4,4,0,1,Boston Pride,Shot,Samantha Davis,Direct,175,78,127,77,Taylor Turnquist,134,66,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,851,2,4,4,0,1,Boston Pride,Shot,Samantha Davis,Direct,191,24,162,55,Taylor Turnquist,172,55,Wristshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,861,3,4,4,0,1,Boston Pride,Shot,Taylor Turnquist,Direct,94,49,106,27,Samantha Davis,147,26,Wristshot,Missed,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,899,2,4,4,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,148,80,129,37,Lauren Kelly,133,35,Wristshot,Missed,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,904,1,4,4,0,1,Boston Pride,Shot,Taylor Wenczkowski,Indirect,183,77,131,81,Lauren Kelly,135,81,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,951,1,5,4,0,1,Buffalo Beauts,Shot,Lisa Chesson,Direct,143,38,164,19,Jordan Juron,164,19,Slapshot,On Net,FALSE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,1,1008,2,5,4,0,1,Buffalo Beauts,Shot,Whitney Dove,Direct,138,76,136,33,Alyson Matteau,137,30,Slapshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,1038,6,5,4,0,1,Buffalo Beauts,Shot,Taylor Wasylk,Direct,35,31,58,59,Brooke Stacey,166,34,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,1,1088,1,5,5,0,1,Boston Pride,Shot,Tori Sullivan,Direct,156,2,126,6,Lauren Kelly,126,6,Wristshot,Missed,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1286,0,5,5,0,1,Boston Pride,Shot,Lexie Laing,Direct,175,76,165,57,Tori Sullivan,165,57,Fan,Missed,FALSE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1314,1,5,5,0,1,Boston Pride,Shot,Tereza Vanisova,Direct,135,30,154,10,Carlee Turner,161,15,Slapshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1359,2,5,5,0,1,Boston Pride,Shot,Lauren Kelly,Indirect,151,3,183,6,Tereza Vanisova,185,8,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1460,1,5,5,0,1,Boston Pride,Shot,Tori Sullivan,Indirect,145,56,144,58,Lexie Laing,157,55,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1514,5,5,5,1,1,Boston Pride,Shot,Christina Putigna,Direct,63,26,83,36,McKenna Brand,173,33,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1549,3,5,5,1,1,Boston Pride,Shot,Carlee Turner,Direct,78,66,111,37,Taylor Wenczkowski,151,55,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1614,2,5,5,1,1,Boston Pride,Shot,Tori Sullivan,Indirect,195,22,131,5,Briana Mastel,136,7,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1635,1,5,5,1,1,Boston Pride,Shot,Samantha Davis,Direct,144,64,167,20,McKenna Brand,179,20,Wristshot,Missed,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1665,1,5,5,1,1,Boston Pride,Shot,McKenna Brand,Direct,146,14,156,6,Lauren Kelly,172,16,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1807,2,5,6,1,1,Boston Pride,Shot,Mallory Souliotis,Direct,173,7,132,50,Kaleigh Fratkin,135,46,Slapshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1852,1,4,5,1,1,Boston Pride,Shot,McKenna Brand,Direct,136,66,133,77,Lauren Kelly,136,72,Slapshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,1883,1,4,5,1,1,Boston Pride,Shot,Taylor Turnquist,Direct,134,28,159,13,McKenna Brand,170,19,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,2147,1,5,4,1,1,Buffalo Beauts,Shot,Dominique Kremer,Direct,170,4,140,59,Alyson Matteau,140,59,Slapshot,Blocked,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,2,2180,3,5,4,1,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,70,62,110,64,Taylor Wasylk,160,70,Snapshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,2260,2,5,5,1,1,Boston Pride,Shot,Tori Sullivan,Direct,186,10,159,20,Mallory Souliotis,164,25,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,2303,2,4,5,1,1,Boston Pride,Shot,Taylor Turnquist,Direct,144,36,150,18,Taylor Wenczkowski,163,15,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,2345,3,4,5,1,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,130,76,145,23,Taylor Turnquist,161,14,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,2,2354,0,4,5,1,1,Boston Pride,Shot,Taylor Turnquist,Direct,152,4,132,31,Samantha Davis,132,31,Slapshot,Missed,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,2,2388,1,5,5,1,1,Boston Pride,Shot,Tori Sullivan,Direct,191,11,140,3,Mallory Souliotis,140,3,Slapshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2414,0,5,5,1,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,158,17,144,12,Alyson Matteau,144,12,Snapshot,Missed,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2436,12,5,5,1,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Indirect,55,35,115,83,Kristin Lewicki,174,29,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2465,1,5,5,1,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,198,28,159,39,Brooke Stacey,159,39,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2486,2,5,5,1,1,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,155,7,166,18,Erin Gehen,159,28,Snapshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2508,3,5,5,1,1,Buffalo Beauts,Shot,Neve Van Pelt,Indirect,191,59,146,7,Whitney Dove,137,13,Snapshot,Missed,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2573,10,5,5,1,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,41,21,88,8,Christina Putigna,159,2,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2653,2,5,4,1,1,Buffalo Beauts,Shot,Jordan Juron,Direct,149,16,156,65,Lisa Chesson,172,72,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2706,3,5,4,1,1,Buffalo Beauts,Shot,Erin Gehen,Direct,87,55,107,56,Taylor Wasylk,150,56,Snapshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2731,1,5,4,1,1,Buffalo Beauts,Shot,Whitney Dove,Direct,132,40,143,67,Alyson Matteau,143,67,Slapshot,Missed,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2831,5,5,5,1,1,Boston Pride,Shot,Kaleigh Fratkin,Indirect,21,4,84,19,Christina Putigna,164,18,Wristshot,Missed,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2849,4,5,5,1,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,65,32,105,17,Kristin Lewicki,178,23,Snapshot,Blocked,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2882,3,5,5,1,1,Buffalo Beauts,Shot,Brooke Stacey,Direct,101,79,116,83,Dominique Kremer,137,80,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2920,3,5,5,1,1,Buffalo Beauts,Shot,Alyson Matteau,Indirect,79,45,124,10,Taylor Wasylk,134,6,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2956,2,5,5,1,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,121,25,131,4,Samantha Davis,156,11,Slapshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,2996,1,5,5,1,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,163,32,179,48,Kristin Lewicki,183,42,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3032,18,5,5,1,1,Buffalo Beauts,Shot,Alyson Matteau,Direct,25,18,70,6,Brooke Stacey,162,24,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3044,1,5,5,1,1,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,168,70,172,48,Brooke Stacey,172,48,Snapshot,On Net,FALSE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3102,1,5,5,1,1,Boston Pride,Shot,McKenna Brand,Direct,194,33,180,36,Jillian Dempsey,180,36,Snapshot,Blocked,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3113,3,5,5,1,1,Boston Pride,Shot,Taylor Turnquist,Indirect,152,81,196,66,Christina Putigna,168,72,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3170,4,5,4,1,1,Buffalo Beauts,Shot,Autumn MacDougall,Direct,54,76,109,58,Taylor Wasylk,138,78,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3243,6,5,4,1,1,Buffalo Beauts,Shot,Whitney Dove,Direct,65,11,88,32,Jordan Juron,160,83,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3275,4,5,5,1,1,Boston Pride,Shot,Mallory Souliotis,Direct,95,8,108,77,Tereza Vanisova,170,67,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3368,0,5,4,1,1,Buffalo Beauts,Shot,Jordan Juron,Direct,193,27,178,36,Brooke Stacey,178,36,Fan,Missed,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3399,2,5,5,2,1,Boston Pride,Shot,Taylor Wenczkowski,Direct,170,2,130,5,Briana Mastel,130,10,Slapshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3457,2,4,5,2,1,Boston Pride,Shot,McKenna Brand,Direct,136,62,170,72,Christina Putigna,168,65,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3482,3,4,5,2,1,Boston Pride,Shot,Kaleigh Fratkin,Direct,129,67,129,19,Mallory Souliotis,134,16,Slapshot,Missed,TRUE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3488,1,4,5,2,1,Boston Pride,Shot,McKenna Brand,Direct,157,64,183,63,Christina Putigna,184,59,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3510,1,4,5,2,1,Boston Pride,Shot,Taylor Turnquist,Direct,138,46,165,72,Lauren Kelly,165,72,Snapshot,Blocked,TRUE,TRUE
+2021-01-30,Buffalo Beauts,Boston Pride,3,3557,1,4,6,2,1,Boston Pride,Shot,Jillian Dempsey,Direct,157,66,185,69,McKenna Brand,182,64,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,22,7,5,5,0,0,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,111,25,117,25,Haley Mack,170,63,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,104,7,5,5,0,0,Toronto Six,Shot,Emily Fluke,Direct,37,5,45,23,Sarah-Eve Coutu Godbout,167,13,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,132,4,5,5,0,0,Toronto Six,Shot,Shiann Darkangelo,Indirect,188,8,157,82,Taylor Woods,157,82,Snapshot,Blocked,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,159,2,5,5,0,0,Minnesota Whitecaps,Shot,Meghan Lorence,Indirect,168,72,132,81,Sara Bustad,132,68,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,184,1,5,5,0,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,164,26,155,43,Natalie Marcuzzi,155,43,Snapshot,On Net,FALSE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,205,2,5,5,0,0,Toronto Six,Shot,Lindsay Eastwood,Direct,194,59,169,42,Natalie Marcuzzi,169,46,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,264,4,5,5,0,0,Minnesota Whitecaps,Shot,Meaghan Pezon,Direct,116,7,106,26,Jonna Curtis,157,35,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,381,2,5,4,0,0,Toronto Six,Shot,Lindsay Eastwood,Direct,153,7,145,66,Shiann Darkangelo,156,65,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,389,2,5,4,0,0,Toronto Six,Shot,Shiann Darkangelo,Direct,146,63,151,20,Taylor Woods,160,27,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,409,2,5,4,0,0,Toronto Six,Shot,Lindsay Eastwood,Direct,149,20,160,64,Shiann Darkangelo,167,63,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,413,2,5,4,0,0,Toronto Six,Shot,Mikyla Grant-Mentis,Indirect,197,42,193,71,Shiann Darkangelo,178,65,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,420,1,5,4,0,0,Toronto Six,Goal,Lindsay Eastwood,Direct,151,24,180,65,Mikyla Grant-Mentis,183,65,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,469,2,5,5,1,0,Minnesota Whitecaps,Shot,Sydney Baldwin,Direct,96,32,121,82,Jonna Curtis,151,80,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,533,1,5,4,1,0,Toronto Six,Shot,Taylor Woods,Direct,152,17,133,31,Lindsay Eastwood,133,31,Fan,Missed,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,561,2,5,4,1,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,154,6,185,8,Sarah-Eve Coutu Godbout,186,36,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,590,1,5,4,1,0,Toronto Six,Shot,Megan Quinn,Direct,136,21,145,66,Sarah Steele,145,66,Slapshot,Missed,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,600,2,5,4,1,0,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,150,8,176,50,Allie Thunstrom,181,37,Snapshot,Missed,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,658,5,5,5,1,0,Toronto Six,Shot,Natalie Marcuzzi,Indirect,32,2,85,11,Emily Fluke,163,21,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,671,3,5,5,1,0,Toronto Six,Shot,Taylor Woods,Direct,90,80,105,16,Mikyla Grant-Mentis,133,5,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,684,1,5,5,1,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,186,11,140,61,Taylor Woods,150,59,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,734,0,5,5,1,0,Toronto Six,Shot,Julie Allen,Direct,160,2,132,3,Lindsay Eastwood,132,3,Snapshot,On Net,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,840,14,5,5,1,0,Minnesota Whitecaps,Shot,Maddie Rowe,Direct,45,77,36,31,Sydney Baldwin,126,6,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,893,0,5,5,1,0,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,176,15,182,45,Allie Thunstrom,182,45,Deflection,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,927,0,5,5,1,0,Toronto Six,Shot,Taytum Clairmont,Direct,158,23,176,42,Mikyla Grant-Mentis,176,42,Deflection,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,1066,1,5,5,1,0,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,137,25,147,67,Stephanie Anderson,156,61,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,1081,2,5,5,1,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,161,11,159,33,Allie Thunstrom,145,56,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,1122,1,5,5,1,0,Toronto Six,Shot,Lindsay Eastwood,Direct,137,24,179,32,Natalie Marcuzzi,179,32,Deflection,Missed,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,1,1153,5,5,5,1,0,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,66,16,113,77,Allie Thunstrom,188,32,Wrap Around,Missed,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1247,5,4,5,1,0,Minnesota Whitecaps,Shot,Nina Rodgers,Indirect,152,4,180,4,Haley Mack,195,35,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1259,1,4,5,1,0,Minnesota Whitecaps,Shot,Haley Mack,Direct,191,68,169,80,Meghan Lorence,168,68,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1282,0,4,5,1,0,Minnesota Whitecaps,Goal,Haley Mack,Direct,188,64,186,35,Nina Rodgers,186,35,Snapshot,On Net,FALSE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1394,0,5,5,1,1,Toronto Six,Shot,Natalie Marcuzzi,Direct,194,21,196,40,Mackenzie MacNeil,188,34,Fan,Missed,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1406,1,5,5,1,1,Toronto Six,Shot,Taylor Woods,Direct,148,5,129,36,Sarah Steele,129,36,Slapshot,Missed,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1416,0,6,5,1,1,Toronto Six,Shot,Shiann Darkangelo,Direct,183,74,164,38,Emily Fluke,164,38,Snapshot,Blocked,FALSE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1428,2,5,4,1,1,Toronto Six,Shot,Taytum Clairmont,Direct,191,67,141,72,Taylor Woods,147,70,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1470,1,5,4,1,1,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,196,43,187,54,Sarah-Eve Coutu Godbout,183,49,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1475,1,5,4,1,1,Toronto Six,Shot,Taylor Woods,Direct,136,31,136,60,Sarah Steele,136,60,Slapshot,Blocked,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1488,2,5,4,1,1,Toronto Six,Shot,Sarah Steele,Direct,139,9,134,30,Sarah-Eve Coutu Godbout,142,30,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1504,2,5,4,1,1,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,187,75,169,56,Amy Curlew,168,42,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1530,3,5,4,1,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,153,6,131,53,Megan Quinn,140,61,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1581,1,5,5,1,1,Toronto Six,Goal,Emily Fluke,Direct,175,11,158,49,Taylor Woods,168,47,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1647,1,5,5,2,1,Minnesota Whitecaps,Shot,Chelsey Brodt-Rosenthal,Direct,157,61,139,31,Emma Stauber,142,29,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1707,4,5,5,2,1,Toronto Six,Shot,Sarah Steele,Direct,40,71,115,52,Sarah-Eve Coutu Godbout,175,35,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1713,3,5,5,2,1,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,166,13,138,9,Emma Greco,171,4,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1773,2,5,5,2,1,Toronto Six,Shot,Mackenzie MacNeil,Direct,155,73,148,80,Taylor Woods,177,71,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1790,2,5,5,2,1,Toronto Six,Shot,Sarah Steele,Direct,123,25,136,54,Natalie Marcuzzi,161,53,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1805,1,5,5,2,1,Minnesota Whitecaps,Shot,Haley Mack,Direct,160,15,132,53,Sara Bustad,132,53,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1838,1,5,5,2,1,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,153,65,162,44,Meghan Lorence,179,43,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1864,2,5,5,2,1,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,178,80,134,80,Megan Quinn,133,81,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1903,3,5,5,2,1,Minnesota Whitecaps,Shot,Allie Thunstrom,Indirect,193,17,135,5,Emma Stauber,133,3,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,1944,5,5,5,2,1,Toronto Six,Shot,Emma Greco,Indirect,126,2,155,6,Natalie Marcuzzi,162,43,Snapshot,Missed,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,2012,3,5,5,2,1,Toronto Six,Shot,Megan Quinn,Direct,136,69,135,23,Emma Greco,146,19,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,2068,2,5,5,2,1,Toronto Six,Shot,Mackenzie MacNeil,Direct,176,2,172,4,Breanne Wilson-Bennett,177,25,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,2121,3,4,5,2,1,Minnesota Whitecaps,Shot,Haley Mack,Direct,188,71,134,48,Sydney Baldwin,145,37,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,2158,7,4,5,2,1,Minnesota Whitecaps,Shot,Haley Mack,Indirect,144,80,194,19,Meaghan Pezon,168,33,Snapshot,Missed,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,2285,2,5,5,2,1,Toronto Six,Shot,Natalie Marcuzzi,Direct,154,72,128,72,Lindsay Eastwood,135,68,Snapshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,2296,1,5,5,2,1,Toronto Six,Shot,Shiann Darkangelo,Direct,195,51,172,50,Taytum Clairmont,172,50,Snapshot,Blocked,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,2,2304,1,5,5,2,1,Toronto Six,Shot,Megan Quinn,Direct,142,56,168,30,Taytum Clairmont,168,30,Slapshot,On Net,TRUE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2475,3,5,5,2,2,Toronto Six,Shot,Breanne Wilson-Bennett,Indirect,199,27,154,84,Megan Quinn,154,84,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2487,2,5,5,2,2,Minnesota Whitecaps,Shot,Haley Mack,Direct,148,8,161,40,Allie Thunstrom,182,39,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2492,2,5,5,2,2,Minnesota Whitecaps,Shot,Meaghan Pezon,Indirect,187,6,129,2,Emma Stauber,129,11,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2510,5,5,5,2,2,Toronto Six,Shot,Natalie Marcuzzi,Direct,58,3,80,56,Mackenzie MacNeil,142,78,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2642,2,4,5,2,2,Minnesota Whitecaps,Shot,Maddie Rowe,Direct,133,49,159,18,Meaghan Pezon,165,19,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2660,2,4,5,2,2,Minnesota Whitecaps,Shot,Emma Stauber,Direct,152,80,186,72,Allie Thunstrom,185,60,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2667,3,4,5,2,2,Minnesota Whitecaps,Shot,Maddie Rowe,Direct,126,4,154,3,Meaghan Pezon,157,39,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2712,1,4,5,2,2,Minnesota Whitecaps,Shot,Haley Mack,Direct,178,61,158,51,Stephanie Anderson,158,49,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2799,6,5,5,2,2,Minnesota Whitecaps,Shot,Jonna Curtis,Indirect,58,9,100,10,Allie Thunstrom,173,52,Wristshot,On Net,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2872,2,5,5,2,2,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,142,74,149,50,Meghan Lorence,170,34,Wristshot,Missed,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2884,1,5,5,2,2,Minnesota Whitecaps,Shot,Haley Mack,Direct,132,35,144,15,Sydney Baldwin,158,15,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2905,8,5,5,2,2,Toronto Six,Shot,Julie Allen,Direct,49,75,67,84,Sarah-Eve Coutu Godbout,137,24,Slapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,2984,4,5,5,3,2,Minnesota Whitecaps,Shot,Allie Thunstrom,Indirect,78,80,173,35,Jonna Curtis,183,36,Snapshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3048,5,3,5,3,2,Minnesota Whitecaps,Shot,Emma Stauber,Direct,147,23,151,57,Maddie Rowe,146,27,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3082,2,3,5,3,2,Minnesota Whitecaps,Shot,Meaghan Pezon,Direct,181,19,143,33,Emma Stauber,150,25,Wristshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3108,2,4,5,3,2,Minnesota Whitecaps,Shot,Stephanie Anderson,Direct,150,63,135,37,Sydney Baldwin,142,38,Slapshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3115,1,4,5,3,2,Minnesota Whitecaps,Shot,Meghan Lorence,Direct,173,67,179,44,Stephanie Anderson,179,44,Snapshot,On Net,FALSE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3136,4,5,5,3,3,Toronto Six,Shot,Shiann Darkangelo,Direct,194,53,138,16,Lindsay Eastwood,136,2,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3153,3,5,5,3,3,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,192,22,136,2,Lindsay Eastwood,135,6,Wristshot,Missed,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3180,6,5,5,3,3,Minnesota Whitecaps,Shot,Sara Bustad,Direct,9,58,46,80,Allie Thunstrom,175,69,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3195,3,5,5,3,3,Minnesota Whitecaps,Shot,Jonna Curtis,Direct,114,5,120,22,Allie Thunstrom,166,59,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3220,2,5,5,3,3,Minnesota Whitecaps,Shot,Winny Brodt-Brown,Direct,179,68,133,76,Sara Bustad,136,73,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3231,0,5,5,3,3,Toronto Six,Shot,Taylor Woods,Direct,176,6,165,16,Sarah-Eve Coutu Godbout,165,16,Snapshot,Blocked,FALSE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3289,5,5,5,3,3,Minnesota Whitecaps,Shot,Lynn Astrup,Indirect,60,0,82,33,Audra Richards,162,14,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3389,3,5,5,3,3,Minnesota Whitecaps,Shot,Allie Thunstrom,Direct,67,79,105,6,Jonna Curtis,141,3,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3462,5,5,5,3,3,Toronto Six,Shot,Taylor Woods,Direct,57,56,82,23,Natalie Marcuzzi,176,16,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3486,5,5,5,3,3,Toronto Six,Shot,Natalie Marcuzzi,Indirect,198,49,172,84,Taylor Woods,167,63,Snapshot,Blocked,TRUE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3495,4,5,5,3,3,Toronto Six,Shot,Sarah Steele,Direct,102,9,103,56,Taylor Woods,137,75,Slapshot,Blocked,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3514,1,5,5,3,3,Toronto Six,Shot,Taytum Clairmont,Direct,150,77,178,42,Mikyla Grant-Mentis,178,42,Snapshot,On Net,FALSE,TRUE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3535,5,5,5,3,3,Minnesota Whitecaps,Shot,Haley Mack,Direct,64,2,77,35,Meghan Lorence,154,60,Wristshot,On Net,FALSE,FALSE
+2021-01-30,Toronto Six,Minnesota Whitecaps,3,3574,5,5,5,3,3,Toronto Six,Goal,Taytum Clairmont,Direct,110,59,135,80,Mikyla Grant-Mentis,181,59,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,32,3,5,5,0,0,Buffalo Beauts,Shot,Kristin Lewicki,Direct,147,67,130,84,Dominique Kremer,140,83,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,74,2,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,116,47,117,14,Mallory Souliotis,161,13,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,130,6,5,5,0,0,Boston Pride,Shot,Briana Mastel,Indirect,76,24,104,7,Tereza Vanisova,190,46,Wrap Around,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,139,3,5,5,0,0,Boston Pride,Shot,Briana Mastel,Direct,126,43,128,75,Taylor Turnquist,151,72,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,237,2,5,5,0,0,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,175,80,142,70,Lenka Curmova,146,70,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,302,6,5,5,0,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,81,57,105,77,McKenna Brand,139,36,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,311,4,5,5,0,0,Boston Pride,Shot,Taylor Wenczkowski,Direct,155,30,130,78,Taylor Turnquist,161,67,Wristshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,378,2,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,185,4,163,29,Lexie Laing,168,30,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,386,2,5,5,0,0,Boston Pride,Shot,Lexie Laing,Indirect,186,7,149,4,Lauren Kelly,149,4,Slapshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,447,7,5,5,0,0,Buffalo Beauts,Shot,Brooke Stacey,Indirect,5,26,46,4,Cassidy MacPherson,160,10,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,493,0,4,5,0,0,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,141,37,177,56,Lisa Chesson,177,56,Fan,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,546,2,4,5,0,0,Boston Pride,Shot,McKenna Brand,Direct,129,82,155,43,Jillian Dempsey,172,43,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,568,8,4,5,0,0,Buffalo Beauts,Shot,Brooke Stacey,Direct,83,8,45,57,Alyson Matteau,159,25,Wristshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,583,2,4,5,0,0,Buffalo Beauts,Shot,Whitney Dove,Direct,142,32,145,59,Alyson Matteau,145,62,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,620,1,5,5,0,0,Buffalo Beauts,Shot,Brittany Colton,Direct,112,84,122,74,Taylor Wasylk,161,70,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,651,2,5,5,0,0,Buffalo Beauts,Shot,Erin Gehen,Direct,108,17,116,57,Whitney Dove,150,59,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,715,8,5,5,0,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,34,69,53,4,Christina Putigna,150,15,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,884,7,5,5,0,0,Boston Pride,Shot,Lexie Laing,Indirect,197,52,196,47,Samantha Davis,149,12,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,989,3,5,5,0,0,Buffalo Beauts,Shot,Alyson Matteau,Direct,86,34,119,53,Erin Gehen,142,75,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,1007,7,5,5,0,0,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,42,48,46,79,Lisa Chesson,152,33,Wristshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,1029,1,5,5,0,0,Boston Pride,Shot,Mallory Souliotis,Direct,126,14,133,64,Kaleigh Fratkin,156,68,Wristshot,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,1079,1,5,5,0,0,Boston Pride,Shot,McKenna Brand,Indirect,160,81,178,81,Christina Putigna,171,80,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,1084,2,5,5,0,0,Boston Pride,Shot,Taylor Wenczkowski,Direct,162,55,135,67,Paige Capistran,138,64,Wristshot,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,1109,1,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,190,56,162,53,Paige Capistran,165,51,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,1,1184,0,5,5,0,0,Boston Pride,Shot,McKenna Brand,Direct,166,66,178,38,Jillian Dempsey,178,38,Deflection,On Net,FALSE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1230,6,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,70,60,76,51,Samantha Davis,161,58,Snapshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1237,1,5,5,0,0,Boston Pride,Shot,Christina Putigna,Direct,154,81,133,52,Kaleigh Fratkin,133,52,Snapshot,Missed,TRUE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1240,1,5,5,0,0,Boston Pride,Goal,Christina Putigna,Direct,189,54,171,30,Mallory Souliotis,171,30,Snapshot,On Net,FALSE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1282,0,5,5,1,0,Buffalo Beauts,Shot,Brooke Stacey,Direct,177,39,181,38,Erin Gehen,181,38,Snapshot,On Net,FALSE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1344,7,5,5,1,0,Boston Pride,Shot,Lexie Laing,Indirect,178,5,195,18,Tori Sullivan,135,32,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1388,5,5,5,1,0,Buffalo Beauts,Shot,Megan Delay,Direct,80,81,85,71,Cassidy MacPherson,162,25,Snapshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1441,6,5,5,1,0,Boston Pride,Shot,Christina Putigna,Indirect,44,5,117,5,Meghara McManus,165,48,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1458,3,5,5,1,0,Boston Pride,Shot,Carlee Turner,Direct,197,44,196,22,Meaghan Rickard,185,40,Wrap Around,Blocked,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1470,2,5,5,1,0,Boston Pride,Shot,Samantha Davis,Direct,158,73,129,32,Lauren Kelly,133,20,Fan,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1526,2,5,4,1,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,134,53,157,73,McKenna Brand,166,65,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1612,4,5,4,1,0,Boston Pride,Shot,Tereza Vanisova,Direct,138,22,134,69,Taylor Turnquist,177,67,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1664,1,5,5,1,0,Boston Pride,Shot,Tereza Vanisova,Indirect,156,56,156,56,Taylor Wenczkowski,165,55,Snapshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1694,1,5,5,1,0,Boston Pride,Shot,Samantha Davis,Direct,165,24,136,45,Kaleigh Fratkin,136,45,Slapshot,Blocked,TRUE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1824,24,5,5,1,0,Buffalo Beauts,Shot,Alyson Matteau,Direct,18,80,41,32,Iveta Klimasova,163,23,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1864,2,5,5,1,0,Buffalo Beauts,Shot,Whitney Dove,Direct,102,15,121,21,Megan Delay,151,36,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1957,0,4,5,1,0,Buffalo Beauts,Shot,Taylor Wasylk,Direct,192,21,182,30,Jordan Juron,182,30,Snapshot,Missed,FALSE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,1969,0,4,5,1,0,Buffalo Beauts,Shot,Alyson Matteau,Direct,168,12,171,30,Taylor Wasylk,179,32,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2014,5,5,5,1,0,Buffalo Beauts,Shot,Brooke Stacey,Direct,69,41,96,23,Cassidy MacPherson,168,13,Snapshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2066,3,5,5,1,0,Boston Pride,Shot,Lexie Laing,Direct,110,47,120,25,Samantha Davis,173,28,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2184,6,5,5,1,0,Buffalo Beauts,Shot,Whitney Dove,Direct,30,26,68,70,Brooke Stacey,146,36,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2194,2,5,5,1,0,Buffalo Beauts,Shot,Erin Gehen,Indirect,189,13,165,3,Alyson Matteau,167,16,Snapshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2256,1,5,5,1,0,Buffalo Beauts,Shot,Taylor Wasylk,Direct,179,77,182,50,Iveta Klimasova,182,50,Fan,Blocked,TRUE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2259,1,5,5,1,0,Buffalo Beauts,Shot,Iveta Klimasova,Direct,194,30,140,51,Lisa Chesson,140,51,Snapshot,Blocked,TRUE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2308,0,5,5,2,0,Boston Pride,Shot,Meghara McManus,Direct,176,66,180,41,Carlee Turner,180,41,Snapshot,On Net,FALSE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,2,2367,8,5,5,2,0,Buffalo Beauts,Shot,Dominique Kremer,Direct,28,65,78,16,Autumn MacDougall,160,4,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2422,0,5,5,3,0,Buffalo Beauts,Shot,Kristin Lewicki,Direct,186,21,181,36,Jordan Juron,181,36,Snapshot,Missed,TRUE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2458,2,5,5,3,0,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,157,23,141,65,Marie-Jo Pelletier,158,70,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2471,2,5,5,3,0,Buffalo Beauts,Shot,Erin Gehen,Direct,162,5,128,44,Marie-Jo Pelletier,128,40,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2479,2,5,5,3,0,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,176,82,130,80,Marie-Jo Pelletier,133,83,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2502,2,5,5,3,0,Boston Pride,Shot,McKenna Brand,Direct,178,81,131,80,Paige Capistran,131,77,Snapshot,Blocked,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2523,1,5,5,3,0,Boston Pride,Shot,Carlee Turner,Direct,190,14,159,17,Lauren Kelly,167,18,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2555,1,5,5,3,0,Boston Pride,Goal,Kaleigh Fratkin,Direct,129,66,131,26,Mallory Souliotis,134,24,Snapshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2593,3,5,5,4,0,Buffalo Beauts,Shot,Autumn MacDougall,Direct,121,13,136,59,Jordan Juron,171,70,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2655,1,5,5,4,0,Boston Pride,Shot,Tereza Vanisova,Direct,168,26,174,42,Meghara McManus,180,43,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2705,2,5,4,4,0,Boston Pride,Shot,Jillian Dempsey,Direct,161,67,144,63,McKenna Brand,143,56,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2720,2,5,4,4,0,Boston Pride,Shot,Lauren Kelly,Direct,131,10,131,42,Taylor Turnquist,163,57,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2728,1,5,4,4,0,Boston Pride,Goal,Jillian Dempsey,Direct,162,8,129,19,Lauren Kelly,130,33,Slapshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2794,2,5,5,6,0,Boston Pride,Shot,Taylor Turnquist,Direct,135,74,138,12,Briana Mastel,151,6,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2827,4,5,5,6,0,Buffalo Beauts,Shot,Iveta Klimasova,Direct,193,18,139,4,Lisa Chesson,157,48,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2857,2,5,5,6,0,Boston Pride,Shot,Carlee Turner,Direct,95,54,120,78,Meaghan Rickard,175,69,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2867,1,5,5,6,0,Buffalo Beauts,Shot,Brooke Stacey,Direct,142,6,157,31,Taylor Wasylk,165,36,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2895,3,5,5,6,0,Boston Pride,Shot,Lauren Kelly,Direct,138,1,133,63,Paige Capistran,149,74,Wristshot,On Net,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,2999,5,5,5,6,0,Buffalo Beauts,Shot,Jordan Juron,Direct,79,68,105,32,Autumn MacDougall,165,7,Wristshot,Blocked,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3131,1,5,5,6,0,Buffalo Beauts,Shot,Iveta Klimasova,Direct,140,68,138,73,Taylor Wasylk,148,71,Wristshot,Blocked,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3171,5,5,5,6,0,Buffalo Beauts,Shot,Alyson Matteau,Indirect,171,8,141,83,Brittany Colton,145,82,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3239,4,5,5,6,0,Boston Pride,Shot,Taylor Turnquist,Indirect,39,63,105,65,Meaghan Rickard,161,67,Wristshot,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3275,1,5,4,6,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,133,64,133,17,Mallory Souliotis,133,17,Slapshot,On Net,TRUE,TRUE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3297,10,5,4,6,0,Boston Pride,Shot,Taylor Turnquist,Indirect,25,7,30,2,Taylor Wenczkowski,169,76,Wristshot,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3312,3,5,4,6,0,Boston Pride,Shot,Taylor Turnquist,Direct,135,47,138,19,Tereza Vanisova,159,24,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3330,2,5,4,6,0,Boston Pride,Shot,Taylor Turnquist,Direct,133,44,175,14,Tereza Vanisova,179,21,Wristshot,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3398,1,5,5,6,0,Buffalo Beauts,Shot,Brooke Stacey,Direct,150,59,164,65,Kristin Lewicki,177,58,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3422,5,5,5,6,0,Boston Pride,Shot,Kaleigh Fratkin,Direct,94,27,117,79,Christina Putigna,179,77,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3478,2,5,5,6,0,Boston Pride,Shot,Taylor Wenczkowski,Direct,187,5,128,1,Lauren Kelly,133,4,Slapshot,Blocked,TRUE,FALSE
+2021-01-31,Boston Pride,Buffalo Beauts,3,3562,1,5,5,6,0,Buffalo Beauts,Shot,Alyson Matteau,Direct,198,28,181,40,Taylor Wasylk,181,40,Snapshot,On Net,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,1,200,2,4,5,0,0,Connecticut Whale,Shot,Emma Vlasic,Direct,144,67,130,69,Shannon Doyle,132,68,Wristshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,213,4,4,5,0,0,Toronto Six,Shot,Mackenzie MacNeil,Direct,79,36,106,39,Natalie Marcuzzi,178,46,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,240,2,4,5,0,0,Connecticut Whale,Shot,Alyssa Wohlfeiler,Indirect,164,7,168,4,Maggie LaGue,178,25,Wristshot,On Net,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,250,0,4,5,0,0,Connecticut Whale,Shot,Shannon Doyle,Direct,132,42,168,59,Emma Vlasic,168,59,Slapshot,Missed,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,1,256,2,4,5,0,0,Connecticut Whale,Shot,Emma Vlasic,Direct,173,78,129,66,Shannon Doyle,131,59,Wristshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,304,1,4,5,0,0,Connecticut Whale,Shot,Amanda Conway,Direct,156,17,132,41,Taylor Marchin,135,45,Slapshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,467,0,5,5,0,0,Connecticut Whale,Shot,Hanna Beattie,Direct,148,40,175,54,Katelynn Russ,175,54,Snapshot,On Net,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,1,523,8,5,5,0,0,Toronto Six,Shot,Taylor Woods,Indirect,130,4,198,22,Sarah-Eve Coutu Godbout,189,46,Wrap Around,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,594,6,5,5,0,0,Toronto Six,Shot,Lindsay Eastwood,Indirect,68,16,120,3,Natalie Marcuzzi,187,22,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,637,1,5,5,0,0,Toronto Six,Shot,Mikyla Grant-Mentis,Indirect,187,70,197,38,Taytum Clairmont,183,32,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,799,4,5,5,0,0,Toronto Six,Shot,Shiann Darkangelo,Direct,71,49,89,28,Mikyla Grant-Mentis,159,28,Wristshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,841,1,5,5,0,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,196,35,170,41,Mackenzie MacNeil,170,41,Snapshot,Blocked,TRUE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,1,877,3,5,5,0,0,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,86,23,122,53,Katelynn Russ,167,54,Wristshot,On Net,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,903,1,5,4,0,0,Toronto Six,Shot,Shiann Darkangelo,Direct,157,81,132,47,Taylor Woods,138,47,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,978,1,5,3,0,0,Toronto Six,Shot,Lindsay Eastwood,Direct,149,54,157,26,Taylor Woods,157,26,Slapshot,Missed,TRUE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,1,990,0,5,3,0,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,167,37,185,52,Shiann Darkangelo,185,52,Snapshot,Missed,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,1,1036,2,5,4,0,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,196,32,188,66,Sarah-Eve Coutu Godbout,178,66,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,1,1105,1,5,5,0,0,Toronto Six,Shot,Sarah Steele,Direct,135,63,143,14,Megan Quinn,158,14,Slapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1239,2,5,5,0,0,Connecticut Whale,Shot,Emma Vlasic,Indirect,179,80,139,79,Laurel Hill,138,66,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1287,3,5,5,0,0,Toronto Six,Shot,Emma Greco,Direct,130,2,153,9,Taytum Clairmont,159,38,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1345,6,5,5,0,0,Connecticut Whale,Shot,Janine Weber,Direct,91,58,106,81,Amanda Conway,189,38,Wrap Around,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1495,5,5,5,0,0,Toronto Six,Shot,Megan Quinn,Direct,35,54,60,53,Breanne Wilson-Bennett,166,4,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1528,13,5,5,0,0,Toronto Six,Shot,Emma Greco,Indirect,71,73,106,80,Shiann Darkangelo,188,54,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1534,2,5,5,0,0,Toronto Six,Shot,Taytum Clairmont,Direct,188,16,160,22,Emma Greco,169,24,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1557,2,5,5,0,0,Toronto Six,Shot,Shiann Darkangelo,Direct,185,76,131,77,Taylor Woods,141,66,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1596,1,5,5,0,0,Toronto Six,Shot,Emily Fluke,Indirect,191,19,148,9,Lindsay Eastwood,148,9,Slapshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1599,0,5,5,0,0,Toronto Six,Shot,Julie Allen,Direct,194,38,179,27,Emily Fluke,179,27,Fan,Missed,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,2,1613,0,5,5,0,0,Toronto Six,Shot,Emily Fluke,Direct,197,50,186,52,Julie Allen,186,52,Snapshot,Missed,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,2,1648,0,5,5,0,0,Toronto Six,Shot,Mackenzie MacNeil,Direct,197,38,185,35,Breanne Wilson-Bennett,185,35,Snapshot,On Net,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,2,1676,1,5,5,0,0,Toronto Six,Shot,Megan Quinn,Direct,128,77,134,30,Emma Greco,143,28,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1719,1,5,5,0,0,Connecticut Whale,Shot,Taylor Marchin,Direct,134,76,134,24,Elena Orlando,141,18,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1888,2,5,5,0,0,Toronto Six,Shot,Shiann Darkangelo,Direct,154,10,132,46,Lindsay Eastwood,143,54,Fan,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1914,7,5,5,0,0,Toronto Six,Shot,Lindsay Eastwood,Indirect,130,42,195,17,Sarah-Eve Coutu Godbout,171,34,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,1951,2,5,5,1,0,Connecticut Whale,Shot,Katelynn Russ,Direct,136,51,138,63,Alyssa Wohlfeiler,173,68,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,2034,1,5,5,1,0,Connecticut Whale,Shot,Sarah Hughson,Direct,175,69,138,60,Laurel Hill,143,56,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,2056,4,5,5,1,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,30,9,76,23,Natalie Marcuzzi,163,30,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,2117,1,5,4,1,0,Toronto Six,Goal,Mikyla Grant-Mentis,Direct,135,67,131,36,Taylor Woods,139,36,Wristshot,On Net,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,2213,2,5,4,2,0,Toronto Six,Shot,Taytum Clairmont,Direct,188,11,132,18,Taylor Woods,145,14,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,2225,1,5,4,2,0,Toronto Six,Shot,Shiann Darkangelo,Direct,186,63,157,61,Mikyla Grant-Mentis,159,60,Snapshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,2237,1,5,4,2,0,Toronto Six,Shot,Taylor Woods,Direct,143,20,142,55,Mikyla Grant-Mentis,142,55,Slapshot,On Net,FALSE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,2,2291,1,5,4,2,0,Toronto Six,Shot,Sarah Steele,Direct,127,17,132,62,Megan Quinn,148,64,Snapshot,Blocked,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,2,2326,7,5,5,2,0,Toronto Six,Shot,Natalie Marcuzzi,Indirect,149,6,199,45,Emily Fluke,184,26,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2466,1,5,5,2,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,184,75,141,65,Taylor Woods,142,62,Slapshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2509,3,5,5,3,0,Connecticut Whale,Shot,Shannon Doyle,Direct,92,59,130,18,Janine Weber,163,29,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2534,0,5,5,3,0,Toronto Six,Shot,Shiann Darkangelo,Direct,199,57,175,54,Sarah Steele,175,54,Snapshot,Blocked,TRUE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,3,2620,0,5,5,3,0,Toronto Six,Shot,Taytum Clairmont,Direct,199,28,179,17,Mikyla Grant-Mentis,179,17,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2738,1,5,5,4,0,Toronto Six,Shot,Breanne Wilson-Bennett,Direct,194,41,188,38,Mackenzie MacNeil,188,38,Snapshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2818,1,5,5,4,0,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,160,69,134,75,Shannon Doyle,131,69,Slapshot,Missed,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2833,2,5,5,4,0,Toronto Six,Shot,Julie Allen,Indirect,112,82,134,81,Mackenzie MacNeil,164,63,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2864,1,5,5,4,0,Toronto Six,Shot,Sarah-Eve Coutu Godbout,Direct,199,28,179,32,Emily Fluke,179,32,Snapshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,2937,5,5,5,4,0,Connecticut Whale,Shot,Maggie LaGue,Indirect,52,42,89,4,Emma Vlasic,134,3,Wristshot,On Net,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3009,6,5,5,4,0,Toronto Six,Shot,Megan Quinn,Direct,8,55,76,75,Sarah-Eve Coutu Godbout,140,73,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3052,0,5,5,4,0,Toronto Six,Goal,Shiann Darkangelo,Direct,167,64,182,42,Taytum Clairmont,182,42,Deflection,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3064,4,5,5,5,0,Connecticut Whale,Shot,Sarah Schwenzfeier,Direct,87,70,118,30,Kaycie Anderson,150,22,Snapshot,Missed,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3074,1,5,5,5,0,Toronto Six,Goal,Taytum Clairmont,Direct,161,44,178,37,Mikyla Grant-Mentis,185,46,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3167,6,5,5,6,0,Connecticut Whale,Shot,Shannon Doyle,Direct,23,56,47,32,Sarah Schwenzfeier,153,75,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3181,1,5,5,6,0,Toronto Six,Shot,Mikyla Grant-Mentis,Direct,171,27,159,35,Shiann Darkangelo,159,35,Slapshot,Blocked,TRUE,TRUE
+2021-01-31,Toronto Six,Connecticut Whale,3,3221,3,5,5,6,0,Toronto Six,Shot,Shiann Darkangelo,Direct,105,85,111,29,Mackenzie MacNeil,153,29,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3386,2,5,5,6,0,Toronto Six,Shot,Mackenzie MacNeil,Direct,153,8,173,34,Breanne Wilson-Bennett,182,46,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3477,8,4,4,6,0,Connecticut Whale,Shot,Maggie LaGue,Indirect,70,21,103,5,Alyssa Wohlfeiler,183,25,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3495,5,4,4,6,0,Connecticut Whale,Shot,Alyssa Wohlfeiler,Direct,166,2,128,0,Maggie LaGue,167,24,Wristshot,Blocked,TRUE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3582,2,5,5,6,0,Connecticut Whale,Shot,Katelynn Russ,Direct,166,68,127,45,Maggie LaGue,127,45,Wristshot,On Net,FALSE,FALSE
+2021-01-31,Toronto Six,Connecticut Whale,3,3588,1,5,5,6,0,Connecticut Whale,Shot,Katelynn Russ,Direct,197,46,187,51,Emma Vlasic,187,51,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,17,2,5,5,0,0,Buffalo Beauts,Shot,Taylor Wasylk,Direct,93,8,104,28,Cassidy MacPherson,139,50,Wristshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,47,4,5,5,0,0,Buffalo Beauts,Shot,Kristin Lewicki,Direct,111,82,133,65,Autumn MacDougall,174,66,Wristshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,116,3,5,5,0,0,Buffalo Beauts,Shot,Hunter Accursi,Direct,54,4,80,16,Erin Gehen,143,12,Wristshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,193,3,5,5,0,0,Boston Pride,Shot,Jillian Dempsey,Direct,88,49,114,14,Christina Putigna,162,12,Wristshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,293,0,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,146,78,146,58,Carlee Turner,146,58,Snapshot,Missed,TRUE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,1,310,2,5,5,0,0,Boston Pride,Shot,Mallory Souliotis,Direct,134,17,133,57,Kaleigh Fratkin,139,63,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,320,5,5,5,0,0,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,35,71,83,31,Brooke Stacey,148,10,Wristshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,403,2,5,5,0,0,Boston Pride,Shot,Meaghan Rickard,Direct,138,1,160,22,Meghara McManus,165,27,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,418,6,5,5,0,0,Buffalo Beauts,Shot,Neve Van Pelt,Direct,36,28,62,37,Erin Gehen,133,80,Wristshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,455,4,5,5,0,0,Boston Pride,Shot,Taylor Turnquist,Direct,48,72,85,53,Samantha Davis,140,55,Wristshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,474,2,5,5,0,0,Boston Pride,Shot,Tereza Vanisova,Direct,152,78,136,55,Taylor Wenczkowski,145,56,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,511,4,5,5,0,0,Boston Pride,Shot,Christina Putigna,Indirect,189,9,197,51,McKenna Brand,170,76,Wristshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,603,3,5,5,0,0,Boston Pride,Shot,Briana Mastel,Direct,128,16,130,75,Taylor Turnquist,157,71,Wristshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,663,1,5,5,0,0,Boston Pride,Shot,Tori Sullivan,Direct,158,81,134,80,Kaleigh Fratkin,134,80,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,682,0,4,5,0,1,Boston Pride,Shot,Lauren Kelly,Direct,134,39,181,60,Christina Putigna,181,60,Fan,Missed,FALSE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,1,697,1,3,5,0,1,Boston Pride,Shot,McKenna Brand,Direct,142,56,144,30,Kaleigh Fratkin,144,30,Slapshot,On Net,FALSE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,1,711,1,3,5,0,1,Boston Pride,Shot,McKenna Brand,Direct,158,18,153,52,Kaleigh Fratkin,157,51,Slapshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,727,1,3,5,0,1,Boston Pride,Goal,McKenna Brand,Direct,143,52,180,61,Jillian Dempsey,180,61,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,751,1,4,5,0,2,Boston Pride,Shot,Taylor Turnquist,Direct,135,36,163,72,Tereza Vanisova,163,72,Slapshot,Blocked,TRUE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,1,770,2,4,5,0,2,Boston Pride,Shot,Lauren Kelly,Direct,130,8,132,56,Taylor Turnquist,152,58,Wristshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,785,2,4,5,0,2,Boston Pride,Shot,Taylor Turnquist,Direct,129,73,129,12,Lauren Kelly,149,12,Slapshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,798,0,4,5,0,2,Boston Pride,Shot,Taylor Turnquist,Direct,142,44,174,70,Tereza Vanisova,174,70,Slapshot,On Net,FALSE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,1,858,3,5,5,0,2,Boston Pride,Shot,Samantha Davis,Direct,172,17,175,11,Lexie Laing,165,17,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,899,2,5,5,0,2,Boston Pride,Shot,Carlee Turner,Direct,167,2,127,7,Briana Mastel,130,19,Wristshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,904,4,5,5,0,2,Buffalo Beauts,Shot,Jordan Juron,Indirect,48,56,118,81,Kristin Lewicki,171,57,Wristshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,940,1,5,5,0,2,Boston Pride,Shot,Christina Putigna,Direct,165,16,130,16,Lauren Kelly,130,16,Wristshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,978,0,5,5,0,2,Boston Pride,Goal,McKenna Brand,Direct,160,18,168,56,Samantha Davis,168,56,Snapshot,On Net,FALSE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,1,1024,2,5,5,0,3,Boston Pride,Shot,Taylor Turnquist,Direct,154,77,160,53,Taylor Wenczkowski,161,56,Wristshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,1065,11,5,5,0,3,Buffalo Beauts,Shot,Marie-Jo Pelletier,Direct,18,6,3,37,Alyson Matteau,186,49,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,1105,2,5,5,0,3,Buffalo Beauts,Shot,Dominique Kremer,Direct,197,39,181,27,Jordan Juron,177,20,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,1114,2,5,5,0,3,Buffalo Beauts,Shot,Erin Gehen,Direct,152,22,134,65,Dominique Kremer,149,65,Wristshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,1161,1,5,5,0,3,Boston Pride,Shot,Tereza Vanisova,Direct,181,8,156,3,Mallory Souliotis,150,10,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,1173,2,5,5,0,3,Buffalo Beauts,Shot,Kristin Lewicki,Direct,151,83,136,38,Autumn MacDougall,165,34,Wristshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,1,1184,2,5,5,0,3,Buffalo Beauts,Shot,Autumn MacDougall,Direct,160,14,130,54,Marie-Jo Pelletier,133,64,Wristshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1309,3,4,5,0,3,Boston Pride,Shot,Taylor Wenczkowski,Direct,139,38,129,40,Taylor Turnquist,147,33,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1319,2,4,5,0,3,Boston Pride,Shot,Taylor Turnquist,Direct,133,13,131,62,Lauren Kelly,132,66,Slapshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1329,2,4,5,0,3,Boston Pride,Shot,Carlee Turner,Direct,192,74,136,74,Lauren Kelly,151,79,Snapshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1361,3,5,5,0,3,Buffalo Beauts,Shot,Megan Delay,Direct,81,3,96,5,Jordan Juron,138,30,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1455,1,5,4,0,3,Buffalo Beauts,Shot,Jordan Juron,Direct,195,22,169,10,Taylor Wasylk,169,10,Snapshot,On Net,TRUE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1470,2,5,4,0,3,Buffalo Beauts,Shot,Kristin Lewicki,Direct,194,18,149,7,Alyson Matteau,159,14,Snapshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1754,4,5,5,0,3,Buffalo Beauts,Shot,Lenka Curmova,Direct,88,64,110,25,Erin Gehen,148,21,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1776,3,5,5,0,3,Buffalo Beauts,Goal,Whitney Dove,Direct,94,83,139,69,Kristin Lewicki,171,55,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1840,5,5,4,1,3,Boston Pride,Shot,Kaleigh Fratkin,Indirect,37,68,110,68,Jillian Dempsey,174,64,Snapshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1885,2,5,4,1,3,Buffalo Beauts,Shot,Erin Gehen,Direct,138,71,141,46,Autumn MacDougall,155,37,Wristshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1914,1,5,5,1,3,Buffalo Beauts,Shot,Cassidy MacPherson,Direct,192,63,167,54,Autumn MacDougall,167,54,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1923,3,5,5,1,3,Buffalo Beauts,Shot,Dominique Kremer,Indirect,84,26,120,81,Cassidy MacPherson,152,68,Wristshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1982,1,5,5,1,3,Buffalo Beauts,Shot,Hunter Accursi,Direct,184,77,168,69,Neve Van Pelt,173,62,Snapshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,1993,6,5,5,1,3,Buffalo Beauts,Shot,Erin Gehen,Direct,160,1,128,2,Lenka Curmova,128,5,Snapshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2031,2,5,5,1,3,Boston Pride,Shot,McKenna Brand,Indirect,168,3,131,7,Mallory Souliotis,133,16,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2103,1,5,4,1,3,Buffalo Beauts,Shot,Autumn MacDougall,Direct,161,11,138,30,Whitney Dove,143,38,Snapshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2124,1,5,4,1,3,Buffalo Beauts,Shot,Erin Gehen,Direct,187,60,183,51,Autumn MacDougall,183,51,Fan,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2170,3,5,4,1,3,Boston Pride,Shot,Christina Putigna,Direct,119,24,121,26,Jillian Dempsey,178,19,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2175,2,5,5,1,3,Boston Pride,Shot,Briana Mastel,Direct,134,24,137,68,Taylor Turnquist,144,81,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2218,4,5,5,1,3,Boston Pride,Goal,Tereza Vanisova,Indirect,50,80,101,84,Meaghan Rickard,167,55,Snapshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2261,3,5,5,1,4,Boston Pride,Shot,Jillian Dempsey,Direct,82,71,117,85,Tori Sullivan,134,83,Snapshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2316,2,5,5,1,4,Boston Pride,Shot,Tori Sullivan,Direct,158,4,150,35,Lexie Laing,163,30,Snapshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,2,2380,0,4,5,1,4,Boston Pride,Shot,Jillian Dempsey,Direct,162,76,134,36,Kaleigh Fratkin,134,36,Slapshot,Blocked,TRUE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2439,1,4,5,1,4,Boston Pride,Shot,Mallory Souliotis,Direct,130,43,156,71,Samantha Davis,156,71,Slapshot,Missed,TRUE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2448,2,4,5,1,4,Boston Pride,Shot,Mallory Souliotis,Direct,129,26,141,5,Lexie Laing,156,31,Wristshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2478,3,5,5,1,4,Boston Pride,Shot,Tori Sullivan,Direct,147,6,129,20,Mallory Souliotis,127,47,Wristshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2603,3,5,4,1,4,Boston Pride,Goal,Meghara McManus,Direct,82,74,116,42,Lexie Laing,183,37,Wristshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2691,7,5,5,1,5,Buffalo Beauts,Shot,Cassidy MacPherson,Indirect,167,83,127,81,Megan Delay,137,80,Snapshot,Missed,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2745,2,5,5,1,5,Boston Pride,Shot,Tori Sullivan,Direct,180,25,170,42,Tereza Vanisova,180,41,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2835,3,5,5,1,5,Boston Pride,Shot,Samantha Davis,Direct,119,57,133,71,McKenna Brand,162,75,Snapshot,Blocked,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2923,3,4,5,1,5,Boston Pride,Shot,Taylor Turnquist,Direct,154,34,185,18,Lexie Laing,174,17,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,2988,2,4,5,1,5,Boston Pride,Goal,Jillian Dempsey,Direct,157,14,131,24,Mallory Souliotis,145,37,Wristshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3111,6,5,4,1,6,Buffalo Beauts,Shot,Autumn MacDougall,Direct,48,48,48,43,Alyson Matteau,150,21,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3120,1,5,4,1,6,Buffalo Beauts,Shot,Erin Gehen,Direct,156,50,129,60,Whitney Dove,137,57,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3159,3,5,5,1,6,Boston Pride,Shot,Mallory Souliotis,Direct,86,7,112,22,Tereza Vanisova,161,39,Snapshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3175,5,5,5,1,6,Boston Pride,Shot,Kaleigh Fratkin,Indirect,71,9,120,5,Meghara McManus,174,25,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3234,2,4,5,1,7,Boston Pride,Shot,Paige Capistran,Direct,127,79,130,17,Lauren Kelly,137,17,Wristshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3253,1,4,5,1,7,Boston Pride,Shot,Paige Capistran,Direct,133,83,130,20,Lauren Kelly,134,18,Wristshot,Missed,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3271,1,4,5,1,7,Boston Pride,Shot,Tereza Vanisova,Direct,165,79,130,55,Paige Capistran,132,51,Snapshot,On Net,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3377,5,5,5,1,7,Buffalo Beauts,Shot,Dominique Kremer,Indirect,70,82,103,82,Hunter Accursi,160,25,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3455,5,5,5,1,7,Buffalo Beauts,Shot,Megan Delay,Indirect,27,80,123,84,Kristin Lewicki,167,64,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3465,4,5,5,1,7,Boston Pride,Shot,Tereza Vanisova,Direct,44,70,70,64,Meaghan Rickard,166,65,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3483,1,5,5,1,7,Buffalo Beauts,Shot,Kristin Lewicki,Direct,163,83,164,43,Autumn MacDougall,170,45,Snapshot,Blocked,TRUE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3495,2,5,5,1,7,Buffalo Beauts,Shot,Kristin Lewicki,Direct,152,35,146,46,Autumn MacDougall,153,39,Snapshot,On Net,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3532,1,4,5,1,7,Boston Pride,Shot,Tori Sullivan,Direct,155,19,186,20,Lexie Laing,186,21,Snapshot,Blocked,FALSE,FALSE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3563,0,4,5,1,7,Boston Pride,Shot,Taylor Turnquist,Direct,149,36,162,62,Samantha Davis,162,62,Slapshot,On Net,TRUE,TRUE
+2021-02-01,Buffalo Beauts,Boston Pride,3,3591,0,4,5,1,7,Boston Pride,Shot,Taylor Turnquist,Direct,159,49,171,61,Samantha Davis,171,61,Fan,Missed,FALSE,TRUE

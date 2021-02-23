@@ -42,7 +42,7 @@ data <- data_nwhl %>%
   select(-c(clock, player, detail_1, detail_2, detail_3, detail_4, player_2,
             x_coordinate, y_coordinate, x_coordinate_2, y_coordinate_2,
             shot_from_pass, pass_to_shot)) %>% 
-  rename(time_since_pass = time_btw_events) %>% 
+  rename(time_since_pass = time_btw_events)# %>% 
   
   # filter(time_since_pass < 3) %>% 
   # filter(pass_type == "Direct") %>% 
@@ -75,7 +75,7 @@ ggplot(data = data) +
   coord_fixed() +
   theme_classic()
 
-# write_csv(data_nwhl, "data.csv")
+write_csv(data, "data_2020-02-23.csv")
 
 # Next:
 #   New data frame that combines passes and shots/goals to the same row
