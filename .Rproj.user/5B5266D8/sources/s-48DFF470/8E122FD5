@@ -3,22 +3,22 @@
     "path": "~/GitHub/big_data_cup_2021_hockey/BT_dataprocessing.R",
     "project_path": "BT_dataprocessing.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1448718777",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1614050457172.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "79,0",
-        "scrollLine": "8"
+        "cursorPosition": "87,0",
+        "scrollLine": "16"
     },
     "folds": "",
-    "lastKnownWriteTime": 1614059828,
+    "lastKnownWriteTime": 1614132951,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1614060121484,
+    "last_content_update": 1614132951042,
     "read_only": false,
     "read_only_alternatives": []
 }

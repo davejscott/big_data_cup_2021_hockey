@@ -42,7 +42,14 @@ data <- data_nwhl %>%
   select(-c(clock, player, detail_1, detail_2, detail_3, detail_4, player_2,
             x_coordinate, y_coordinate, x_coordinate_2, y_coordinate_2,
             shot_from_pass, pass_to_shot)) %>% 
-  rename(time_since_pass = time_btw_events) %>% 
+  rename(time_since_pass = time_btw_events) %>%
+  mutate(pass_y = 85 - pass_y,
+         rec_y = 85 - rec_y,
+         shot_y = 85 - shot_y) %>% 
+  mutate(pass_dist = sqrt((rec_x - pass_x) ^ 2 + (rec_y - pass_y) ^ 2)) %>% 
+  mutate(shooter_dist = sqrt((shot_x - rec_x) ^ 2 + (shot_y - rec_y) ^ 2)) %>% 
+  mutate(shot_dist =  sqrt((189 - shot_x) ^ 2 + (43 - shot_y) ^ 2)) #%>% 
+  # mutate(shot_angle = )
   
   # filter(time_since_pass < 3) %>% 
   # filter(pass_type == "Direct") %>% 
@@ -68,6 +75,7 @@ ggplot(data = data) +
                arrow = arrow(length = unit(0.3, "cm"))) +
   geom_segment(aes(x = rec_x, y = rec_y, xend = shot_x, yend = shot_y, colour = shot_outcome),
                arrow = arrow(length = unit(0.3, "cm"))) +
+  geom_segment(aes(x = shot_x, y = shot_y, xend = ))
   labs(x = "",
        y = "") +
   lims(x = c(0, 200),
@@ -75,7 +83,7 @@ ggplot(data = data) +
   coord_fixed() +
   theme_classic()
 
-# write_csv(data_nwhl, "data.csv")
+write_csv(data, "data_2020-02-24.csv")
 
 # Next:
 #   New data frame that combines passes and shots/goals to the same row
