@@ -61,7 +61,7 @@ data <- data_nwhl %>%
     shot_from_pass, pass_to_shot
   )) %>%
   rename(time_since_pass = time_btw_events) %>% 
-  relocate(shooter, .after = passer) # %>%
+  relocate(shooter, .after = passer) %>%
 
 # filter(
 #   time_since_pass > 8,
@@ -72,15 +72,14 @@ data <- data_nwhl %>%
 # filter(team == "Boston Pride") %>%
 # filter(game_date == "2021-01-23")
 
-# filter(
-#   passer == "Kaleigh Fratkin",
-#   time_since_pass < 3,
-#   shot_outcome %in% c("On Net", "Missed"),
-#   pass_type == "Direct",
-# )
-
-
-
+filter(
+  # passer == "Shiann Darkangelo",
+  # shooter == "Taylor Woods",
+  shot_type == "Slapshot",
+  # game_state == "5v3"
+  time_since_pass <= 1,
+  # shot_outcome %in% c("On Net", "Missed"),
+)
 
 # ggplot(data = filter(data_nwhl, !is.na(time_btw_events)),
 #        mapping = aes(x = time_btw_events, fill = event)) +
@@ -88,17 +87,54 @@ data <- data_nwhl %>%
 #   scale_x_continuous(breaks = seq(0,25,1)) +
 #   theme(panel.grid.minor = element_blank())
 
-ggplot(data = data) +
+# ggplot(data = data) +
+#   geom_segment(aes(x = pass_x, y = pass_y, xend = rec_x, yend = rec_y),
+#     arrow = arrow(length = unit(0.3, "cm"))
+#   ) +
+#   geom_segment(aes(x = rec_x, y = rec_y, xend = shot_x, yend = shot_y),
+#     # arrow = arrow(length = unit(0.3, "cm")),
+#     linetype = "dashed"
+#   ) +
+#   geom_segment(aes(x = shot_x, y = shot_y, xend = 189, yend = 43, colour = shot_outcome),
+#     # arrow = arrow(length = unit(0.3, "cm"))
+#   ) +
+#   labs(
+#     # title = paste0("Direct passes from ", data$passer),
+#     # title = paste0("Shots by ", data$shooter, " originating from direct passes"),
+#     title = paste0("All shots classified as a ", tolower(data$shot_type)),
+#     # title = paste0("All shots taken at ", data$game_state),
+#     subtitle = paste0("Arrows show pass distance and direction,",
+#                       "\ndashed lines show displacement of skater before shot,",
+#                       "\nand coloured lines show shot outcome"),
+#     x = "",
+#     y = ""
+#   ) +
+#   lims(
+#     x = c(0, 200),
+#     y = c(0, 85)
+#   ) +
+#   coord_fixed() +
+#   theme_classic()
+
+ggplot(data = data,
+       mapping = aes(x = shot_x, y = shot_y)) +
   geom_segment(aes(x = pass_x, y = pass_y, xend = rec_x, yend = rec_y),
-    arrow = arrow(length = unit(0.3, "cm"))
+               arrow = arrow(length = unit(0.3, "cm"))
   ) +
-  geom_segment(aes(x = rec_x, y = rec_y, xend = shot_x, yend = shot_y, colour = shot_outcome),
-    arrow = arrow(length = unit(0.3, "cm"))
+  geom_segment(aes(x = rec_x, y = rec_y, xend = shot_x, yend = shot_y),
+               # arrow = arrow(length = unit(0.3, "cm")),
+               linetype = "dashed"
   ) +
-  geom_segment(aes(x = shot_x, y = shot_y, xend = 189, yend = 43),
-    arrow = arrow(length = unit(0.3, "cm"))
-  ) +
+  geom_point(aes(colour = shot_outcome)) +
+  # geom_density_2d() +
   labs(
+    # title = paste0("Direct passes from ", data$passer),
+    # title = paste0("Shots by ", data$shooter, " originating from direct passes"),
+    title = paste0("All shots classified as a ", tolower(data$shot_type), ", taken within 1 sec of receiving a pass"),
+    # title = paste0("All shots taken at ", data$game_state),
+    subtitle = paste0("Arrows show pass distance and direction,",
+                      "\ndashed lines show displacement of skater before shot,",
+                      "\nand coloured lines show shot outcome"),
     x = "",
     y = ""
   ) +
@@ -107,17 +143,16 @@ ggplot(data = data) +
     y = c(0, 85)
   ) +
   coord_fixed() +
-  theme_classic()
+  theme_classic() +
+  facet_wrap(vars(shot_outcome))
 
 # ggplot(data = data,
 #        mapping = aes(x = pass_angle, y = shot_angle)) +
 #   geom_point() +
 #   coord_fixed()
 
-
 write_csv(data, "data_2020-02-24.csv")
 
 # Next:
-#   New data frame that combines passes and shots/goals to the same row
-#   Viz for pass to shot
 #   Start figuring out time filter threshold
+#   Add rink
