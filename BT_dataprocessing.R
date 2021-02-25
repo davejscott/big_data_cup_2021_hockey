@@ -3,6 +3,8 @@ library(tidyverse)
 library(lubridate)
 library(janitor)
 
+devtools::source_url("https://raw.githubusercontent.com/davejscott/big_data_cup_2021_hockey/main/bdc_rink_plot.R")
+
 # data_ohl <- read_csv("https://raw.githubusercontent.com/bigdatacup/Big-Data-Cup-2021/main/hackathon_scouting.csv")
 # data_woly <- read_csv("https://raw.githubusercontent.com/bigdatacup/Big-Data-Cup-2021/main/hackathon_womens.csv")
 

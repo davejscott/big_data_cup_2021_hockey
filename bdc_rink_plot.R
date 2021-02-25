@@ -6,7 +6,7 @@ NHL_red <- "#FFCCD8" # Use #C8102E for original red in the rules, #FFE6EB for li
 NHL_blue <- "#CCE1FF" # Use #0033A0 for original blue in the rules, #E6EFFF for lighter hue
 NHL_light_blue <- "#CCF5FF" # Use #41B6E6 for original crease blue in the rules, #E6F9FF for lighter hue
 
-nhl_rink_plot <- function () {
+bdc_rink_plot <- function () {
   
   # Plotting an NHL rink completely following the NHL rule book:
   # https://cms.nhl.bamgrid.com/images/assets/binary/308893668/binary-file/file.pdf
