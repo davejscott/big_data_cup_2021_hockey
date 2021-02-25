@@ -1,0 +1,538 @@
+## Dependencies
+library(RCurl); library(xml2); library(rvest); library(jsonlite); library(foreach)
+library(lubridate)
+library(tidyverse) ## -- specifically: stringr, readr, tidyr, and dplyr
+library(gridExtra)
+library(magick)
+library(pdftools)
+library(showtext)
+library(ggtext)
+library(hexbin)
+# library(ggforce)
+library(here)
+font_add_google("Rubik", "Rubik")
+showtext_auto()
+
+# Set filepath
+# filepath <- file.path(
+#   "G:/My Drive/The Win Column",
+#   "01 Blogs/Bill Tran/01 TWC/20202021/GameRecaps"
+# )
+# setwd(filepath)
+
+# logo <- image_read("twc_logo.png")
+## Source scraper functions from GitHub
+devtools::source_url("https://raw.githubusercontent.com/evolvingwild/evolving-hockey/master/EH_scrape_functions.R")
+devtools::source_url("https://raw.githubusercontent.com/mrbilltran/the-win-column/master/nhl_rink_plot.R")
+# source("nhl_rink_plot.R")
+
+# Scrape games
+pbp_scrape <- sc.scrape_pbp(games = 2020020310)
+
+# Get data of interest
+
+pbp_data <- pbp_scrape$pbp_base
+game_data <- pbp_scrape$game_info_df
+shift_data <- pbp_scrape$player_shifts
+summary_data <- pbp_scrape$events_summary_df
+
+## Corsi step plots
+
+corsi <- filter(pbp_data, event_type %in% st.corsi_events)
+
+corsi_all <- corsi %>%
+  group_by(event_team) %>% 
+  mutate(event_count = row_number()) %>% 
+  add_count(event_team) %>% 
+  filter(game_seconds < 3900)
+corsi_all_count <- count(corsi_all, event_team)
+
+corsi_all_locations <- corsi_all %>% 
+  mutate(coords_x = ifelse(between(game_seconds, 1201, 2400), -coords_x, coords_x)) %>% 
+  mutate(coords_x = ifelse(game_seconds > 3600, -coords_x, coords_x)) %>% 
+  mutate(coords_y = ifelse(between(game_seconds, 1201, 2400), -coords_y, coords_y)) %>% 
+  mutate(coords_y = ifelse(game_seconds > 3600, -coords_y, coords_y)) %>% 
+  filter(event_type != "BLOCK") %>% 
+  filter(game_seconds < 3900) %>% 
+  mutate(coords_x = -coords_x) %>% # MANUAL CHECK
+  mutate(coords_y = -coords_y)
+
+corsi_5v5 <- corsi %>%
+  filter(game_strength_state == "5v5") %>%
+  group_by(event_team) %>%
+  mutate(event_count = row_number()) %>% 
+  add_count(event_team)
+corsi_5v5_count <- count(corsi_5v5, event_team)
+
+corsi_5v5_locations <- corsi_5v5 %>% 
+  mutate(coords_x = ifelse(between(game_seconds, 1201, 2400), -coords_x, coords_x)) %>% 
+  mutate(coords_y = ifelse(between(game_seconds, 1201, 2400), -coords_y, coords_y)) %>% 
+  filter(event_type != "BLOCK") %>% 
+  mutate(coords_x = -coords_x) %>%  #MANUAL CHECK
+  mutate(coords_y = -coords_y)
+
+# Add columns into game data for corsi counts
+game_data <- game_data %>% 
+  mutate(home_corsi_all = ifelse(corsi_all_count$event_team[1] == home_team, corsi_all_count$n[1], corsi_all_count$n[2])) %>% 
+  mutate(away_corsi_all = ifelse(corsi_all_count$event_team[1] == away_team, corsi_all_count$n[1], corsi_all_count$n[2])) %>% 
+  mutate(home_corsi_5v5 = ifelse(corsi_5v5_count$event_team[1] == home_team, corsi_5v5_count$n[1], corsi_5v5_count$n[2])) %>%
+  mutate(away_corsi_5v5 = ifelse(corsi_5v5_count$event_team[1] == away_team, corsi_5v5_count$n[1], corsi_5v5_count$n[2]))
+
+## Main events comparisons
+
+main <- filter(pbp_data, event_type %in% sc.main_events)
+main <- main %>% 
+  mutate(
+    event_team = case_when(
+      event_type == "BLOCK" & event_team == home_team ~ away_team, 
+      event_type == "BLOCK" & event_team == away_team ~ home_team, 
+      TRUE ~ event_team
+    )
+  )
+
+main_order <- c("PENL", "FAC", "GIVE", "TAKE", "HIT", "BLOCK", "MISS", "SOG")
+main_label <- c("Penalties", "Faceoff Wins", "Giveaways", "Takeaways", "Hits", "Blocks", "Misses", "Shots")
+main_all_count <- count(main, event_team, event_type)
+main_all_count <- main_all_count %>%
+  pivot_wider(names_from = event_type, values_from = n) %>% 
+  mutate(SOG = ifelse(is.na(GOAL), SHOT, GOAL + SHOT)) %>% 
+  pivot_longer(cols = !event_team, names_to = "event_type", values_to = "n") %>% 
+  filter(event_type != "GOAL", event_type != "SHOT") %>%
+  mutate(event_type = factor(event_type, levels = main_order)) %>%
+  mutate(adj_n = ifelse(event_team == main$home_team[1], n, -n)) 
+
+
+## Shift charts
+
+shift_summary <- summary_data %>% 
+  arrange(toi_all) 
+
+shifts_home <- shift_summary %>% 
+  filter(team == game_data$home_team)
+shifts_home_order <- pull(shifts_home, player)
+shifts_home_label <- shifts_home_order %>%
+  str_replace_all("[.]", " ") %>% 
+  str_replace_all("[:digit:]", "")
+
+shifts_away <- shift_summary %>% 
+  filter(team == game_data$away_team)
+shifts_away_order <- pull(shifts_away, player)
+shifts_away_label <- shifts_away_order %>%
+  str_replace_all("[.]", " ") %>% 
+  str_replace_all("[:digit:]", "")
+
+## ggplot parameter prep
+
+if (game_data$game_end == "REG") {
+  if (game_data$home_team == "CGY") {
+    title_global <- paste0("<b style='color:#f1b04c'>", game_data$away_team, " ", game_data$away_score, 
+                         "</b> @  <b style='color:#b62327'>", game_data$home_score, " ", game_data$home_team, " </b> | ", game_data$game_date)
+    subtitle_corsi_all <- paste0("**All situations corsi events:**<b style='color:#f1b04c'> ", game_data$away_team, " ", game_data$away_corsi_all,
+                               "</b> - <b style='color:#b62327'>", game_data$home_corsi_all, " ", game_data$home_team, "</b><br>",
+                               "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+    subtitle_corsi_5v5 <- paste0("**5v5 corsi events:**<b style='color:#f1b04c'> ", game_data$away_team, " ", game_data$away_corsi_5v5,
+                               "</b> - <b style='color:#b62327'>", game_data$home_corsi_5v5, " ", game_data$home_team, "</b><br>",
+                               "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+  } else {
+  title_global <- paste0("<b style='color:#b62327'>", game_data$away_team, " ", game_data$away_score, 
+                         "</b> @  <b style='color:#f1b04c'>", game_data$home_score, " ", game_data$home_team, " </b> | ", game_data$game_date)
+  
+  subtitle_corsi_all <- paste0("**All situations corsi events:**<b style='color:#b62327'> ", game_data$away_team, " ", game_data$away_corsi_all,
+                               "</b> - <b style='color:#f1b04c'>", game_data$home_corsi_all, " ", game_data$home_team, "</b><br>",
+                               "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+  subtitle_corsi_5v5 <- paste0("**5v5 corsi events:**<b style='color:#b62327'> ", game_data$away_team, " ", game_data$away_corsi_5v5,
+                               "</b> - <b style='color:#f1b04c'>", game_data$home_corsi_5v5, " ", game_data$home_team, "</b><br>",
+                               "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+  }
+} else {
+    if (game_data$home_team == "CGY") {
+      title_global <- paste0("<b style='color:#f1b04c'>", game_data$away_team, " ", game_data$away_score, 
+                             "</b> @  <b style='color:#b62327'>", game_data$home_score, " ", game_data$home_team, " </b> (", game_data$game_end, ") | ", game_data$game_date)
+      subtitle_corsi_all <- paste0("**All situations corsi events:**<b style='color:#f1b04c'> ", game_data$away_team, " ", game_data$away_corsi_all,
+                                   "</b> - <b style='color:#b62327'>", game_data$home_corsi_all, " ", game_data$home_team, "</b><br>",
+                                   "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+      subtitle_corsi_5v5 <- paste0("**5v5 corsi events:**<b style='color:#f1b04c'> ", game_data$away_team, " ", game_data$away_corsi_5v5,
+                                   "</b> - <b style='color:#b62327'>", game_data$home_corsi_5v5, " ", game_data$home_team, "</b><br>",
+                                   "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+    } else {
+      title_global <- paste0("<b style='color:#b62327'>", game_data$away_team, " ", game_data$away_score, 
+                             "</b> @  <b style='color:#f1b04c'>", game_data$home_score, " ", game_data$home_team, " </b> (", game_data$game_end, ") | ", game_data$game_date)
+      
+      subtitle_corsi_all <- paste0("**All situations corsi events:**<b style='color:#b62327'> ", game_data$away_team, " ", game_data$away_corsi_all,
+                                   "</b> - <b style='color:#f1b04c'>", game_data$home_corsi_all, " ", game_data$home_team, "</b><br>",
+                                   "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+      subtitle_corsi_5v5 <- paste0("**5v5 corsi events:**<b style='color:#b62327'> ", game_data$away_team, " ", game_data$away_corsi_5v5,
+                                   "</b> - <b style='color:#f1b04c'>", game_data$home_corsi_5v5, " ", game_data$home_team, "</b><br>",
+                                   "Goals are marked with <span style='font-family:Arial; font-size:16px;'>&#9670;</span>")
+    }
+}
+caption_global <- "Chart by: @mrbilltran | thewincolumn.ca | Data: Evolving-Hockey Scraper for R"
+
+colour_values <- c("#b62327", "#f1b04c")
+colour_breaks <- c("CGY", ifelse(game_data$home_team == "CGY", game_data$away_team, game_data$home_team))
+
+if (game_data$game_end == "REG") {
+  time_labels <-  c(0, 20, 40, 60)
+  time_breaks <-  c(0, 1200, 2400, 3600)
+  time_limits <-  c(0, 3600)
+} else {
+  time_labels <- c(0, 20, 40, 60, 65)
+  time_breaks <- c(0, 1200, 2400, 3600, 3900)
+  time_limits <- c(0, 3900)
+}
+
+# # https://themockup.blog/posts/2019-01-09-add-a-logo-to-your-plot/
+# add_logo <- function(plot_path, logo_path, logo_position, logo_scale = 10){
+#   
+#   # Requires magick R Package https://github.com/ropensci/magick
+#   
+#   # Useful error message for logo position
+#   if (!logo_position %in% c("top right", "top left", "bottom right", "bottom left")) {
+#     stop("Error Message: Uh oh! Logo Position not recognized\n  Try: logo_positon = 'top left', 'top right', 'bottom left', or 'bottom right'")
+#   }
+#   
+#   # read in raw images
+#   plot <- magick::image_read(plot_path)
+#   logo_raw <- magick::image_read(logo_path)
+#   
+#   # get dimensions of plot for scaling
+#   plot_height <- magick::image_info(plot)$height
+#   plot_width <- magick::image_info(plot)$width
+#   
+#   # default scale to 1/10th width of plot
+#   # Can change with logo_scale
+#   logo <- magick::image_scale(logo_raw, as.character(plot_width/logo_scale))
+#   
+#   # Get width of logo
+#   logo_width <- magick::image_info(logo)$width
+#   logo_height <- magick::image_info(logo)$height
+#   
+#   # Set position of logo
+#   # Position starts at 0,0 at top left
+#   # Using 0.01 for 1% - aesthetic padding
+#   
+#   if (logo_position == "top right") {
+#     x_pos = plot_width - logo_width - 0.01 * plot_width
+#     y_pos = 0.01 * plot_height
+#   } else if (logo_position == "top left") {
+#     x_pos = 0.01 * plot_width
+#     y_pos = 0.01 * plot_height
+#   } else if (logo_position == "bottom right") {
+#     x_pos = plot_width - logo_width - 0.01 * plot_width
+#     y_pos = plot_height - logo_height - 0.01 * plot_height
+#   } else if (logo_position == "bottom left") {
+#     x_pos = 0.01 * plot_width
+#     y_pos = plot_height - logo_height - 0.01 * plot_height
+#   }
+#   
+#   # Compose the actual overlay
+#   magick::image_composite(plot, logo, offset = paste0("+", x_pos, "+", y_pos))
+# 
+# }
+
+## Plots
+
+# corsi_all
+ggplot(data = corsi_all, mapping = aes(
+  x = game_seconds,
+  y = event_count,
+  colour = event_team
+)) +
+  geom_step(size = 0.25) +
+  geom_point(data = subset(corsi_all, event_type == "GOAL"),
+             size = 2.5,
+             shape = 18) +
+  labs(title = title_global,
+       subtitle = subtitle_corsi_all,
+       caption = caption_global,
+       x = "Minutes elasped",
+       y = "") +
+  scale_colour_manual(values = colour_values,
+                      breaks = colour_breaks) +
+  scale_x_continuous(labels = time_labels,
+                     breaks = time_breaks,
+                     expand = c(0, 0),
+                     limits = time_limits) +
+  scale_y_continuous(expand = c(0,0),
+                     limits = c(0, max(corsi_all$n)*1.2)) +
+  theme_light() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.position = "none",
+        plot.margin = margin(5.5, 11, 5.5, 5.5, "pt"),
+        text = element_text(family = "Rubik"),
+        plot.title = element_markdown(),
+        plot.subtitle = element_markdown()) +
+  ggsave(paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all.pdf"), width = 8, height = 4, units = "in", dpi = 320)
+
+pdf_convert(pdf = paste0(here(), "/", game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all.pdf"),
+            filenames = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all.png"),
+            format = "png", dpi = 320)
+
+# Unsuccessful attempt of adding logo to image
+# corsi_all_plot_logo <- add_logo(
+#   plot_path = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all.pdf"),
+#   logo_path = "twc_logo.pdf",
+#   logo_position = "top right",
+#   logo_scale = 15
+# )
+#
+# corsi_all_plot_logo <- image_scale(corsi_all_plot_logo, "1500")
+#
+# image_write(corsi_all_plot_logo, paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all.png"), quality = 100)
+
+# corsi_5v5
+ggplot(data = corsi_5v5, mapping = aes(
+  x = game_seconds,
+  y = event_count,
+  colour = event_team
+)) +
+  geom_step(size = 0.25) +
+  geom_point(data = subset(corsi_5v5, event_type == "GOAL"),
+             size = 2.5,
+             shape = 18) +
+  labs(title = title_global,
+       subtitle = subtitle_corsi_5v5,
+       caption = caption_global,
+       x = "Minutes elasped",
+       y = "") +
+  scale_colour_manual(values = colour_values,
+                      breaks = colour_breaks) +
+  scale_x_continuous(labels = time_labels,
+                     breaks = time_breaks,
+                     expand = c(0, 0),
+                     limits = time_limits) +
+  scale_y_continuous(expand = c(0,0),
+                     limits = c(0, max(corsi_all$n)*1.2)) +
+  theme_light() +
+  theme(panel.grid.major.y = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.position = "none",
+        plot.margin = margin(5.5, 11, 5.5, 5.5, "pt"),
+        text = element_text(family = "Rubik"),
+        plot.title = element_markdown(),
+        plot.subtitle = element_markdown()) +
+  ggsave(paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_5v5.pdf"), width = 8, height = 4, units = "in", dpi = 320)
+
+pdf_convert(pdf = paste0(here(), "/", game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_5v5.pdf"),
+            filenames = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_5v5.png"),
+            format = "png", dpi = 320)
+
+# main_events
+ggplot(data = main_all_count, mapping = aes(
+  x = event_type,
+  y = adj_n,
+  fill = event_team
+)) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = n, colour = event_team), hjust = ifelse(main_all_count$adj_n >= 0, -0.5, 1.5)) +
+  coord_flip() +
+  labs(title = title_global,
+       subtitle = "**All situations events comparisons**",
+       caption = caption_global,
+       y = "",
+       x = "") +
+  scale_colour_manual(values = colour_values,
+                      breaks = colour_breaks) +
+  scale_fill_manual(values = colour_values,
+                    breaks = colour_breaks) +
+  scale_x_discrete(labels = main_label,
+                   breaks = main_order) +
+  scale_y_continuous(limits = c(-max(abs(main_all_count$n)), max(abs(main_all_count$n)))) +
+  theme_light() +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        legend.position = "none",
+        plot.margin = margin(5.5, 11, 5.5, 5.5, "pt"),
+        text = element_text(family = "Rubik"),
+        plot.title = element_markdown(),
+        plot.subtitle = element_markdown()) +
+  ggsave(paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_main_events.pdf"), width = 8, height = 4, units = "in", dpi = 320)
+
+pdf_convert(pdf = paste0(here(), "/", game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_main_events.pdf"),
+            filenames = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_main_events.png"),
+            format = "png", dpi = 320)
+
+# shiftsHOME
+ggplot(data = subset(shift_data, team == game_data$home_team), mapping = aes(
+  colour = team
+)) +
+  geom_segment(aes(
+    x = seconds_start, xend = seconds_end,
+    y = player, yend = player
+  ), size = 1.5) +
+  labs(
+    title = title_global,
+    subtitle = paste0("<b>", game_data$home_team, " all situations shift chart</b><br>Arranged by total skater time on ice, goaltenders listed last"),
+    caption = caption_global,
+    x = "Minutes elasped",
+    y = ""
+  ) +
+  scale_colour_manual(
+    values = colour_values,
+    breaks = colour_breaks
+  ) +
+  scale_x_continuous(
+    labels = time_labels,
+    breaks = time_breaks,
+    expand = c(0, 0),
+    limits = time_limits,
+    minor_breaks = seq(0,3600, 300)
+  ) +
+  scale_y_discrete(labels = shifts_home_label,
+                   limits = shifts_home_order
+  ) +
+  theme_light() +
+  theme(
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor.y = element_blank(),
+    panel.grid.minor.x = element_line(colour = "grey88"),
+    legend.position = "none",
+    plot.margin = margin(5.5, 11, 5.5, 5.5, "pt"),
+    text = element_text(family = "Rubik"),
+    plot.title = element_markdown(),
+    plot.subtitle = element_markdown()) +
+  ggsave(paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_shifts",game_data$home_team,".pdf"), width = 8, height = 6, units = "in", dpi = 320)
+
+pdf_convert(pdf = paste0(here(), "/", game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_shifts",game_data$home_team,".pdf"),
+            filenames = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_shifts",game_data$home_team,".png"),
+            format = "png", dpi = 320)
+
+
+# shiftsAWAY
+ggplot(data = subset(shift_data, team == game_data$away_team), mapping = aes(
+  colour = team
+)) +
+  geom_segment(aes(
+    x = seconds_start, xend = seconds_end,
+    y = player, yend = player
+  ), size = 1.5) +
+  labs(
+    title = title_global,
+    subtitle = paste0("<b>", game_data$away_team, " all situations shift chart</b><br>Arranged by total skater time on ice, goaltenders listed last"),
+    caption = caption_global,
+    x = "Minutes elasped",
+    y = ""
+  ) +
+  scale_colour_manual(
+    values = colour_values,
+    breaks = colour_breaks
+  ) +
+  scale_x_continuous(
+    labels = time_labels,
+    breaks = time_breaks,
+    expand = c(0, 0),
+    limits = time_limits,
+    minor_breaks = seq(0,3600, 300)
+  ) +
+  scale_y_discrete(labels = shifts_away_label,
+                   limits = shifts_away_order
+  ) +
+  theme_light() +
+  theme(
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor.y = element_blank(),
+    panel.grid.minor.x = element_line(colour = "grey88"),
+    legend.position = "none",
+    plot.margin = margin(5.5, 11, 5.5, 5.5, "pt"),
+    text = element_text(family = "Rubik"),
+    plot.title = element_markdown(),
+    plot.subtitle = element_markdown()) +
+  ggsave(paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_shifts",game_data$away_team,".pdf"), width = 8, height = 6, units = "in", dpi = 320)
+
+pdf_convert(pdf = paste0(here(), "/", game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_shifts",game_data$away_team,".pdf"),
+            filenames = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_shifts",game_data$away_team,".png"),
+            format = "png", dpi = 320)
+
+# corsi_all_locations
+
+nhl_rink_plot() +
+  geom_point(data = corsi_all_locations, mapping = aes(x = coords_x, y = coords_y, colour = event_team, size = event_type, shape = event_type, alpha = event_type)) + # shape = event_detail
+  labs(
+    title = title_global,
+    subtitle = "**All situations unblocked shot attempt locations**",
+    caption = caption_global,
+    x = "",
+    y = ""
+  ) +
+  scale_colour_manual(
+    values = colour_values,
+    breaks = colour_breaks,
+    guide = "none"
+  ) +
+  scale_size_manual(
+    values = c(3, 2, 1),
+    breaks = c("GOAL", "SHOT", "MISS")
+  ) +
+  scale_shape_manual(
+    values = c(19, 18, 17),
+    breaks = c("GOAL", "SHOT", "MISS")
+  ) +
+  scale_alpha_manual(
+    values = c(1, 0.4, 0.4),
+    breaks = c("GOAL", "SHOT", "MISS")
+  ) +
+  # scale_shape_manual(
+  #   values = c(),
+  #   breaks = c("Snap", "Wrist", "Slap", "Backhand", "Tip-In", "Wraparound")
+  # ) +
+  theme_void() +
+  theme(
+    plot.margin = margin(0, 5.5, 0, 16.5, "pt"),
+    text = element_text(family = "Rubik"),
+    plot.title = element_markdown(),
+    plot.subtitle = element_markdown(),
+    legend.position = "top",
+    legend.title = element_blank()) +
+  ggsave(paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all_locations.pdf"), width = 8, height = 4.5, units = "in", dpi = 320)
+
+pdf_convert(pdf = paste0(here(), "/", game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all_locations.pdf"),
+            filenames = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_all_locations.png"),
+            format = "png", dpi = 320)
+
+# corsi_5v5_locations
+nhl_rink_plot() +
+  geom_point(data = corsi_5v5_locations, mapping = aes(x = coords_x, y = coords_y, colour = event_team, size = event_type, shape = event_type, alpha = event_type)) + # shape = event_detail
+  labs(
+    title = title_global,
+    subtitle = "**5v5 unblocked shot attempt locations**",
+    caption = caption_global,
+    x = "",
+    y = ""
+  ) +
+  scale_colour_manual(
+    values = colour_values,
+    breaks = colour_breaks,
+    guide = "none"
+  ) +
+  scale_size_manual(
+    values = c(3, 2, 1),
+    breaks = c("GOAL", "SHOT", "MISS")
+  ) +
+  scale_shape_manual(
+    values = c(19, 18, 17),
+    breaks = c("GOAL", "SHOT", "MISS")
+  ) +
+  scale_alpha_manual(
+    values = c(1, 0.4, 0.4),
+    breaks = c("GOAL", "SHOT", "MISS")
+  ) +
+  # scale_shape_manual(
+  #   values = c(),
+  #   breaks = c("Snap", "Wrist", "Slap", "Backhand", "Tip-In", "Wraparound")
+  # ) +
+  theme_void() +
+  theme(
+    plot.margin = margin(0, 5.5, 0, 16.5, "pt"),
+    text = element_text(family = "Rubik"),
+    plot.title = element_markdown(),
+    plot.subtitle = element_markdown(),
+    legend.position = "top",
+    legend.title = element_blank()) +
+  ggsave(paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_5v5_locations.pdf"), width = 8, height = 4.5, units = "in", dpi = 320)
+
+pdf_convert(pdf = paste0(here(), "/", game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_5v5_locations.pdf"),
+            filenames = paste0(game_data$game_date,"_",game_data$away_team,"at",game_data$home_team,"_corsi_5v5_locations.png"),
+            format = "png", dpi = 320)
