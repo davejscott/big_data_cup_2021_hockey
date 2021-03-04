@@ -1,24 +1,24 @@
 {
-    "id": "ECE95902",
-    "path": "G:/My Drive/The Win Column/01 Blogs/Bill Tran/01 TWC/20202021/GameRecaps/game_recap_viz.R",
-    "project_path": null,
+    "id": "F9150735",
+    "path": "~/GitHub/big_data_cup_2021_hockey/bdc_rink_plot.R",
+    "project_path": "bdc_rink_plot.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1543569640",
     "contents": "",
     "dirty": false,
-    "created": 1614231302662.0,
+    "created": 1614231606660.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "25,0",
+        "cursorPosition": "103,100",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1614223435,
+    "lastKnownWriteTime": 1614232820,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1614223435,
+    "last_content_update": 1614232820942,
     "read_only": false,
     "read_only_alternatives": []
 }
