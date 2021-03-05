@@ -1,266 +1,266 @@
-,0
-period,0.013808659792454723
-game_seconds,0.041099511847389046
-time_since_pass,0.02152675405905795
-home_team_goals,0.01954088081743434
-away_team_goals,0.015437723229478674
-pass_x,0.04342439189013765
-pass_y,0.03701897550811575
-rec_x,0.05058646691890633
-rec_y,0.03359555403472411
-shot_x,0.0582285845431
-shot_y,0.03667289472391944
-shot_traffic,0.03285151575437848
-shot_onetimer,0.006606956545192896
-pass_dist,0.039766169508470964
-pass_angle,0.04085008548158684
-shooter_dist,0.045864629700625686
-shot_dist,0.05536283326151737
-shot_angle,0.06366742795457213
-team-Boston Pride,0.006025829483552055
-team-Buffalo Beauts,0.004869492715499049
-team-Connecticut Whale,0.003757615076223971
-team-Metropolitan Riveters,0.003831782337645282
-team-Minnesota Whitecaps,0.004399390761765194
-team-Toronto Six,0.005482607261838604
-passer-Allie Olnowich,0.0
-passer-Allie Thunstrom,0.0007227427185391982
-passer-Alyson Matteau,0.0025630202991202156
-passer-Alyssa Wohlfeiler,0.0011740187197247184
-passer-Amanda Conway,0.00016479830621459978
-passer-Amy Curlew,0.0010177341051997664
-passer-Audra Richards,0.0004343626916469823
-passer-Autumn MacDougall,0.0017747244218906774
-passer-Breanne Wilson-Bennett,0.002330993243123905
-passer-Briana Mastel,2.9524396703687936e-05
-passer-Brittany Colton,0.00020221358796919996
-passer-Brooke Avery,0.00012655319516634398
-passer-Brooke Boquist,0.0030567019088692336
-passer-Brooke Stacey,0.0006290165619150344
-passer-Brooke White,5.64784053156146e-05
-passer-Carlee Turner,0.0011039530256982287
-passer-Cassidy MacPherson,0.0009111586848576525
-passer-Chelsey Brodt-Rosenthal,0.0004157888564879471
-passer-Christina Putigna,0.0015915745609773912
-passer-Dominique Kremer,0.00096532072966791
-passer-Elena Orlando,0.0
-passer-Emily Fluke,0.0004913007872189459
-passer-Emily Janiga,0.00020581121231282975
-passer-Emma Greco,0.00032788062860989516
-passer-Emma Stauber,0.0008652483967398351
-passer-Emma Vlasic,0.0025056918187674588
-passer-Emma Woods,0.0008090685776557015
-passer-Erin Gehen,0.0019210890231762992
-passer-Grace Klienbach,0.00045312322802388
-passer-Haley Mack,0.0022910951400145897
-passer-Hanna Beattie,0.00043712411802726315
-passer-Haylea Schmid,0.0005401052753407563
-passer-Hunter Accursi,0.00039457727666094623
-passer-Iveta Klimasova,0.00022388590503247304
-passer-Janine Weber,0.0008835479644933768
-passer-Jayne Lewis,0.0
-passer-Jenna Rheault,0.0008377105829735314
-passer-Jillian Dempsey,0.0016920409652925617
-passer-Jonna Curtis,0.0014971080344480777
-passer-Jordan Juron,0.0014404305071954971
-passer-Julie Allen,0.0005443617509194817
-passer-Kaleigh Fratkin,0.0017420807567818453
-passer-Kate Leary,0.002442943218691261
-passer-Katelynn Russ,0.00011645962899118825
-passer-Kaycie Anderson,0.001091881543058522
-passer-Kayla Friesen,0.0007580775211545794
-passer-Kayla Meneghin,0.00041158725985925135
-passer-Kelly Babstock,0.0015155541004931356
-passer-Kendall Cornine,0.0006869671107217229
-passer-Kiira Dosdall,0.000947108341727745
-passer-Kristen Barbara,0.0003881358990861067
-passer-Kristin Lewicki,0.0014373850252918207
-passer-Lauren Kelly,0.0015787421690840217
-passer-Leila Kilduff,0.00033004668065897506
-passer-Lenka Curmova,1.9523192992113287e-05
-passer-Lexie Laing,0.00041064685732650707
-passer-Lindsay Eastwood,0.0014049140341225196
-passer-Lisa Chesson,0.0
-passer-Mackenzie Lancaster,0.0003112865614631677
-passer-Mackenzie MacNeil,0.0005792871244887523
-passer-Maddie Bishop,0.0
-passer-Maddie Rowe,0.0010414495833166455
-passer-Madison Packer,0.0013137230415412337
-passer-Maggie LaGue,0.0005249800942730789
-passer-Mallory Rushton,0.0006127176960896554
-passer-Mallory Souliotis,0.0014866436659533456
-passer-Marie-Jo Pelletier,0.0006520307164629152
-passer-Mary Parker,0.00028574970598930116
-passer-McKenna Brand,0.0018942560493736072
-passer-Meaghan Pezon,0.0005731675348653787
-passer-Meaghan Rickard,9.741759457229131e-05
-passer-Megan Delay,0.0003820857374773114
-passer-Megan Quinn,0.0020081693283846287
-passer-Meghan Lorence,0.0010032460701216923
-passer-Meghara McManus,0.0005328603847261468
-passer-Mikyla Grant-Mentis,0.0024378684336663803
-passer-Natalie Marcuzzi,0.0005323191581168043
-passer-Neve Van Pelt,0.0005794106747404374
-passer-Nicole Guagliardo,0.0
-passer-Nina Rodgers,0.001139745512958007
-passer-Paige Capistran,0.0002604660750187812
-passer-Paige Voight,0.00025386382284057265
-passer-Rebecca Morse,0.0004606073457583803
-passer-Rebecca Russo,0.0017669925741147052
-passer-Samantha Davis,0.0022072845742773703
-passer-Sammy Kolowrat,0.00039214640665097484
-passer-Sara Bustad,2.6850386487622005e-05
-passer-Sarah Hughson,0.0
-passer-Sarah Schwenzfeier,0.0
-passer-Sarah Steele,0.0021416293813857463
-passer-Sarah-Eve Coutu Godbout,0.0020498608751025062
-passer-Saroya Tinker,0.0
-passer-Shannon Doyle,0.0004474438805596014
-passer-Shiann Darkangelo,0.0019352592493176643
-passer-Stephanie Anderson,0.0010122450077756076
-passer-Sydney Baldwin,0.00047819113346759547
-passer-Taylor Marchin,0.0003104762547967346
-passer-Taylor Turnquist,0.0024592909181776457
-passer-Taylor Wasylk,0.0007090945034401797
-passer-Taylor Wenczkowski,0.0009732045881970703
-passer-Taylor Woods,0.0016769194448747293
-passer-Taytum Clairmont,0.0007043752612200038
-passer-Tereza Vanisova,0.002215562078563145
-passer-Theresa Knutson,0.00035045857856510105
-passer-Tori Howran,0.0008362440014975521
-passer-Tori Sullivan,0.0014652825555256555
-passer-Whitney Dove,0.0005627475495529418
-passer-Winny Brodt-Brown,0.000829048039366959
-shooter-Allie Olnowich,0.0002588899424149846
-shooter-Allie Thunstrom,0.0009020223527531218
-shooter-Alyson Matteau,0.0008067974123662359
-shooter-Alyssa Wohlfeiler,0.0008854718337661555
-shooter-Amanda Conway,0.0005073038681073945
-shooter-Amy Curlew,0.000586003714909034
-shooter-Audra Richards,0.0005036703094116063
-shooter-Autumn MacDougall,0.0014139968949743132
-shooter-Breanne Wilson-Bennett,0.0017695025797946533
-shooter-Briana Mastel,0.0007455357598568263
-shooter-Brittany Colton,0.00035245358011399717
-shooter-Brooke Boquist,0.0015498909165828072
-shooter-Brooke Stacey,0.001717436725469316
-shooter-Cailey Hutchison,0.0003944464820887337
-shooter-Carlee Turner,0.0006673300348077663
-shooter-Cassidy MacPherson,0.0009855425907715292
-shooter-Chelsey Brodt-Rosenthal,0.0
-shooter-Christina Putigna,0.001603222714407609
-shooter-Dominique Kremer,0.0007080210118133038
-shooter-Elena Orlando,0.0
-shooter-Emily Fluke,0.0006434233779890592
-shooter-Emily Janiga,0.00032569631239342644
-shooter-Emma Greco,0.0018771864177771491
-shooter-Emma Stauber,0.00016447091223241553
-shooter-Emma Vlasic,0.0014337973681040079
-shooter-Emma Woods,0.002393009573828129
-shooter-Erin Gehen,0.0011472086091582965
-shooter-Grace Klienbach,0.00024222597025698757
-shooter-Haley Mack,0.00040754418532348055
-shooter-Hanna Beattie,0.0006105567470856719
-shooter-Haylea Schmid,0.00037860419310131385
-shooter-Hunter Accursi,0.00016510710962904424
-shooter-Iveta Klimasova,0.00031660157557336074
-shooter-Janine Weber,0.0008134631717343206
-shooter-Jayne Lewis,7.71142085150995e-05
-shooter-Jenna Rheault,0.00025153107477384075
-shooter-Jillian Dempsey,0.0008508813939512683
-shooter-Jonna Curtis,0.0017640455001250166
-shooter-Jordan Juron,0.00158965473263875
-shooter-Julie Allen,0.00023893256121605908
-shooter-Kaleigh Fratkin,0.0014501516393246009
-shooter-Kate Leary,0.0007504325942530993
-shooter-Katelynn Russ,0.0005870046050247959
-shooter-Kaycie Anderson,0.0007629956517181813
-shooter-Kayla Friesen,0.0018929703184080852
-shooter-Kelly Babstock,0.0009986879299440715
-shooter-Kendall Cornine,0.00037359090602702286
-shooter-Kiira Dosdall,0.0020801012109366106
-shooter-Kristen Barbara,0.0004333685333454435
-shooter-Kristin Lewicki,0.0023199364941851523
-shooter-Laurel Hill,0.0
-shooter-Lauren Kelly,0.002029922589366199
-shooter-Leila Kilduff,0.001190224066460182
-shooter-Lenka Curmova,0.0003688572766755443
-shooter-Lexie Laing,0.001143022552526765
-shooter-Lindsay Eastwood,0.0026707046656738727
-shooter-Lisa Chesson,0.000586120487414454
-shooter-Lynn Astrup,0.00034410287311093614
-shooter-Mackenzie Lancaster,0.00022043053330289517
-shooter-Mackenzie MacNeil,0.001177591872399932
-shooter-Maddie Bishop,0.0
-shooter-Maddie Rowe,0.0007017366261298006
-shooter-Madison Packer,0.002190515500505689
-shooter-Maggie LaGue,0.0007845864638642037
-shooter-Mallory Rushton,0.0008771622762389274
-shooter-Mallory Souliotis,0.0020416339805124127
-shooter-Marie-Jo Pelletier,1.5446035792312725e-05
-shooter-Mary Parker,0.0006703841187277346
-shooter-McKenna Brand,0.0025588483199332373
-shooter-Meaghan Pezon,0.00037949511208746836
-shooter-Meaghan Rickard,0.0010122810425156155
-shooter-Megan Delay,0.00021981486467334254
-shooter-Megan Quinn,0.00037056624859545506
-shooter-Meghan Lorence,0.0020066287818587573
-shooter-Meghara McManus,0.0008528706600090469
-shooter-Mikyla Grant-Mentis,0.002128543496838167
-shooter-Natalie Marcuzzi,0.0009355174979336324
-shooter-Neve Van Pelt,0.0005984674958469014
-shooter-Nicole Guagliardo,0.00033171738933271194
-shooter-Nina Rodgers,0.0010404978452198503
-shooter-Paige Capistran,0.0007161603725573709
-shooter-Paige Voight,0.00017833773596850506
-shooter-Rebecca Morse,0.0008347057107569485
-shooter-Rebecca Russo,0.00028789232652082274
-shooter-Samantha Davis,0.0016732102169681122
-shooter-Sammy Kolowrat,5.763281622012718e-05
-shooter-Sara Bustad,0.0002594381877642588
-shooter-Sarah Schwenzfeier,0.00023932760414007947
-shooter-Sarah Steele,0.0008326239122529885
-shooter-Sarah-Eve Coutu Godbout,0.002130114691652579
-shooter-Saroya Tinker,0.0004591562222686532
-shooter-Shannon Doyle,0.00048339412931483515
-shooter-Shiann Darkangelo,0.0017155046899387982
-shooter-Stephanie Anderson,0.0016347209119840968
-shooter-Sydney Baldwin,0.0024528192208680072
-shooter-Taylor Marchin,0.00021010227220862453
-shooter-Taylor Turnquist,0.003671039404991817
-shooter-Taylor Wasylk,0.0007920970922062024
-shooter-Taylor Wenczkowski,0.0013860008732426699
-shooter-Taylor Woods,0.0015127541823241528
-shooter-Taytum Clairmont,0.0018765263887865512
-shooter-Tereza Vanisova,0.00111985146318337
-shooter-Theresa Knutson,0.0004634619557175446
-shooter-Tori Howran,0.0009397686795280465
-shooter-Tori Sullivan,0.0014445689311952663
-shooter-Whitney Dove,0.0013630890987995964
-shooter-Winny Brodt-Brown,0.0
-shot_type-Deflection,0.0015720433907374168
-shot_type-Fan,0.007787465417015503
-shot_type-Slapshot,0.00539406316062175
-shot_type-Snapshot,0.008263240265207172
-shot_type-Wrap Around,0.0013848731092085931
-shot_type-Wristshot,0.007469401716437054
-game_state-4v3,0.0001881029663527379
-game_state-4v4,0.002385011594092674
-game_state-4v5,0.0009987774325410446
-game_state-5v3,0.001513298892693486
-game_state-5v4,0.008169816155985573
-game_state-5v5,0.0070799840863031
-game_state-6v4,0.00018166615583638905
-game_state-6v5,0.0005822268135111468
-home_team-Boston Pride,0.004494468507162117
-home_team-Buffalo Beauts,0.006194960561189077
-home_team-Connecticut Whale,0.005080667153248047
-home_team-Metropolitan Riveters,0.007069940699855164
-home_team-Minnesota Whitecaps,0.0035552944673792114
-home_team-Toronto Six,0.0056894709682370915
-away_team-Boston Pride,0.0070061230198718875
-away_team-Buffalo Beauts,0.004237648937771495
-away_team-Connecticut Whale,0.003944712959329501
-away_team-Metropolitan Riveters,0.0031595698360426263
-away_team-Minnesota Whitecaps,0.00623806038082395
-away_team-Toronto Six,0.006774662669921879
+feature,importance
+period,0.01380866
+game_seconds,0.041099512
+time_since_pass,0.021526754
+home_team_goals,0.019540881
+away_team_goals,0.015437723
+pass_x,0.043424392
+pass_y,0.037018976
+rec_x,0.050586467
+rec_y,0.033595554
+shot_x,0.058228585
+shot_y,0.036672895
+shot_traffic,0.032851516
+shot_onetimer,0.006606957
+pass_dist,0.03976617
+pass_angle,0.040850085
+shooter_dist,0.04586463
+shot_dist,0.055362833
+shot_angle,0.063667428
+team-Boston Pride,0.006025829
+team-Buffalo Beauts,0.004869493
+team-Connecticut Whale,0.003757615
+team-Metropolitan Riveters,0.003831782
+team-Minnesota Whitecaps,0.004399391
+team-Toronto Six,0.005482607
+passer-Allie Olnowich,0
+passer-Allie Thunstrom,0.000722743
+passer-Alyson Matteau,0.00256302
+passer-Alyssa Wohlfeiler,0.001174019
+passer-Amanda Conway,0.000164798
+passer-Amy Curlew,0.001017734
+passer-Audra Richards,0.000434363
+passer-Autumn MacDougall,0.001774724
+passer-Breanne Wilson-Bennett,0.002330993
+passer-Briana Mastel,2.95E-05
+passer-Brittany Colton,0.000202214
+passer-Brooke Avery,0.000126553
+passer-Brooke Boquist,0.003056702
+passer-Brooke Stacey,0.000629017
+passer-Brooke White,5.65E-05
+passer-Carlee Turner,0.001103953
+passer-Cassidy MacPherson,0.000911159
+passer-Chelsey Brodt-Rosenthal,0.000415789
+passer-Christina Putigna,0.001591575
+passer-Dominique Kremer,0.000965321
+passer-Elena Orlando,0
+passer-Emily Fluke,0.000491301
+passer-Emily Janiga,0.000205811
+passer-Emma Greco,0.000327881
+passer-Emma Stauber,0.000865248
+passer-Emma Vlasic,0.002505692
+passer-Emma Woods,0.000809069
+passer-Erin Gehen,0.001921089
+passer-Grace Klienbach,0.000453123
+passer-Haley Mack,0.002291095
+passer-Hanna Beattie,0.000437124
+passer-Haylea Schmid,0.000540105
+passer-Hunter Accursi,0.000394577
+passer-Iveta Klimasova,0.000223886
+passer-Janine Weber,0.000883548
+passer-Jayne Lewis,0
+passer-Jenna Rheault,0.000837711
+passer-Jillian Dempsey,0.001692041
+passer-Jonna Curtis,0.001497108
+passer-Jordan Juron,0.001440431
+passer-Julie Allen,0.000544362
+passer-Kaleigh Fratkin,0.001742081
+passer-Kate Leary,0.002442943
+passer-Katelynn Russ,0.00011646
+passer-Kaycie Anderson,0.001091882
+passer-Kayla Friesen,0.000758078
+passer-Kayla Meneghin,0.000411587
+passer-Kelly Babstock,0.001515554
+passer-Kendall Cornine,0.000686967
+passer-Kiira Dosdall,0.000947108
+passer-Kristen Barbara,0.000388136
+passer-Kristin Lewicki,0.001437385
+passer-Lauren Kelly,0.001578742
+passer-Leila Kilduff,0.000330047
+passer-Lenka Curmova,1.95E-05
+passer-Lexie Laing,0.000410647
+passer-Lindsay Eastwood,0.001404914
+passer-Lisa Chesson,0
+passer-Mackenzie Lancaster,0.000311287
+passer-Mackenzie MacNeil,0.000579287
+passer-Maddie Bishop,0
+passer-Maddie Rowe,0.00104145
+passer-Madison Packer,0.001313723
+passer-Maggie LaGue,0.00052498
+passer-Mallory Rushton,0.000612718
+passer-Mallory Souliotis,0.001486644
+passer-Marie-Jo Pelletier,0.000652031
+passer-Mary Parker,0.00028575
+passer-McKenna Brand,0.001894256
+passer-Meaghan Pezon,0.000573168
+passer-Meaghan Rickard,9.74E-05
+passer-Megan Delay,0.000382086
+passer-Megan Quinn,0.002008169
+passer-Meghan Lorence,0.001003246
+passer-Meghara McManus,0.00053286
+passer-Mikyla Grant-Mentis,0.002437868
+passer-Natalie Marcuzzi,0.000532319
+passer-Neve Van Pelt,0.000579411
+passer-Nicole Guagliardo,0
+passer-Nina Rodgers,0.001139746
+passer-Paige Capistran,0.000260466
+passer-Paige Voight,0.000253864
+passer-Rebecca Morse,0.000460607
+passer-Rebecca Russo,0.001766993
+passer-Samantha Davis,0.002207285
+passer-Sammy Kolowrat,0.000392146
+passer-Sara Bustad,2.69E-05
+passer-Sarah Hughson,0
+passer-Sarah Schwenzfeier,0
+passer-Sarah Steele,0.002141629
+passer-Sarah-Eve Coutu Godbout,0.002049861
+passer-Saroya Tinker,0
+passer-Shannon Doyle,0.000447444
+passer-Shiann Darkangelo,0.001935259
+passer-Stephanie Anderson,0.001012245
+passer-Sydney Baldwin,0.000478191
+passer-Taylor Marchin,0.000310476
+passer-Taylor Turnquist,0.002459291
+passer-Taylor Wasylk,0.000709095
+passer-Taylor Wenczkowski,0.000973205
+passer-Taylor Woods,0.001676919
+passer-Taytum Clairmont,0.000704375
+passer-Tereza Vanisova,0.002215562
+passer-Theresa Knutson,0.000350459
+passer-Tori Howran,0.000836244
+passer-Tori Sullivan,0.001465283
+passer-Whitney Dove,0.000562748
+passer-Winny Brodt-Brown,0.000829048
+shooter-Allie Olnowich,0.00025889
+shooter-Allie Thunstrom,0.000902022
+shooter-Alyson Matteau,0.000806797
+shooter-Alyssa Wohlfeiler,0.000885472
+shooter-Amanda Conway,0.000507304
+shooter-Amy Curlew,0.000586004
+shooter-Audra Richards,0.00050367
+shooter-Autumn MacDougall,0.001413997
+shooter-Breanne Wilson-Bennett,0.001769503
+shooter-Briana Mastel,0.000745536
+shooter-Brittany Colton,0.000352454
+shooter-Brooke Boquist,0.001549891
+shooter-Brooke Stacey,0.001717437
+shooter-Cailey Hutchison,0.000394446
+shooter-Carlee Turner,0.00066733
+shooter-Cassidy MacPherson,0.000985543
+shooter-Chelsey Brodt-Rosenthal,0
+shooter-Christina Putigna,0.001603223
+shooter-Dominique Kremer,0.000708021
+shooter-Elena Orlando,0
+shooter-Emily Fluke,0.000643423
+shooter-Emily Janiga,0.000325696
+shooter-Emma Greco,0.001877186
+shooter-Emma Stauber,0.000164471
+shooter-Emma Vlasic,0.001433797
+shooter-Emma Woods,0.00239301
+shooter-Erin Gehen,0.001147209
+shooter-Grace Klienbach,0.000242226
+shooter-Haley Mack,0.000407544
+shooter-Hanna Beattie,0.000610557
+shooter-Haylea Schmid,0.000378604
+shooter-Hunter Accursi,0.000165107
+shooter-Iveta Klimasova,0.000316602
+shooter-Janine Weber,0.000813463
+shooter-Jayne Lewis,7.71E-05
+shooter-Jenna Rheault,0.000251531
+shooter-Jillian Dempsey,0.000850881
+shooter-Jonna Curtis,0.001764046
+shooter-Jordan Juron,0.001589655
+shooter-Julie Allen,0.000238933
+shooter-Kaleigh Fratkin,0.001450152
+shooter-Kate Leary,0.000750433
+shooter-Katelynn Russ,0.000587005
+shooter-Kaycie Anderson,0.000762996
+shooter-Kayla Friesen,0.00189297
+shooter-Kelly Babstock,0.000998688
+shooter-Kendall Cornine,0.000373591
+shooter-Kiira Dosdall,0.002080101
+shooter-Kristen Barbara,0.000433369
+shooter-Kristin Lewicki,0.002319936
+shooter-Laurel Hill,0
+shooter-Lauren Kelly,0.002029923
+shooter-Leila Kilduff,0.001190224
+shooter-Lenka Curmova,0.000368857
+shooter-Lexie Laing,0.001143023
+shooter-Lindsay Eastwood,0.002670705
+shooter-Lisa Chesson,0.00058612
+shooter-Lynn Astrup,0.000344103
+shooter-Mackenzie Lancaster,0.000220431
+shooter-Mackenzie MacNeil,0.001177592
+shooter-Maddie Bishop,0
+shooter-Maddie Rowe,0.000701737
+shooter-Madison Packer,0.002190516
+shooter-Maggie LaGue,0.000784586
+shooter-Mallory Rushton,0.000877162
+shooter-Mallory Souliotis,0.002041634
+shooter-Marie-Jo Pelletier,1.54E-05
+shooter-Mary Parker,0.000670384
+shooter-McKenna Brand,0.002558848
+shooter-Meaghan Pezon,0.000379495
+shooter-Meaghan Rickard,0.001012281
+shooter-Megan Delay,0.000219815
+shooter-Megan Quinn,0.000370566
+shooter-Meghan Lorence,0.002006629
+shooter-Meghara McManus,0.000852871
+shooter-Mikyla Grant-Mentis,0.002128543
+shooter-Natalie Marcuzzi,0.000935517
+shooter-Neve Van Pelt,0.000598467
+shooter-Nicole Guagliardo,0.000331717
+shooter-Nina Rodgers,0.001040498
+shooter-Paige Capistran,0.00071616
+shooter-Paige Voight,0.000178338
+shooter-Rebecca Morse,0.000834706
+shooter-Rebecca Russo,0.000287892
+shooter-Samantha Davis,0.00167321
+shooter-Sammy Kolowrat,5.76E-05
+shooter-Sara Bustad,0.000259438
+shooter-Sarah Schwenzfeier,0.000239328
+shooter-Sarah Steele,0.000832624
+shooter-Sarah-Eve Coutu Godbout,0.002130115
+shooter-Saroya Tinker,0.000459156
+shooter-Shannon Doyle,0.000483394
+shooter-Shiann Darkangelo,0.001715505
+shooter-Stephanie Anderson,0.001634721
+shooter-Sydney Baldwin,0.002452819
+shooter-Taylor Marchin,0.000210102
+shooter-Taylor Turnquist,0.003671039
+shooter-Taylor Wasylk,0.000792097
+shooter-Taylor Wenczkowski,0.001386001
+shooter-Taylor Woods,0.001512754
+shooter-Taytum Clairmont,0.001876526
+shooter-Tereza Vanisova,0.001119851
+shooter-Theresa Knutson,0.000463462
+shooter-Tori Howran,0.000939769
+shooter-Tori Sullivan,0.001444569
+shooter-Whitney Dove,0.001363089
+shooter-Winny Brodt-Brown,0
+shot_type-Deflection,0.001572043
+shot_type-Fan,0.007787465
+shot_type-Slapshot,0.005394063
+shot_type-Snapshot,0.00826324
+shot_type-Wrap Around,0.001384873
+shot_type-Wristshot,0.007469402
+game_state-4v3,0.000188103
+game_state-4v4,0.002385012
+game_state-4v5,0.000998777
+game_state-5v3,0.001513299
+game_state-5v4,0.008169816
+game_state-5v5,0.007079984
+game_state-6v4,0.000181666
+game_state-6v5,0.000582227
+home_team-Boston Pride,0.004494469
+home_team-Buffalo Beauts,0.006194961
+home_team-Connecticut Whale,0.005080667
+home_team-Metropolitan Riveters,0.007069941
+home_team-Minnesota Whitecaps,0.003555294
+home_team-Toronto Six,0.005689471
+away_team-Boston Pride,0.007006123
+away_team-Buffalo Beauts,0.004237649
+away_team-Connecticut Whale,0.003944713
+away_team-Metropolitan Riveters,0.00315957
+away_team-Minnesota Whitecaps,0.00623806
+away_team-Toronto Six,0.006774663

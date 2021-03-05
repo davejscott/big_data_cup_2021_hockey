@@ -68,7 +68,7 @@ data <- data_nwhl %>%
     shot_from_pass, pass_to_shot
   )) %>%
   rename(time_since_pass = time_btw_events) %>% 
-  relocate(shooter, .after = passer)# %>%
+  relocate(shooter, .after = passer) #%>%
 
 
 # ggplot(data = filter(histo_data, team == "Boston Pride"),
@@ -87,14 +87,14 @@ data <- data_nwhl %>%
 # filter(game_date == "2021-01-23")
 
 filter(
-  # passer == "Shiann Darkangelo",
-  # shooter == "Jillian Dempsey",
+  # passer == "Brooke Boquist",
+  shooter == "Taylor Turnquist",
   # shot_type == "Fan",
   # team == "Toronto Six",
   # game_state == "5v3"
   # time_since_pass <= 3,
   # shot_outcome %in% c("On Net", "Missed"),
-  shot_onetimer == FALSE
+  # shot_onetimer == FALSE
 )
 
 # ggplot(data = data,
@@ -133,24 +133,25 @@ filter(
 #   theme_classic()
 
 bdc_rink_plot() +
-  # geom_segment(data = data,
-  #              aes(x = pass_x, y = pass_y, xend = rec_x, yend = rec_y),
-  #              arrow = arrow(length = unit(0.3, "cm"))
-  # ) +
-  # geom_segment(data = data,
-  #              aes(x = rec_x, y = rec_y, xend = shot_x, yend = shot_y),
-  #              # arrow = arrow(length = unit(0.3, "cm")),
-  #              linetype = "dashed"
-  # ) +
+  geom_segment(data = data,
+               aes(x = pass_x, y = pass_y, xend = rec_x, yend = rec_y),
+               arrow = arrow(length = unit(0.3, "cm"))
+  ) +
+  geom_segment(data = data,
+               aes(x = rec_x, y = rec_y, xend = shot_x, yend = shot_y),
+               # arrow = arrow(length = unit(0.3, "cm")),
+               linetype = "dashed"
+  ) +
   geom_point(data = data,
              aes(x = shot_x,
                  y = shot_y,
-                 colour = period,
-                 shape = shot_type),
+                 colour = shot_outcome,
+                 # shape = shot_type,
+                 ),
              size = 4) +
   # geom_density_2d() +
   labs(
-    # title = paste0("Direct passes from ", data$passer),
+    # title = paste0("Direct passes from ", data$passer, " (", data$team, ") that lead to shot attempts"),
     title = paste0("Shots by ", data$shooter, " (", data$team, ") originating from direct passes"),
     # title = paste0("Direct ", data$team, " passes leading to ", tolower(data$shot_type), "s, taken within 1 sec of receiving a pass"),
     # title = paste0("All shots taken at ", data$game_state),
@@ -171,7 +172,8 @@ bdc_rink_plot() +
     # plot.title = element_markdown(),
     # plot.subtitle = element_markdown(),
     legend.position = "top",
-    legend.title = element_blank())
+    legend.title = element_blank()) +
+  ggsave("shooter_turnquist.pdf", width = 8, height = 4, units = "in", dpi = 320)
 
 bdc_rink_plot() +
   geom_point(data = data,
@@ -201,25 +203,26 @@ bdc_rink_plot() +
 
 viz_data <- data %>% 
   select(-game_date) %>% 
-  mutate(shot_ongoal = ifelse(shot_outcome %in% c("On Net", "Goal"), TRUE, FALSE))
+  mutate(shot_ongoal = ifelse(shot_outcome %in% c("On Net", "Goal"), TRUE, FALSE)) %>% 
 
-ggplot(data = viz_data,
-       mapping = aes(x = pass_angle, fill = shot_ongoal)) +
-  geom_histogram(position = "identity", binwidth = 30, alpha = 0.5) +
-  scale_fill_manual(values = c("#008080", "#ca562c"),
-                    breaks = c("TRUE", "FALSE")) +
-  theme_minimal() +
-  theme(legend.position = "none")
+# ggplot(data = viz_data,
+#        mapping = aes(x = game_seconds, fill = shot_ongoal)) +
+#   # geom_histogram(position = "identity", binwidth = 300, alpha = 0.5) +
+#   geom_density(alpha = 0.5) +
+#   scale_fill_manual(values = c("#008080", "#ca562c"),
+#                     breaks = c("TRUE", "FALSE")) +
+#   theme_minimal() +
+#   theme(legend.position = "none")
 
 filter(
-  # passer == "Shiann Darkangelo",
-  # shooter == "Jillian Dempsey",
+  # passer == "Brooke Boquist",
+  shooter == "Taylor Turnquist",
   # shot_type == "Fan",
   # team == "Toronto Six",
   # game_state == "5v3"
   # time_since_pass <= 3,
   # shot_outcome %in% c("On Net", "Missed"),
-  shot_onetimer == FALSE
+  # shot_onetimer == FALSE
 )
 
 # pass_origins
@@ -289,6 +292,52 @@ bdc_rink_plot() +
 pdf_convert(pdf = paste0(here(), "/shot_origins.pdf"),
             filenames = "shot_origins.png",
             format = "png", dpi = 320)
+
+bdc_rink_plot() +
+  geom_segment(data = viz_data,
+               aes(x = pass_x, y = pass_y, xend = rec_x, yend = rec_y),
+               arrow = arrow(length = unit(0.3, "cm"))
+  ) +
+  geom_segment(data = viz_data,
+               aes(x = rec_x, y = rec_y, xend = shot_x, yend = shot_y),
+               # arrow = arrow(length = unit(0.3, "cm")),
+               linetype = "dashed"
+  ) +
+  geom_point(data = viz_data,
+             aes(x = shot_x,
+                 y = shot_y,
+                 colour = shot_ongoal,
+                 # shape = shot_type,
+             ),
+             size = 4,
+             shape = 17) +
+  scale_colour_manual(values = c("#008080", "#ca562c"),
+                      breaks = c("TRUE", "FALSE")) +
+  labs(
+    # title = paste0("Direct passes from ", viz_data$passer, " (", viz_data$team, ") that lead to successful or unsuccessful shot attempts"),
+    title = paste0("Shots by ", viz_data$shooter, " (", viz_data$team, ") originating from direct passes"),
+    # title = paste0("Direct ", viz_data$team, " passes leading to ", tolower(viz_data$shot_type), "s, taken within 1 sec of receiving a pass"),
+    # title = paste0("All shots taken at ", viz_data$game_state),
+    subtitle = paste0("Arrows show pass distance and direction,",
+                      "\ndashed lines show displacement of skater before shot,",
+                      "\nand coloured dots show shot location and outcome\n"),
+    x = "",
+    y = ""
+  ) +
+  lims(
+    x = c(0, 200),
+    y = c(0, 85)
+  ) +
+  theme_void() +
+  theme(
+    plot.margin = margin(0, 5.5, 0, 16.5, "pt"),
+    # text = element_text(family = "Rubik"),
+    # plot.title = element_markdown(),
+    # plot.subtitle = element_markdown(),
+    legend.position = "none",
+    legend.title = element_blank()) +
+  ggsave("shooter_turnquist.pdf", width = 12, height = 6, units = "in", dpi = 320)
+
 
 # write_csv(data, "data_2020-02-24.csv")
 
