@@ -1,0 +1,25 @@
+{
+    "id": "ACACF507",
+    "path": "~/GitHub/big_data_cup_2021_hockey/feature_importance_plots.R",
+    "project_path": "feature_importance_plots.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1614912312670.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "8,12",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614915932,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614915932451,
+    "read_only": false,
+    "read_only_alternatives": []
+}
